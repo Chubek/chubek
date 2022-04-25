@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in school because we moved around a lot. I have studied English Literature, French Literautre, and Compute Science in college. I also studied screenwriting but for only one session, my classmates ran me out of the class after I recommend our professor to have everyone watch "The Dog Massacre", a great movie I had watched as a kid. Well, their loss!
+Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in school because we moved around a lot. I have studied English Literature, French Literautre, and Compute Science in college. 
 
 I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it. After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
