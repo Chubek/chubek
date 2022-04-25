@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in school because we moved around a lot. I have studied English Literature, French Literautre, and Compute Science in college. 
+Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in school because we moved around a lot. I have studied English Literature, French Literautre, and Computer Science in college. 
 
-I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it. After that I learned PHP, Perl, Python, and the C#. My current stack is:
+I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it (I lost the source but exectuable can be found [here](https://host-a.net/f/61980-tetroricazip). After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
 * Rust: The language I am most infatuated with, but I seldom find work in. I used to use it in Cherry though.
 * Go: My second most-favorite language. I love it.
