@@ -1,6 +1,6 @@
 # Chubak Bidpaa: Leave the Coding to Me!
 
-## Introcution
+## Introduction
 
 Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in school because we moved around a lot. I have studied English Literature, French Literautre, and Compute Science in college. I also studied screenwriting but for only one session, my classmates ran me out of the class after I recommend our professor to have everyone watch "The Dog Massacre", a great movie I had watched as a kid. Well, their loss!
 
