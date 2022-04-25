@@ -55,7 +55,6 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * Twitter -> @gvlside
 * Discord -> Chubak#7400
 * Telegram -> @bidpaafx
-* WhatsApp -> +989385130604
 * Email -> chubakbidpaa@gmail.com
 
 
