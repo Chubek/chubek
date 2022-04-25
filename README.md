@@ -15,7 +15,7 @@ I got enough CS education at college but college was not my introduction to prog
 
 I enjoy doing systems programming, especially systems automation, web automation, machine learning, deep learning and general programming. If you give me a project and tell me "DO IT!" I will find a way to do it. 
 
-I am a somehow-freelancer somehow-employee somehow-contractor with my friend Felix Quinque. I also work with Mr. Herman Jacons at Cherry. I sometimes collab on projects with my friend Tanami Muller.
+I am a somehow-freelancer somehow-employee somehow-contractor with my friend Felix Quinque. I also work with Mr. Herman Jacobs at Cherry. I sometimes collab on projects with my friend Tanami Muller.
 
 Over the years I have racked up a cute sum of projects. Let me run you through some of them.
 
