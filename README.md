@@ -6,12 +6,12 @@ Hi! My name is Chubak Bidpaa. I have recently re-discovered my life for gaming. 
 
 I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it. After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
-* Rust: My go-to gal
-* Go: My side gal
-* Python: My wife that I hate
-* JS: My sister
-* Kotlin: My cousin that I don't talk to often
-* Nim: The young ditzy girl in my life that I so wanna go with but she's just not ready.
+* Rust: The language I am most infatuated with, but I seldom find work in. I used to use it in Cherry though.
+* Go: My second most-favorite language. I love it.
+* Python: I like Python but it's slow and resource-intensive! However, it's the language I know best.
+* JS: I use it often for web projects.
+* Kotlin: I have never finished a project in it, but I like it and know it.
+* Nim: It's my third most favorite langauge. However, I do not like how experimental and new it is. It's almost raw!
 
 I enjoy doing systems programming, especially systems automation, web automation, machine learning, deep learning and general programming. If you give me a project and tell me "DO IT!" I will find a way to do it. 
 
