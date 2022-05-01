@@ -48,6 +48,10 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator) -> A Typescript NPM package that encrypts MongoDB database content. 
 
 
+### Projects I Contribute to
+* [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) for my work in Cherry.
+
+
 ## Sites and Social Media
 
 * Website -> https://chubakbidpaa.com
