@@ -6,7 +6,7 @@ Hi! My name is Chubak Bidpaa. I have recently re-discovered my love for gaming. 
 
 I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it (I lost the source but exectuable can be found [here](https://host-a.net/f/61980-tetroricazip). After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
-* Rust: The language I am most infatuated with, but I seldom find work in. I used to use it in Cherry though.
+* Rust: The language I am most infatuated with, but I seldom find work in. I use it in Cherry though. The entire codebase in Rust and I LOVE it!
 * Go: My second most-favorite language. I love it.
 * Python: I like Python but it's slow and resource-intensive! However, it's the language I know best.
 * JS: I use it often for web projects.
