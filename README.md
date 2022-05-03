@@ -21,7 +21,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 
 ## Projects
 
-### Machine Learning
+### Machine Learning, Auditory and Vision
 
 * [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> Despite the lame pun, this is a very intricate face recognition API. It's in Python so it's not very fast. In the recent months I have decided to do less and less projects in Python because of how slow and inefficient it is. But if you are going to give me a job in Python I will do it. I especially like training using Python and predictiing and doing the MLOps in Rust or Go.
 * [WillSh3B33](https://github.com/Chubek/will-sh3-b33) -> Basically a backend and a frontend for a model I made. This shows my skills in MLOps. The model itself, it's not very strong but I have learend a lot about training and structuring models since then.
@@ -29,6 +29,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [SongOfSprockets](https://github.com/Chubek/SongOfTheSprockets) -> A voice conversion tool using GMM, a fork of Sprocker-VC with a UI using Dear Imgui.
 * [ClickBait Generator](https://github.com/Chubek/clickbait-generator) -> A very simple clickbait generator project.
 * [pyramid-anomyaly-detection](https://github.com/Chubek/pyramid-anomally-detection) -> Anomaly detection in Python that makes heavy use of vectorization.
+* [opencv-intredit](https://github.com/Chubek/opencv-intredit)) -> Intredit sign detection in OpenCV.
 
 ### Automation (System & Web)
 * [Upsc3ne](https://github.com/Chubek/upsc3ne) -> An obscenity detector written in Rust. It's kinda incomplete but already contains implementation for Levenshtein distance and fuzzy string matching.
