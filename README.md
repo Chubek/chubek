@@ -15,7 +15,7 @@ I got enough CS education at college but college was not my introduction to prog
 
 I enjoy doing systems programming, especially systems automation, web automation, machine learning, deep learning and general programming. If you give me a project and tell me "DO IT!" I will find a way to do it. 
 
-I am a somehow-freelancer somehow-employee somehow-contractor with my friend Felix Quinque. I also work with Mr. Herman Jacobs at Cherry. I sometimes collab on projects with my friend Tanami Muller.
+I am a somehow-freelancer somehow-employee somehow-contractor with my friend Felix Quinque. I also work with Mr. Herman Jacobs at Cherry. I sometimes collab on projects with my friend Tanami Muller. I also do projects with my friend Emil who is a neuroscientist. 
 
 Over the years I have racked up a cute sum of projects. Let me run you through some of them.
 
@@ -29,7 +29,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [SongOfSprockets](https://github.com/Chubek/SongOfTheSprockets) -> A voice conversion tool using GMM, a fork of Sprocker-VC with a UI using Dear Imgui.
 * [ClickBait Generator](https://github.com/Chubek/clickbait-generator) -> A very simple clickbait generator project.
 * [pyramid-anomyaly-detection](https://github.com/Chubek/pyramid-anomally-detection) -> Anomaly detection in Python that makes heavy use of vectorization.
-* [intresignia](https://github.com/Chubek/intresignia) -> Intredit sign detection in OpenCV.
+* [intresignia](https://github.com/Chubek/intresignia) -> Intredit sign detection in OpenCV. Project for Emil.
 
 ### Automation (System & Web)
 * [Upsc3ne](https://github.com/Chubek/upsc3ne) -> An obscenity detector written in Rust. It's kinda incomplete but already contains implementation for Levenshtein distance and fuzzy string matching.
