@@ -36,6 +36,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [mathcord](https://github.com/Chubek/mathcord) -> My pride and joy. A Discord math bot that includes CUSTOM implementation of Edwards-25519, SHA-512, Shunting Yard and communication with Discord API.
 * [potpourri](https://github.com/Chubek/potpourri) -> A webscraper library for Python. Can search Google too. Can do a lot of stuff.
 * [CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo) -> A cron job automator written entirely in Go. Right now it only does SQL queries/commands.
+* [rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm) -> A bot library in Rust. It's in a presentable stage.
 
 ### Graphics Programming and Gaming
 
