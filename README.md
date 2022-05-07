@@ -29,7 +29,6 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [SongOfSprockets](https://github.com/Chubek/SongOfTheSprockets) -> A voice conversion tool using GMM, a fork of Sprocker-VC with a UI using Dear Imgui.
 * [ClickBait Generator](https://github.com/Chubek/clickbait-generator) -> A very simple clickbait generator project.
 * [pyramid-anomyaly-detection](https://github.com/Chubek/pyramid-anomally-detection) -> Anomaly detection in Python that makes heavy use of vectorization.
-* [intresignia](https://github.com/Chubek/intresignia) -> Intredit sign detection in OpenCV. Project for Emil.
 
 ### Automation (System & Web)
 * [Upsc3ne](https://github.com/Chubek/upsc3ne) -> An obscenity detector written in Rust. It's kinda incomplete but already contains implementation for Levenshtein distance and fuzzy string matching.
