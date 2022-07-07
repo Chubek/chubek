@@ -39,7 +39,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm) -> Intricate bot project.
 
 ### Graphics Programming and Gaming
-* [/Expelligraphicus](https://github.com/Chubek/Expelligraphicus) -> Software rasterizer [WIP]
+* [Expelligraphicus](https://github.com/Chubek/Expelligraphicus) -> Software rasterizer [WIP]
 * [Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus) -> Oh BOY I love this one! A pretty solid After Effects plugin that generates noise using OpenGL and GLSL. I think it's one of the few FOSS After Effects plugisn out there. 
 * [Rusty Random Pattern Generator](https://github.com/Chubek/rusty-random-pattern-generator) -> A simple pattern generator in Rust.
 * [Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim) -> This is a composite of ML and Game Dev. It uses Reinforcement learning to play Pong. Written in Nim using SDL.
