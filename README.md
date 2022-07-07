@@ -52,6 +52,7 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol) -> A protocol in the application layer of OSI.
 * [hmac-tree](https://github.com/chubek/hmac-tree) -> Merkle Trees, but with HMAC! Also contains the implementation of SHA-512 and HMAC besdies MT.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementatin in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
+* [Peerage](https://github.com/Chubek/Peerage) -> NOTE: Peerage is still EXTREMELY WIP! But I see a good future for it. Basically, it's a P2P network  that relies on only a few utility libraries. I plan on writing everything myself. And I have already put a lot of work on it. I consider Peerage to be more of an experiment than a project.
 
 ### Math
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
