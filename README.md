@@ -6,7 +6,7 @@ Hi! My name is Chubak Bidpaa. I have recently re-discovered my love for gaming. 
 
 I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it (I lost the source but exectuable can be found [here](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) ). After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
-* Rust: My main language. I am writing Peerage in it! I enjoy Rust a lot.
+* Rust: My main language. I am writing [Peerage](https://github.com/Chubek/Peerage) in it! I enjoy Rust a lot.
 * Go: My second most-favorite language. I love it.
 * Python: I like Python but it's slow and resource-intensive! However, it's the language I know best (of course these days I know Rust at the same level as I know Python).
 * JS: I use it often for web projects.
