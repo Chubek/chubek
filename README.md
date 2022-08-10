@@ -6,7 +6,7 @@ Hi! My name is Chubak Bidpaa. I have recently re-discovered my love for gaming. 
 
 I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it (I lost the source but exectuable can be found [here](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) ). After that I learned PHP, Perl, Python, and the C#. My current stack is:
 
-* Rust: My main language. I am writing [Peerage](https://github.com/Chubek/Peerage) in it! I enjoy Rust a lot.
+* Rust: My main language.  I enjoy Rust a lot.
 * Go: My second most-favorite language. I love it.
 * Python: I like Python but it's slow and resource-intensive! However, it's the language I know best (of course these days I know Rust at the same level as I know Python).
 * JS: I use it often for web projects.
@@ -52,7 +52,6 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol) -> A protocol in the application layer of OSI.
 * [hmac-tree](https://github.com/chubek/hmac-tree) -> Merkle Trees, but with HMAC! Also contains the implementation of SHA-512 and HMAC besdies MT.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementatin in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
-* [Peerage](https://github.com/Chubek/Peerage) -> NOTE: Peerage is still EXTREMELY WIP! But I see a good future for it. Basically, it's a P2P network  that relies on only a few utility libraries. I plan on writing everything myself. And I have already put a lot of work on it. I consider Peerage to be culmination of all 13 years of my programming.
 
 ### Math
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
