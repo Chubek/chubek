@@ -1,4 +1,4 @@
-# Chubak Bidpaa: Leave the Coding to Me!
+# Chubak Bidpaa: J'espre
 
 ## Introduction
 
@@ -52,9 +52,13 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol) -> A protocol in the application layer of OSI.
 * [hmac-tree](https://github.com/chubek/hmac-tree) -> Merkle Trees, but with HMAC! Also contains the implementation of SHA-512 and HMAC besdies MT.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementatin in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
+* [FourChidori](git@github.com:Chubek/FourChidori) -> A browser extension for 4chan.
 
 ### Math
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
+
+### Bioinformatics
+* [ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator) -> Translating Amino Acid PEPs to Dash-Aligned Codons.
 
 ### Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
