@@ -70,7 +70,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 ## Sites and Social Media
 
 * Website -> https://chubakbidpaa.com
-* Resume & Portfolio -> https://chubakbidpaa.com/resume
+* Resume & Portfolio -> https://chubakbidpaa.com/resume (*extremely outdated*)
 * Twitter -> @gvlside
 * Discord -> Chubak#7400
 * Telegram -> @bidpaafx
