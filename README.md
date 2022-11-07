@@ -2,23 +2,24 @@
 
 ## Introduction
 
-Hi! My name is Chubak Bidpaa. I was born in March 12, 1993 (Esfand 21, 1371). I attended over 6 schools during my time in the lower education because we moved around a lot. I have studied English Literature, French Literautre, and Computer Science in college. 
+Good day and thank you for opening my Github profile. The document you're seeing before you serves as an introduction to my skills and body of personal projejects that I have done over the years.
 
-I got enough CS education at college but college was not my introduction to programming. In fact, I started learning how to program at the young age of 16. The first language I programmed with was GML. I made a Tetris game with it (I lost the source but exectuable can be found [here](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) ). After that I learned C, PHP, Perl, Python, and the C#. My current stack is:
+A bit about me, I was born in Match 12th, 1993 --- When I was 10, I wanted to be an animator and work for Disney but it proved difficult as family issues piled up --- and when I got my first PC at 12, it did not take long to realize I want to be a software coder. At 16 I thought myself GML and made  [this](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) absolute unit of a game. From there on I marched with the progress of programming technology. I used to code PHP in Notepad++ on Windows and now I code Rust, Go, and C in VSCode on Linux. Besidesa PHP there are several other technologies that I have dropped in favor of better alternatives, chiefly, C# and Java. I have studied Computer Science in college for sometime. I mostly do systems, utilties, network and scripting.
 
-* Rust: My main language.  I enjoy Rust a lot.
-* Go: My second most-favorite language. I love it.
-* Python: I like Python but it's slow and resource-intensive! However, it's the language I know best (of course these days I know Rust at the same level as I know Python).
-* C: I use it alongside with CFFI mostly. But as I'm writing this I'm planning on something special to write in C both to boost up my skills in it and also for it to serve a very specific purpose.
-* JS: I use it often for web projects.
-* Kotlin: I have never finished a project in it, but I like it and know it.
-* Nim: It's my third most favorite langauge. However, I do not like how experimental and new it is. It's almost raw!
+## Stack
 
-I enjoy doing systems programming, especially systems automation, web automation, machine learning, deep learning and general programming. If you give me a project and tell me "DO IT!" I will find a way to do it. 
+* Rust: I use Rust for most of my system, automation, utilities, etc. Although not as perofrmant as C and initially dodgy, Rust now has proven to be a darling. Especially for using it alongside Python using PyO3.
+* Go: Using Go for network stuff will take hours off your workload. Go can also be used for simple REPL or terminal utilities. C walks the line between being a scripting language and a systems language and that's surprisingly not a weakness.
+* Python: Python handles itself well when you're dealing with large data files, scientific tasks especially, but I can't accept Python in a Pythonic form due to its lack of speed. I will always optimize the Python code first before resorting to using C or Rust as FFI. But alas it often happens that speeding up Python is harder than milking a dead heifer.
+* C: I use C only when I need speed and optimization. I'm pretty comfortable with it but I can't simply risk unsafe ramifications when speed and optimization is not intended. C can be used alongside Python's CFFI to create Foreign Function Interfaces for Python in it.
+* JS: I do NOT use NodeJS, don't ask me to. I am trying to cease my use of VanillaJS when I need to write a simple HTML form even. I'm trying to bust into WebAssembly and just drop this cumfufle. 
+* Kotlin: I have never finished a project in it, but I like it and know it. I don't like Java and if I need something done that requires use of a Java library, Kotlin is of course, the best replacement for Java.
+* Nim: I'm just listing this for funzies, it's notwhere near complete to be used in a final project. I like it over Zig. And I am ready to die on this hill.
 
-I am a somehow-freelancer somehow-employee somehow-contractor with my friend Felix Quinque. I also work with Mr. Herman Jacobs at Cherry. I sometimes collab on projects with my friend Tanami Muller. I also do projects with my friend Emil who is a neuroscientist. 
+If you have been directed here from a job board, please have a look at the personal and semi-personal projects that I have done over the years. I have done a lot more projects but they're mostly too old, for example, from 2012 and in C# and useless, or they are propriety and belong to others. If a project is way past its statute of limitation I will permissively list it here.
+Please take a thorough look at the following list. You can confirm which language they are in by reading the description. 
 
-Over the years I have racked up a cute sum of projects. Let me run you through some of them.
+Now, can I only do these, and nothing else? Of course I can do most things in programming. I can't program an airlock safety system for the ISS but if your job is not listed here but it somehow pertains to the technology used, I can probably do it.
 
 ## Projects
 
@@ -53,7 +54,8 @@ Over the years I have racked up a cute sum of projects. Let me run you through s
 * [rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol) -> A protocol in the application layer of OSI.
 * [hmac-tree](https://github.com/chubek/hmac-tree) -> Merkle Trees, but with HMAC! Also contains the implementation of SHA-512 and HMAC besdies MT.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementatin in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
-* [FourChidori](git@github.com:Chubek/FourChidori) -> A browser extension for 4chan.
+* [FourChidori]([git@github.com:Chubek/FourChidori](https://github.com/Chubek/FourChidori) -> A browser extension for 4chan.
+* [HDTP](https://github.com/Chubek/HDTP) -> A WIP application-layer protocol in C. The spec document is not exactly going to be what it's going to be. But it should give you a clear idea. It's almost 40% complete, the lexer/parser is done for config files.
 
 ### Math
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
