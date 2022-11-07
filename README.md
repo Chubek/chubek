@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Good day and thank you for opening my Github profile. The document you're seeing before you serves as an introduction to my skills and body of personal projejects that I have done over the years.
+Good day and thank you for opening my Github profile. The document you're seeing before you serves as an introduction to my skills and body of personal projects that I have done over the years.
 
 A bit about me, I was born in Match 12th, 1993 --- When I was 10, I wanted to be an animator and work for Disney but it proved difficult as family issues piled up --- and when I got my first PC at 12, it did not take long to realize I want to be a software coder. At 16 I thought myself GML and made  [this](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) absolute unit of a game. From there on I marched with the progress of programming technology. I used to code PHP in Notepad++ on Windows and now I code Rust, Go, and C in VSCode on Linux. Besidesa PHP there are several other technologies that I have dropped in favor of better alternatives, chiefly, C# and Java. I have studied Computer Science in college for sometime. I mostly do systems, utilties, network and scripting.
 
