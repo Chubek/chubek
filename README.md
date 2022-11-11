@@ -54,7 +54,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 * [rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol) -> A protocol in the application layer of OSI.
 * [hmac-tree](https://github.com/chubek/hmac-tree) -> Merkle Trees, but with HMAC! Also contains the implementation of SHA-512 and HMAC besdies MT.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementatin in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
-* [FourChidori]([git@github.com:Chubek/FourChidori](https://github.com/Chubek/FourChidori) -> A browser extension for 4chan.
+* [FourChidori](https://github.com/Chubek/FourChidori) -> A browser extension for 4chan.
 * [HDTP](https://github.com/Chubek/HDTP) -> A WIP application-layer protocol in C. The spec document is not exactly going to be what it's going to be. But it should give you a clear idea. It's almost 40% complete, the lexer/parser is done for config files.
 
 ### Math
