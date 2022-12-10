@@ -61,7 +61,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
 
 ### Bioinformatics
-* [ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator) -> Translating Amino Acid PEPs to Dash-Aligned Codons.
+* [ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator) and [pn2codon](https://github.com/Chubek/pn2codon) -> Translating Amino Acid PEPs to Dash-Aligned Codons, FFI for Python in Rust.
 * [pylibfastcompare](https://github.com/Chubek/pylibfastcompare) -> Lazy Hamming written in C for Python for bioinformatics.
 
 ### Projects I Contribute to
