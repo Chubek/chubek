@@ -82,7 +82,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 
 ### Projects I Contribute to
-* [OLD][Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
+* [OLD] [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
 * [PhyMMR](https://github.com/Thernn88/PhyMMR//) -> A bioinformatics project that I actively participate to for my work.
 
 ## Sites and Social Media
