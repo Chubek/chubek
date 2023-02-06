@@ -1,4 +1,4 @@
-# Chubak Bidpaa: J'espre
+# Chubak Bidpaa: A GentleChud's GentleChud
 
 ## Introduction
 
@@ -6,12 +6,14 @@ Good day and thank you for opening my Github profile. The document you're seeing
 
 A bit about me, I was born in Match 12th, 1993 --- When I was 10, I wanted to be an animator and work for Disney but it proved difficult as family issues piled up --- and when I got my first PC at 12, it did not take long to realize I want to be a software coder. At 16 I thought myself GML and made  [this](http://drive.google.com/uc?id=1tiJwc8e0pNVODyk4CvkTIkNu7SqpwNcR) absolute unit of a game. From there on I marched with the progress of programming technology. I used to code PHP in Notepad++ on Windows and now I code Rust, Go, and C/C++ in VSCode on Linux. However I am trying to make a very bold switch to using Emacs (seethe Vim users! jk both are good) --- However given that I was not born in 1819 it's proving kinda difficult for me. I don't want to waste the client's time and money so I only use it with my personal projects. Besidesa PHP there are several other technologies that I have dropped in favor of better alternatives, chiefly, C# and Java. I have studied Computer Science in college for sometime. I mostly do systems, utilties, network and scripting.
 
+I am in the process of teaching myself electronics. I have bought a lot of equipment with my ill-gotten opium and arms smuggling money (which I totally do on the side, I am very cool and dangerous) and I am in the process of writing a circuit simulator similar to that of SPICE and CANCER (not kidding it's actually name of a very rudimentary and old circuit simulator) and I don't just wanna do it as a hobby, I wanna design circuits and do embedded programming on the side. If you are kind enough to take a chance on this poor soul's quest to do electronics alongside systems programming do as AssimilateBoozeByAsterisk says and take a chance on me. Thanks.
+
 ## Stack
 
 * Rust: I use Rust for most of my system, automation, utilities, etc. Although not as perofrmant as C and initially dodgy, Rust now has proven to be a darling. Especially for using it alongside Python using PyO3.
 * Go: Using Go for network stuff will take hours off your workload. Go can also be used for simple REPL or terminal utilities. C walks the line between being a scripting language and a systems language and that's surprisingly not a weakness.
 * Python: Python handles itself well when you're dealing with large data files, scientific tasks especially, but I can't accept Python in a Pythonic form due to its lack of speed. I will always optimize the Python code first before resorting to using C or Rust as FFI. But alas it often happens that speeding up Python is harder than milking a dead heifer.
-* C: I use C only when I need speed and optimization. I'm pretty comfortable with it but I can't simply risk unsafe ramifications when speed and optimization is not intended. C can be used alongside Python's CFFI to create Foreign Function Interfaces for Python in it.
+* C/C++: I use C/C++ only when I need speed and optimization. I'm pretty comfortable with it but I can't simply risk unsafe ramifications when speed and optimization is not intended. C/C++ can be used alongside Python's CFFI to create Foreign Function Interfaces for Python in it.
 * JS: I do NOT use NodeJS, don't ask me to. I am trying to cease my use of VanillaJS when I need to write a simple HTML form even. I'm trying to bust into WebAssembly and just drop this cumfufle. 
 * Kotlin: I have never finished a project in it, but I like it and know it. I don't like Java and if I need something done that requires use of a Java library, Kotlin is of course, the best replacement for Java.
 * Nim: I'm just listing this for funzies, it's notwhere near complete to be used in a final project. I like it over Zig. And I am ready to die on this hill.
@@ -23,7 +25,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 
 ## Projects
 
-### Electronics and Robotics
+### Electronics and Embedded Programming
 
 * [Scheesim](https://github.com/Chubek/Scheesim) -> A WIP electronics circuit simulator written entirely in Rust. As of this moment, the linear an algebratic equation solution systems have been written. Parser is at work. Next is the element stamps. Is it like SPICE? Well, kind of! You be the judge when it's done.
 
