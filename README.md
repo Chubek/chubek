@@ -70,6 +70,7 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 ## Gists
 - [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)
 - [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
+- [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 
 ### Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
