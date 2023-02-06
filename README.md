@@ -23,6 +23,11 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 
 ## Projects
 
+### Electronics and Robotics
+
+* [Scheesim](https://github.com/Chubek/Scheesim) -> A WIP electronics circuit simulator written entirely in Rust. As of this moment, the linear an algebratic equation solution systems have been written. Parser is at work. Next is the element stamps. Is it like SPICE? Well, kind of! You be the judge when it's done.
+
+
 ### Machine Learning, Auditory and Vision
 
 * [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> Despite the lame pun, this is a very intricate face recognition API. It's in Python so it's not very fast. In the recent months I have decided to do less and less projects in Python because of how slow and inefficient it is. But if you are going to give me a job in Python I will do it. I especially like training using Python and predictiing and doing the MLOps in Rust or Go.
@@ -68,13 +73,13 @@ Now, can I only do these, and nothing else? Of course I can do most things in pr
 
 
 ## Gists
-- [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)
-- [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
-- [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
+* [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)
+* [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
+* [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 
 ### Projects I Contribute to
-* [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
-
+* [OLD][Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
+* [PhyMMR](https://github.com/Thernn88/PhyMMR//) -> A bioinformatics project that I actively participate to for my work.
 
 ## Sites and Social Media
 
