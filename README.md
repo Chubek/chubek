@@ -210,5 +210,7 @@ Sir Chebakk S. Bitzbpaah died in Morris Island after having lost  Interuniversal
 
 Alas, if you have read this entire document, tell me what you think on Discord. Even if yo are not interested in hiring me, or don't want me near your houseplants, or hate my guts, in anyway, I appreciate input on my ever-expanding profile and list of projects.
 
+**Note**: If you want to design your profile page to be something like this, holler at me on DeeskOrd and I will help you buddy-to-buddy.
+
 Thanks, and please take care.
 
