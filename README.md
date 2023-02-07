@@ -160,7 +160,7 @@ If you have landed on this page on accident, or been directed by me or someone e
 |---------|----|-----------|
 |**C/C++**|[Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus)|Noise-generating After Effects plugin|
 |**C/C++**|[pylibfastcompare](https://github.com/Chubek/pylibfastcompare)|Lazy-hamming multi-threaded DNA sequence deduper|
-|**C/C++**|[pylibfastadedupe](https://github.com/Chubek/pylibfastadedupe)|Same as above, C++ version with update perofromance|
+|**C/C++**|[pylibfastadedupe](https://github.com/Chubek/pylibfastadedupe)|Same as above, C++ version with updated perofromance|
 |**C/C++**|[HDTP](https://github.com/Chubek/HDTP)|WIP, Hyper Data Transfer Protocol spec and implementation|
 |**C/C++**|[Kaibash](https://github.com/Chubek/Kaibash)|Very WIP proxy
 |**Cuda C**|[CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)|Gaussian elimination in CUDA|
@@ -186,7 +186,7 @@ If you have landed on this page on accident, or been directed by me or someone e
 |**Python**|[ClickBait Generator](https://github.com/Chubek/clickbait-generator)|Very simple clickbait AI model Colab notebook|
 |**Python**|[intresignia](https://github.com/chubek/intresignia)|Red traffic sign detection|
 |**Python**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
-|**Go**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything writtne from scratch|
+|**Go**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything written from scratch|
 |**Go**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
 |**NodeJS**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
