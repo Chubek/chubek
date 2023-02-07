@@ -1,4 +1,4 @@
-# Chubak Bidpaa: A GentleChud's GentleChud
+# Chubak Bidpaa: The GentleChud's GentleChud
 
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document.
 
