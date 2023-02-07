@@ -21,7 +21,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * * [Graphics Programming and Gaming](#graphics-programming-and-gaming)
 * * [Small Projects in Gist](#small-projects-in-gist)
 * * [Projects I Contribute to](#projects-i-contribute-to)
-* [Projects by Language](#projects-by-language)
+* [Codes and Projects by Language](#codes-and-projects-by-language)
 * [Sites and Social Media](#sites-and-social-media)
 * [Death](#death)
 
@@ -124,6 +124,7 @@ If you have landed on this page on accident, or been directed by me or someone e
 * [potpourri](https://github.com/Chubek/potpourri) -> A webscraper library for Python. Can search Google too. Can do a lot of stuff.
 * [CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo) -> A cron job automator written entirely in Go. Right now it only does SQL queries/commands.
 * [rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm) -> Intricate bot project.
+* [Kaibash](https://github.com/Chubek/Kaibash) -> Very WIP Proxy in C
 
 ### Networking, Internet, and Web
 * [Samovar](https://github.com/Chubek/Samovar) -> A full-fledged Web Framework in Rust that I keep working on until it becomes viable.
@@ -153,8 +154,47 @@ If you have landed on this page on accident, or been directed by me or someone e
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
 * [PhyMMR](https://github.com/Thernn88/PhyMMR/) -> A bioinformatics project that I actively participate to for my work.
 
-# Projects by Language
-TODO
+# Codes and Projects by Language
+
+|Language|Repo|Description|
+|---------|----|-----------|
+|**C/C++**|[Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus)|Noise-generating After Effects plugin|
+|**C/C++**|[pylibfastcompare](https://github.com/Chubek/pylibfastcompare)|Lazy-hamming multi-threaded DNA sequence deduper|
+|**C/C++**|[pylibfastadedupe](https://github.com/Chubek/pylibfastadedupe)|Same as above, C++ version with update perofromance|
+|**C/C++**|[HDTP](https://github.com/Chubek/HDTP)|WIP, Hyper Data Transfer Protocol spec and implementation|
+|**C/C++**|[Kaibash](https://github.com/Chubek/Kaibash)|Very WIP proxy
+|**Cuda C**|[CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)|Gaussian elimination in CUDA|
+|**Rust**|[Scheesim](https://github.com/Chubek/Scheesim)|Electronics circuit simulator similar to SPICE|
+|**Rust**|[ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator)|Translate Protein to DNA|
+|**Rust**|[Samovar](https://github.com/Chubek/Samovar)|HTTP 1.1 framework, WIP|
+|**Rust**|[rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol)|Application-level protcol|
+|**Rust**|[hmac-tree](https://github.com/chubek/hmac-tree)|Merkle trees with HMAC|
+|**Rust**|[rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee)|UDP implementation, WIP|
+|**Rust**|[Rusty Random Pattern Generator](https://github.com/Chubek/rusty-random-pattern-generator)|Pattern generator|
+|**Rust**|[NaqshSmit Renderer](https://github.com/Chubek/NaqshSmith-Renderer)|Software rendered, concept|
+|**Rust**|[rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm)|Prototype for Twitter bot pre-Musk|
+|**Rust**|[Expelligraphicus](https://github.com/Chubek/Expelligraphicus)|Another concept for a rasterizer|
+|**Rust**|[Upsc3ne](https://github.com/Chubek/upsc3ne)|An early Rust code, an obscenity detector|
+|**Rust**|[auster-integer](https://github.com/Chubek/auster-integer)|Big math WIP|
+|**Rust**|[PhyMMR Tools](https://github.com/Chubek/blosum_distance)|FFI tools for PhyMMR, some by me|
+|**Python**|[PuertoRECO](https://github.com/Chubek/PuertoRECO)|Face recognition framework|
+|**Python**|[potpourri](https://github.com/Chubek/potpourri) |Web scraping framework|
+|**Python**|[WillSh3B33](https://github.com/Chubek/will-sh3-b33)|AI model deployed with a frontend|
+|**Python**|[Arriv-O-Pred](https://github.com/Chubek/Arriv-O-Pred)|Train time arrival prediction|
+|**Python**|[PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26)|Period detection script|
+|**Python**|[SongOfSprockets](https://github.com/Chubek/SongOfTheSprockets)|Voice conversion tool|
+|**Python**|[ClickBait Generator](https://github.com/Chubek/clickbait-generator)|Very simple clickbait AI model Colab notebook|
+|**Python**|[intresignia](https://github.com/chubek/intresignia)|Red traffic sign detection|
+|**Python**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
+|**Go**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything writtne from scratch|
+|**Go**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
+|**NodeJS**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
+|**VanillaJS**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
+|**AdobeExtendScript**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|
+|**Nim**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|
+|**Bash**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|
+
+
 
 # Sites and Social Media
 
