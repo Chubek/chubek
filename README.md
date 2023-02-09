@@ -2,6 +2,10 @@
 
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document.
 
+* [Just Skip to My Projects by Language](#codes-and-projects-by-language)
+
+OR:
+
 * [Introduction](#introduction)
 * [Stack](#stack)
 * * [Languages I Know](#languages-i-know)
