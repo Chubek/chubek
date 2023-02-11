@@ -1,6 +1,6 @@
 # Chubak Bidpaa: The GentleChud's GentleChud
 
-Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document.
+Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. This profile, and all my repositories, are accessible under the redirected subdomain [github.chubakbidpaa.com](https://github.chubakbidpaa.com) and the URI is preserved, for example [github.chubakbidpaa.com/Scheesim](https://github.chubakbidpaa.com/Scheesim).
 
 * [Just Skip to My Projects by Language](#codes-and-projects-by-language)
 
