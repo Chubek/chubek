@@ -158,6 +158,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
+* [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce) -> An extremely small Morse Code translator API with a custom HTTP framework, built upon Python Streaming API
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
@@ -195,6 +196,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Python**|[ClickBait Generator](https://github.com/Chubek/clickbait-generator)|Very simple clickbait AI model Colab notebook|
 |**Python**|[intresignia](https://github.com/chubek/intresignia)|Red traffic sign detection|
 |**Python**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
+|**Python**| [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce)|Simple Python API with custom HTTP backend|
 |**Go**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything written from scratch|
 |**Go**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
 |**Go**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|
