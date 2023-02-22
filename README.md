@@ -129,7 +129,7 @@ If you have landed on this page on accident, or been directed by me or someone e
 * [CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo) -> A cron job automator written entirely in Go. Right now it only does SQL queries/commands.
 * [rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm) -> Intricate bot project.
 * [Kaibash](https://github.com/Chubek/Kaibash) -> Very WIP Proxy in C
-* [ProtoGen](https://gitub.com/Chubek/Protogen) -> A couple of application-layer potocols in Go. First is ProtoQuore (TCP) and the second is ProtoDir (
+* [ProtoGen](https://github.com/Chubek/Protogen) -> A couple of application-layer potocols in Go. First is ProtoQuore (TCP) and the second is ProtoDir (
 UDM). I will add a UDP one soon I just need an idea.
 
 ### Networking, Internet, and Web
