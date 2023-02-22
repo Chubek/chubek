@@ -13,6 +13,7 @@ OR:
 * * * [Truancy of Knowing](#truancy-of-knowing)
 * * * [Dogmatique](#dogmatique)
 * * * [Interests](#interests)
+* [Donation ❤️](#donation)
 * [Projects by Topic](#projects-by-topic)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
@@ -89,9 +90,11 @@ And more...
 * General systems utilities and aide code, in Bash and/or Python
 * Quick and dirty systems fix work
 
-And oh, no crypto!
-
 If you have landed on this page on accident, or been directed by me or someone else through a job board, please scroll below for my contact. Otherwise stay here and have a look at select few projects that I have done over the years. These projects are the most recent ones, starting at 2018 with After Effects noise plugin Bedlam Noise Apparatus. My older code is irrelevant. I have done a lot of coding over the years. The tetris game I posted above was just a jolly good time. I am in no way interested for anyone to see my old PHP code, or my old WordPress themes, and God have mercy on me, my Windows Forms C# projects and certainly, certainly not the interactive games I used to make with PMwiki!
+
+# Donation ❤️
+I would like to think there are some people who have made good use of my projects, and may wanna buy me a coffee or stuff like that. I don't have access to international banking but you can always make a donation to my physical wallet address, BEP-20 and ERC-20 (Binance and Etherum) supported. I will soon add my Payeer account as well. Here it is:
+`0x503A3B99c0c086fD81186a0d5ac815eBd15e5983`
 
 # Projects by Topic
 
