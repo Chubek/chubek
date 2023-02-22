@@ -13,7 +13,7 @@ OR:
 * * * [Truancy of Knowing](#truancy-of-knowing)
 * * * [Dogmatique](#dogmatique)
 * * * [Interests](#interests)
-* [Donation ❤️](#donation-)
+* [Donation ❤️](https://github.com/Chubek#donation-%EF%B8%8F)
 * [Projects by Topic](#projects-by-topic)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
