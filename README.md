@@ -129,6 +129,8 @@ If you have landed on this page on accident, or been directed by me or someone e
 * [CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo) -> A cron job automator written entirely in Go. Right now it only does SQL queries/commands.
 * [rusty-bot-swarm](https://github.com/Chubek/rusty-bot-swarm) -> Intricate bot project.
 * [Kaibash](https://github.com/Chubek/Kaibash) -> Very WIP Proxy in C
+* [ProtoGen](https://gitub.com/Chubek/Protogen) -> A couple of application-layer potocols in Go. First is ProtoQuore (TCP) and the second is ProtoDir (
+UDM). I will add a UDP one soon I just need an idea.
 
 ### Networking, Internet, and Web
 * [Samovar](https://github.com/Chubek/Samovar) -> A full-fledged Web Framework in Rust that I keep working on until it becomes viable.
@@ -192,6 +194,7 @@ If you have landed on this page on accident, or been directed by me or someone e
 |**Python**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
 |**Go**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything written from scratch|
 |**Go**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
+|**Go**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|
 |**NodeJS**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
 |**AdobeExtendScript**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|
