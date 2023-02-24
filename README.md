@@ -18,11 +18,11 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * * [Small Projects in Gist](#small-projects-in-gist)
 * * [Projects I Contribute to](#projects-i-contribute-to)
 * [Codes and Projects by Language](#codes-and-projects-by-language)
-** [C/C++](#cc++)
-** [Rust](#rust)
-** [Python](#python)
-** [Go](#go)
-** [Misc.](#misc)
+* * [C/C++](#cc)
+* * [Rust](#rust)
+* * [Python](#python)
+* * [Go](#go)
+* * [Misc.](#misc)
 * [Sites and Social Media](#sites-and-social-media)
 
 
