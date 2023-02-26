@@ -36,9 +36,12 @@ This profile serves as a place for all my Github projects, and as a portfolio fo
 
 My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safekeep for all my scribblings about programming and electronics. I call them 'Markdown Codicies & Parchments' because I imagine myself as a 12th century monk and ascribe, or a 10th century Persian polymath, or a -3rd century Greek philosopher, you get the gist, scribbling on a paper for the future scholars to decode. 
 
-# Donation ❤️
+# Donation ❤
 I would like to think there are some people who have made good use of my projects, and may wanna buy me a coffee or stuff like that. I don't have access to international banking but you can always make a donation to my physical wallet address, BEP-20 and ERC-20 (Binance and Etherum) supported. I will soon add my Payeer account as well. Here it is:
-`0x503A3B99c0c086fD81186a0d5ac815eBd15e5983`
+
+```
+0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
+```
 
 # Projects by Topic
 
