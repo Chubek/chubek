@@ -2,7 +2,7 @@
 
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. 
 
-* [Introduction \(^o^)/](introduction-o)
+* [Introduction \(^o^)/](#introduction-o)
 * [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
 * [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
