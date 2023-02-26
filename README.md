@@ -3,9 +3,9 @@
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. 
 
 * [Introduction \(^o^)/](introduction-o)
-* [Markdown Codicies and Parchments ヽ(´▽\`)/](markdown-codicies-and-parchments--%E0%B2%A0%E7%9B%8A%E0%B2%A0)
+* [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
-* [Projects by Topic ┬──┬ ¯\_(ツ)](#donation-%E2%80%BF)
+* [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
 * * * [Math](#math)
@@ -17,7 +17,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * * [Graphics Programming and Gaming](#graphics-programming-and-gaming)
 * * [Small Projects in Gist](#small-projects-in-gist)
 * * [Projects I Contribute to](#projects-i-contribute-to)
-* [Codes and Projects by Language (^0_0^)](#projects-by-topic-%CA%98%E1%86%BD%CA%98)
+* [Codes and Projects by Language (^0_0^)](#codes-and-projects-by-language-0_0)
 * * [C/C++](#cc)
 * * [Rust](#rust)
 * * [Python](#python)
