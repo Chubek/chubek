@@ -2,10 +2,10 @@
 
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. 
 
-* [Introduction](#introduction)
-* [Markdown Codicies and Parchments](#markdown-codices-and-parchments)
+* [Introduction \(^o^)/](introduction-o)
+* [Markdown Codicies and Parchments ヽ(´▽\`)/](markdown-codicies-and-parchments--%E0%B2%A0%E7%9B%8A%E0%B2%A0)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
-* [Projects by Topic](#projects-by-topic)
+* [Projects by Topic ┬──┬ ¯\_(ツ)](#donation-%E2%80%BF)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
 * * * [Math](#math)
@@ -17,13 +17,13 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * * [Graphics Programming and Gaming](#graphics-programming-and-gaming)
 * * [Small Projects in Gist](#small-projects-in-gist)
 * * [Projects I Contribute to](#projects-i-contribute-to)
-* [Codes and Projects by Language](#codes-and-projects-by-language)
+* [Codes and Projects by Language (^0_0^)](#projects-by-topic-%CA%98%E1%86%BD%CA%98)
 * * [C/C++](#cc)
 * * [Rust](#rust)
 * * [Python](#python)
 * * [Go](#go)
 * * [Misc.](#misc)
-* [Sites and Social Media](#sites-and-social-media)
+* [Sites and Social Media (＾▽＾)](#sites-and-social-media-)
 
 
 # Introduction \(^o^)/
@@ -32,7 +32,7 @@ My name is Chubak. Notice that it's not my real name but it's the name I want to
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
-# Markdown Codicies and Parchments (╬ ಠ益ಠ)
+# Markdown Codicies and Parchments ヽ(´▽\`)/
 
 My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safekeep for all my scribblings about programming and electronics. I call them 'Markdown Codicies & Parchments' because I imagine myself as a 12th century monk and ascribe, or a 10th century Persian polymath, or a -3rd century Greek philosopher, you get the gist, scribbling on a paper for the future scholars to decode. 
 
@@ -43,7 +43,7 @@ I would like to think there are some people who have made good use of my project
 0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
 ```
 
-# Projects by Topic (=ʘᆽʘ=)∫ 
+# Projects by Topic ┬──┬ ¯\_(ツ)
 
 ## Eclectic Engineering
 
@@ -111,7 +111,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
 * [PhyMMR](https://github.com/Thernn88/PhyMMR/) -> A bioinformatics project that I actively participate to for my work.
 
-# Codes and Projects by Language ʕ •ᴥ•ʔ 
+# Codes and Projects by Language (^0_0^) 
 
 ## C/C++
 
