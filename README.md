@@ -4,7 +4,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 
 * [Introduction](#introduction)
 * [Markdown Codicies and Parchments](#markdown-codices-and-parchments)
-* [Donation ❤️](#donation-%EF%B8%8F)
+* [Donation (◕‿◕)](#donation-%E2%80%BF)
 * [Projects by Topic](#projects-by-topic)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
@@ -26,13 +26,13 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * [Sites and Social Media](#sites-and-social-media)
 
 
-# Introduction
+# Introduction \(^o^)/
 
 My name is Chubak. Notice that it's not my real name but it's the name I want to go by. I am a systems and network programmer with interest in AI, automation and graphics. I wish to have a sidegig in electronics that is why I am writing an electronics simulator. I code in C/C++, Go, Rust, Python, Nim, and JS.
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
-# Markdown Codicies and Parchments
+# Markdown Codicies and Parchments (╬ ಠ益ಠ)
 
 My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safekeep for all my scribblings about programming and electronics. I call them 'Markdown Codicies & Parchments' because I imagine myself as a 12th century monk and ascribe, or a 10th century Persian polymath, or a -3rd century Greek philosopher, you get the gist, scribbling on a paper for the future scholars to decode. 
 
@@ -43,7 +43,7 @@ I would like to think there are some people who have made good use of my project
 0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
 ```
 
-# Projects by Topic
+# Projects by Topic (=ʘᆽʘ=)∫ 
 
 ## Eclectic Engineering
 
@@ -111,7 +111,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
 * [PhyMMR](https://github.com/Thernn88/PhyMMR/) -> A bioinformatics project that I actively participate to for my work.
 
-# Codes and Projects by Language
+# Codes and Projects by Language ʕ •ᴥ•ʔ 
 
 ## C/C++
 
@@ -165,7 +165,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Automation**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
 |**Network**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|
 
-# Misc.
+## Misc.
 
 |Language|Topic|Repo|Description|
 |--------|-----|----|-----------|
@@ -177,7 +177,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 
 
-# Sites and Social Media
+# Sites and Social Media (＾▽＾)
 
 * Website -> https://chubakbidpaa.com
 * Twitter -> @gvlside
