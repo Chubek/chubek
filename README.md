@@ -28,7 +28,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 
 # Introduction \(^o^)/
 
-My name is Chubak. Notice that it's not my real name but it's the name I want to go by. I am a systems and network programmer with interest in AI, automation and graphics. I wish to have a sidegig in electronics that is why I am writing an electronics simulator. I code in C/C++, Go, Rust, Python, Nim, and JS.
+I'm Chubak. I am a systems and network programmer with interest in AI, automation and graphics. I wish to have a sidegig in electronics that is why I am writing an electronics simulator. I code in C/C++, Go, Rust, Python, Nim, and JS.
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
