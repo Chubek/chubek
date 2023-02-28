@@ -1,6 +1,6 @@
 # (*ﾟﾉOﾟ)<Chuuuuubaaaaak!
 
-Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. 
+Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under GPLv3 license.
 
 * [Introduction \(^o^)/](#introduction-o)
 * [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
