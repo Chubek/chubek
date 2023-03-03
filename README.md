@@ -81,6 +81,7 @@ I would like to think there are some people who have made good use of my project
 * [Kaibash](https://github.com/Chubek/Kaibash) -> Very WIP Proxy in C
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A couple of application-layer potocols in Go. First is ProtoQuore (TCP) and the second is ProtoDir (
 UDM). I will add a UDP one soon I just need an idea.
+* [Slitherbain](https://github.com/Chubek/Slitherbrain) -> Python code runner in C++. It is WIP but nearly done.
 
 ### Networking, Internet, and Web
 * [Samovar](https://github.com/Chubek/Samovar) -> A full-fledged Web Framework in Rust that I keep working on until it becomes viable.
@@ -117,6 +118,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|
 |---------|----|-----------|
+|**Systems/Network**|[Slitherbrain](https://github.com/Chubek/Slitherbrain)|Pythcode code runner in C++|
 |**Graphics Programming**|[Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus)|Noise-generating After Effects plugin|
 |**Bioinformatics**|[pylibfastcompare](https://github.com/Chubek/pylibfastcompare)|Lazy-hamming multi-threaded DNA sequence deduper|
 |**Bioinformatics**|[pylibfastadedupe](https://github.com/Chubek/pylibfastadedupe)|Same as above, C++ version with updated perofromance|
