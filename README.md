@@ -107,6 +107,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 * [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce) -> An extremely small Morse Code translator API with a custom HTTP framework, built upon Python Streaming API
+* [BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88) -> A small script, bitwise operations in Python on words, on binary lists of size 16
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
@@ -157,7 +158,8 @@ UDM). I will add a UDP one soon I just need an idea.
 |**AI NLP**|[ClickBait Generator](https://github.com/Chubek/clickbait-generator)|Very simple clickbait AI model Colab notebook|
 |**Vision Classical**|[intresignia](https://github.com/chubek/intresignia)|Red traffic sign detection|
 |**Math**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
-|**Network**| [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce)|Simple Python API with custom HTTP backend|
+|**Network**|[Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce)|Simple Python API with custom HTTP backend|
+|**Math**|[BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88)|Bitwise operations on word-sized binary lists|
 
 ## Go
 
