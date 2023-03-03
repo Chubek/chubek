@@ -182,9 +182,9 @@ UDM). I will add a UDP one soon I just need an idea.
 # Sites and Social Media (＾▽＾)
 
 * Website -> https://chubakbidpaa.com
-* Twitter -> @gvlside
-* Discord -> Chubak#7400
-* Telegram -> @bidpaafx
+* Twitter -> [@gvlside](twitter.com/gvlside)
+* Discord -> [Chubak#7400](https://discord.com/users/358017130408706069)
+* Telegram -> [@bidpaafx](https://t.me/bidpaafx)
 * Email -> chubakbidpaa@gmail.com
 
 
