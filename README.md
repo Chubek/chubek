@@ -5,7 +5,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * [Introduction \(^o^)/](#introduction-o)
 * [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
-* [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase)
+* [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase-%E1%95%95-%E1%90%9B-%E1%95%97)
 * [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
