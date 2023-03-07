@@ -5,10 +5,12 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 * [Introduction \(^o^)/](#introduction-o)
 * [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
+* [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase)
 * [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
 * * * [Math](#math)
+* * * [Cryptography](#cryptography)
 * * * [Bioinformatics](#bioinformatics)
 * * * [Machine Learning, Auditory and Vision](#machine-learning-auditory-and-vision)
 * * [Systems and Network](#systems-and-network)
@@ -37,11 +39,31 @@ This profile serves as a place for all my Github projects, and as a portfolio fo
 My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safekeep for all my scribblings about programming and electronics. I call them 'Markdown Codicies & Parchments' because I imagine myself as a 12th century monk and ascribe, or a 10th century Persian polymath, or a -3rd century Greek philosopher, you get the gist, scribbling on a paper for the future scholars to decode. 
 
 # Donation (◕‿◕)
-I would like to think there are some people who have made good use of my projects, and may wanna buy me a coffee or stuff like that. I don't have access to international banking but you can always make a donation to my physical wallet address, BEP-20 and ERC-20 (Binance and Etherum) supported. I will soon add my Payeer account as well. Here it is:
 
+If you like my work, please consider donating any amount to these **Tether** wallets:
+
+ERC-20 & BEP-20
 ```
 0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
 ```
+
+TRC20:
+```
+THrE9KMCKfqTMgiEQEitBbBKAppDEznyPB
+```
+
+Your donation is appreciated, and will be put to good use, including making new libre stuff.
+
+# Special Showcase ᕕ( ᐛ )ᕗ
+
+Below are some of my curated projects that you will find more details about in the latter sections, and inside their repository as well:
+
+* [PoxHash](https://github.com/chubek/PoxHash)
+* [mathcord](https://github.com/Chubek/mathcord)
+* [PuertoRECO](https://github.com/Chubek/PuertoRECO)
+* [ProtoGen](https://github.com/Chubek/Protogen)
+* [Samovar](https://github.com/Chubek/Samovar)
+* [Slitherbain](https://github.com/Chubek/Slitherbrain)
 
 # Projects by Topic ┬──┬ ¯\_(ツ)
 
@@ -53,6 +75,10 @@ I would like to think there are some people who have made good use of my project
 
 ### Math
 * [auster-integer](https://github.com/Chubek/auster-integer) [WIP] -> Big Math library. Right now contains implementations for binary operations only.
+
+### Cryptography
+
+* [PoxHash](https://github.com/chubek/PoxHash) -> My very own block hashing algorithm implemented in Go, Rust, Python, Nim, JS, and C.
 
 ### Bioinformatics
 * [ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator) and [pn2codon](https://github.com/Chubek/pn2codon) -> Translating Amino Acid PEPs to Dash-Aligned Codons, FFI for Python in Rust.
@@ -175,6 +201,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Language|Topic|Repo|Description|
 |--------|-----|----|-----------|
+|**Several**|[PoxHash](https://github.com/chubek/PoxHash)|My own block hash algorithm!|
 |**NodeJS**|Databases|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|Browser Addon|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
 |**AdobeExtendScript**|Extensions|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|
