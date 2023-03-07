@@ -108,6 +108,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 * [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce) -> An extremely small Morse Code translator API with a custom HTTP framework, built upon Python Streaming API
 * [BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88) -> A small script, bitwise operations in Python on words, on binary lists of size 16
+* [Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a) -> Utility for my brother
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
@@ -160,6 +161,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Math**|[pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection)|Anomaly detection tool for Python, vetorized|
 |**Network**|[Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce)|Simple Python API with custom HTTP backend|
 |**Math**|[BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88)|Bitwise operations on word-sized binary lists|
+|**Linux Utility**|[Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a)|Sripts for my brother|
 
 ## Go
 
