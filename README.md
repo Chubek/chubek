@@ -52,6 +52,17 @@ TRC20:
 THrE9KMCKfqTMgiEQEitBbBKAppDEznyPB
 ```
 
+BTC:
+```
+13xM3LbEFjbjwMSAs9Ybz4T6pdmJtB8F9m
+```
+
+BEP2 address and tags:
+```
+BEP2 Address -> bnb13eqrynp3rls3m6dsw58d3y5l7z6zfdw5zj3sdy
+BEP2 Tag -> 136103027
+```
+
 Your donation is appreciated, and will be put to good use, including making new libre stuff.
 
 # Special Showcase ᕕ( ᐛ )ᕗ
