@@ -40,7 +40,7 @@ My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safek
 
 # Donation (◕‿◕)
 
-If you like my work, please consider donating any amount to these **Tether** wallets:
+If you like my work, please consider donating any amount to these wallets:
 
 ERC-20 & BEP-20
 ```
