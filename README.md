@@ -63,7 +63,7 @@ BEP2 Address -> bnb13eqrynp3rls3m6dsw58d3y5l7z6zfdw5zj3sdy
 BEP2 Tag -> 136103027
 ```
 
-Your donation is appreciated, and will be put to good use, including making new libre stuff.
+Your donation is appreciated, and will be put to good use, including making new libre stuff. The reason I have to use cryptocurrency is, I do not have access to international banking. But overall I find it very convinient. Thanks in advance in case you make a donation!
 
 # Special Showcase ᕕ( ᐛ )ᕗ
 
