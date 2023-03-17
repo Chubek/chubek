@@ -69,12 +69,14 @@ Your donation is appreciated, and will be put to good use, including making new 
 
 Below are some of my curated projects that you will find more details about in the latter sections, and inside their repository as well:
 
-* [PoxHash](https://github.com/chubek/PoxHash)
-* [mathcord](https://github.com/Chubek/mathcord)
-* [PuertoRECO](https://github.com/Chubek/PuertoRECO)
-* [ProtoGen](https://github.com/Chubek/Protogen)
-* [Samovar](https://github.com/Chubek/Samovar)
-* [Slitherbain](https://github.com/Chubek/Slitherbrain)
+* [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
+* [mathcord](https://github.com/Chubek/mathcord) -> A Discord bot in Go with Shunting Yard, SHA-512 and Edwards-512 implemented manually
+* [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> A face recognition system with liveness decetion in Python
+* [ProtoGen](https://github.com/Chubek/Protogen) -> A series of generic application-layer protocols in Go
+* [Samovar](https://github.com/Chubek/Samovar) -> A WIP web framework in Rust
+* [Slitherbain](https://github.com/Chubek/Slitherbrain) -> A WIP C project, is a Python code executor API with custom HTTP framework
+
+I have many more projects you can view below.
 
 # Projects by Topic ┬──┬ ¯\_(ツ)
 
