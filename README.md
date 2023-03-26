@@ -148,6 +148,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce) -> An extremely small Morse Code translator API with a custom HTTP framework, built upon Python Streaming API
 * [BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88) -> A small script, bitwise operations in Python on words, on binary lists of size 16
 * [Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a) -> Utility for my brother
+* [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> MD5 Implementation in Go
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
@@ -209,6 +210,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Network**|[mathcord](https://github.com/Chubek/mathcord)|Discord bot with everything written from scratch|
 |**Automation**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|
 |**Network**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|
+|**Cryptography**|[MD5 Go](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757)|MD5 implementation in Go|
 
 ## Misc.
 
