@@ -218,7 +218,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Language|Topic|Repo|Description|
 |--------|-----|----|-----------|
-|**Several**|[PoxHash](https://github.com/chubek/PoxHash)|My own block hash algorithm!|
+|**Several**|Cryptography|[PoxHash](https://github.com/chubek/PoxHash)|My own block hash algorithm!|
 |**NodeJS**|Databases|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|Browser Addon|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
 |**AdobeExtendScript**|Extensions|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|
