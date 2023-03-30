@@ -149,6 +149,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88) -> A small script, bitwise operations in Python on words, on binary lists of size 16
 * [Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a) -> Utility for my brother
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> MD5 Implementation in Go
+* [LazySplit](https://gist.github.com/Chubek/efa7f74dda28507ffafd395bff5a56fd) -> Lazy string/bytearray splitting in Python.
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
@@ -202,6 +203,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Network**|[Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce)|Simple Python API with custom HTTP backend|
 |**Math**|[BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88)|Bitwise operations on word-sized binary lists|
 |**Linux Utility**|[Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a)|Sripts for my brother|
+|**Byte Utils**|[LazySplit](https://gist.github.com/Chubek/efa7f74dda28507ffafd395bff5a56fd)|Lazy string/bytearray splitting in Python|
 
 ## Go
 
