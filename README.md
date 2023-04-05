@@ -1,12 +1,13 @@
 # (*ﾟﾉOﾟ)<Chuuuuubaaaaak!
 
-Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under GPLv3 license.
+Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under GPLv3 and MIT licenses.
 
 * [Introduction \(^o^)/](#introduction-o)
 * [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
 * [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase-%E1%95%95-%E1%90%9B-%E1%95%97)
 * [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
+* * [Assembly Snippets](#assembly-snippets)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
 * * * [Math](#math)
@@ -79,6 +80,10 @@ Below are some of my curated projects that you will find more details about in t
 I have many more projects you can view below.
 
 # Projects by Topic ┬──┬ ¯\_(ツ)
+
+## Assembly Snippets
+
+* [DJB2 in Aarch64 and x86-64](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> Implementation DJB2 in these assembly languages.
 
 ## Eclectic Engineering
 
@@ -218,6 +223,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Language|Topic|Repo|Description|
 |--------|-----|----|-----------|
+|**x86-64 & Aarch64 Assembly**| [DJB2 in Aarch64 and x86-64](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2 in these two assemblies|
 |**Several**|Cryptography|[PoxHash](https://github.com/chubek/PoxHash)|My own block hash algorithm!|
 |**NodeJS**|Databases|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|Browser Addon|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
