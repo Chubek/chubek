@@ -3,7 +3,6 @@
 Welcome to my Github profile. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under GPLv3 and MIT licenses.
 
 * [Introduction \(^o^)/](#introduction-o)
-* [Markdown Codicies and Parchments ヽ(´▽\`)/](#markdown-codicies-and-parchments-%E3%83%BD)
 * [Donation (◕‿◕)](#donation-%E2%80%BF)
 * [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase-%E1%95%95-%E1%90%9B-%E1%95%97)
 * [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
@@ -35,22 +34,18 @@ I'm Chubak. I am a systems and network programmer with interest in AI, automatio
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
-# Markdown Codicies and Parchments ヽ(´▽\`)/
-
-My [MDCodices](https://github.com/Chubek/mdcodices) repository serves as a safekeep for all my scribblings about programming and electronics. I call them 'Markdown Codicies & Parchments' because I imagine myself as a 12th century monk and ascribe, or a 10th century Persian polymath, or a -3rd century Greek philosopher, you get the gist, scribbling on a paper for the future scholars to decode. 
-
 # Donation (◕‿◕)
 
 If you like my work, please consider donating any amount to these wallets:
 
-ERC-20 & BEP-20
+Ethereum and Binance Network:
 ```
 0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
 ```
 
-TRC20:
+TRX:
 ```
-THrE9KMCKfqTMgiEQEitBbBKAppDEznyPB
+TABihfZH9tHWJnCDAK3tkpFwmSxocgn25A
 ```
 
 BTC:
