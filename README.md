@@ -220,7 +220,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Language|Topic|Repo|Description|
 |--------|-----|----|-----------|
-|**x86-64 & Aarch64 Assembly**| [DJB2 in Aarch64 and x86-64](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2 in these two assemblies|
+|**x86-64 & Aarch64 Assembly**| Hash Utility |[DJB2 in Aarch64 and x86-64](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2 in these two assemblies|
 |**Several**|Cryptography|[PoxHash](https://github.com/chubek/PoxHash)|My own block hash algorithm!|
 |**NodeJS**|Databases|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|
 |**VanillaJS**|Browser Addon|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|
