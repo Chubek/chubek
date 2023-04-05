@@ -112,7 +112,8 @@ I have many more projects you can view below.
 * [SongOfSprockets](https://github.com/Chubek/SongOfTheSprockets) -> A voice conversion tool using GMM, a fork of Sprocker-VC with a UI using Dear Imgui.
 * [ClickBait Generator](https://github.com/Chubek/clickbait-generator) -> A very simple click-bait generator project.
 * [pyramid-anomaly-detection](https://github.com/Chubek/pyramid-anomally-detection) -> Anomaly detection in Python that makes heavy use of vectorization.
-* [intresignia](https://github.com/chubek/intresignia) Traffic sign detection.
+* [intresignia](https://github.com/chubek/intresignia) -> Traffic sign detection.
+* [SummerSavory](https://github.com/Chubek/SummerSavory) -> Shape irregularity index score, contains implementation of several algorithms in classical vision, WIP
 
 ## Systems and Network
 
@@ -191,6 +192,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Automation**|[Upsc3ne](https://github.com/Chubek/upsc3ne)|An early Rust code, an obscenity detector|
 |**Math**|[auster-integer](https://github.com/Chubek/auster-integer)|Big math WIP|
 |**Bioinformatics**|[PhyMMR Tools](https://github.com/Chubek/blosum_distance)|FFI tools for PhyMMR, some by me|
+|**Classical Vision**|[SummerSavory](https://github.com/Chubek/SummerSavory)|Shape irregularity index score, WIP|
 
 ## Python
 
