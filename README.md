@@ -30,7 +30,7 @@ Welcome to my Github profile. Please use the menu below to navigate to the sever
 
 # Introduction \(^o^)/
 
-I'm Chubak. I am a systems, network and scientific utility programmer with interest in AI, automation and graphics. I wish to have a sidegig in electronics that is why I am writing an electronics simulator. I code in C/C++, Go, Rust, Python and often, Nim. I also have a good understanding of x86-64 and Aarch64 Assembly languages. My main area of knowledge revolves around Linux and other Unix-like systems. I have no knowledge of Window, web development and GUI-centered applications, including that of Model-View-Controller applications.
+I'm Chubak. I am a systems, network and scientific utility programmer with interest in AI, automation and graphics. I code in *C/C++, Go, Rust, Python and often, Nim*. I also have a good understanding of *x86-64 and Aarch64 Assembly* languages. My main area of knowledge revolves around Linux and other Unix-like systems. I have no knowledge of Window, web development and GUI-centered applications, including that of Model-View-Controller applications.
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
