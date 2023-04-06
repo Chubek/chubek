@@ -151,6 +151,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a) -> Utility for my brother
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> MD5 Implementation in Go
 * [LazySplit](https://gist.github.com/Chubek/efa7f74dda28507ffafd395bff5a56fd) -> Lazy string/bytearray splitting in Python.
+* [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> Assembly-friendly encoding for Codons tables and their frequency.
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
