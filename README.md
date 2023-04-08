@@ -1,11 +1,11 @@
-# (*ﾟﾉOﾟ)<Chuuuuubaaaaak!
+# Chubak Bidpaa's Libre Project Showcase
 
 Welcome to my Github profile, where I host git repositoriies of my libre projects. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under either GPLv3 or MIT license.
 
-* [Introduction \(^o^)/](#introduction-o)
-* [Donation (◕‿◕)](#donation-%E2%80%BF)
-* [Special Showcase ᕕ( ᐛ )ᕗ](#special-showcase-%E1%95%95-%E1%90%9B-%E1%95%97)
-* [Projects by Topic ┬──┬ ¯\_(ツ)](#projects-by-topic--_%E3%83%84)
+* [Introduction](#introduction)
+* [Donation](#donation)
+* [Special Showcase](#special-showcase)
+* [Projects by Topic](#projects-by-topic)
 * * [Assembly Snippets](#assembly-snippets)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
@@ -19,7 +19,7 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * * [Graphics Programming and Gaming](#graphics-programming-and-gaming)
 * * [Small Projects in Gist](#small-projects-in-gist)
 * * [Projects I Contribute to](#projects-i-contribute-to)
-* [Codes and Projects by Language (^0_0^)](#codes-and-projects-by-language-0_0)
+* [Codes and Projects by Language](#codes-and-projects-by-language)
 * * [Multilingual](#multilingual)
 * * [Assembly](#assembly)
 * * [C/C++](#cc)
@@ -27,10 +27,10 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * * [Python](#python)
 * * [Go](#go)
 * * [Misc.](#misc)
-* [Sites and Social Media (＾▽＾)](#sites-and-social-media-)
+* [Sites and Social Media](#sites-and-social-media)
 
 
-# Introduction \(^o^)/
+# Introduction
 
 I have had a long journey in programming, started at 16 by making simple games, jumped around a bit, went to college for a while, and started work a few years back.
 
@@ -38,7 +38,7 @@ My main focus is **systems programming**, **netork programming** and **scientifi
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
-# Donation (◕‿◕)
+# Donation
 
 If you like my work, please consider donating any amount to these wallets:
 
@@ -65,7 +65,7 @@ BEP2 Tag -> 136103027
 
 Your donation is appreciated, and is delegated towards development of stiff libre software. Thanks in advance in case you make a donation!
 
-# Special Showcase ᕕ( ᐛ )ᕗ
+# Special Showcase
 
 Below are some of my curated projects that you will find more details about in the latter sections, and inside their repository as well:
 
@@ -78,7 +78,7 @@ Below are some of my curated projects that you will find more details about in t
 
 I have many more projects you can view below.
 
-# Projects by Topic ┬──┬ ¯\_(ツ)
+# Projects by Topic
 
 ## Assembly Snippets
 
@@ -161,7 +161,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
 * [PhyMMR](https://github.com/Thernn88/PhyMMR/) -> A bioinformatics project that I actively participate to for my work.
 
-# Codes and Projects by Language (^0_0^) 
+# Codes and Projects by Language
 
 ## Multilingual
 |Topic|X86-64 Assembly|Aarch64 Assembly|C|Rust|Go|Python|Nim|JS|Description|Status|
@@ -245,7 +245,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 
 
-# Sites and Social Media (＾▽＾)
+# Sites and Social Media
 
 * Website -> https://chubakbidpaa.com
 * Twitter -> [@gvlside](https://twitter.com/gvlside)
