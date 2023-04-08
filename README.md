@@ -36,6 +36,8 @@ I have had a long journey in programming, started at 16 by making simple games, 
 
 My main focus is **systems programming**, **netork programming** and **scientific programming**. I code often in **x86-64/Aarch64 Assembly**, **C**, **Rust**, **Go** and Python. I also code in Nim, and NodeJS. I choose the lower-level languages for performance, the higher-level languages for ease of use, and Python as a general, extremely useful spanner wrench across all my projects. I had a short stint in ML engineering.
 
+My experience is exlusively with Linux, and totem pro parte, all Unix-like and/or POSIX operating systems. 
+
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
 # Donation
