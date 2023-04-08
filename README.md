@@ -166,10 +166,10 @@ UDM). I will add a UDP one soon I just need an idea.
 # Codes and Projects by Language
 
 ## Multilingual
-|Topic|X86-64 Assembly|Aarch64 Assembly|C|Rust|Go|Python|Nim|JS|Description|Status|
-|--|--|--|--|--|--|--|--|--|--|--|
-|**Cryptography**|✘|✘|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
-|**Bioinformatics**|✓|✓|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
+|Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
+|--|--|---|--|--|--|--|--|--|--|--|
+|**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
+|**Bioinforma✓s**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
 
 ## Assembly
 |Topic|x86-64|Aarh64|Repo|Description|Status|
