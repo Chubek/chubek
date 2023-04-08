@@ -165,7 +165,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 ## Multilingual
 |Topic|X86-64 Assembly|Aarch64 Assembly|C|Rust|Go|Python|Nim|JS|Description|Status|
-|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|
 |**Cryptography**|✘|✘|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)ⁿ|A block hash algorithm with high avalanche effect|Finished|
 |**Bioinformatics**|✓|✓|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
 
