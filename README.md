@@ -34,7 +34,7 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 
 I have had a long journey in programming, started at 16 by making simple games, jumped around a bit, went to college for a while, and started work a few years back.
 
-My main focus is **systems programming**, **netork programming** and **scientific programming**. My systems and scientific applications are coded in **x86-64/Aarch64 Assembly** and **C**, my network applications are coded in **Rust** and **Go** and I use **Python** and **Bash** for scripting system utilities. Other languages I have often worked with are JavaScript and Nim. 
+My main focus is **systems programming**, **network programming** and **scientific programming**. My systems and scientific applications are coded in **x86-64/Aarch64 Assembly** and **C**, my network applications are coded in **Rust** and **Go** and I use **Python** and **Bash** for scripting system utilities. Other languages I have often worked with are JavaScript and Nim. 
 
 My discipline is code optimization. I have been brought to projects with poor-performing code and I boosted them up in terms of speed and performance. I achieve speed in every language by writing FFIs in lower-level languages. For C, I use Assembly. For Rust and Go, I use C. And for Python I use C and Rust. I have a good understanding of virtual memory, the parts of which a process in a Unix-like system is made, linking and compiling. I also follow strict rulse for documentation etiquette and providing an easy interface for the user.
 
