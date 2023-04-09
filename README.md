@@ -34,9 +34,11 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 
 I have had a long journey in programming, started at 16 by making simple games, jumped around a bit, went to college for a while, and started work a few years back.
 
-My main focus is **systems programming**, **netork programming** and **scientific programming**. I code often in **x86-64/Aarch64 Assembly**, **C**, **Rust**, **Go** and Python. I also code in Nim, and NodeJS. I choose the lower-level languages for performance, the higher-level languages for ease of use, and Python as a general, extremely useful spanner wrench across all my projects. I had a short stint in ML engineering.
+My main focus is **systems programming**, **netork programming** and **scientific programming**. My systems and scientific applications are coded in **x86-64/Aarch64 Assembly** and **C**, my network applications are coded in **Rust** and **Go** and I use **Python** and **Bash** for scripting system utilities. Other languages I have often worked with are JavaScript and Nim. 
 
-My experience is exlusively with Linux, and totem pro parte, all Unix-like and/or POSIX operating systems. 
+My discipline is code optimization. I have been brought to projects with poor-performing code and I boosted them up in terms of speed and performance. I achieve speed in every language by writing FFIs in lower-level languages. For C, I use Assembly. For Rust and Go, I use C. And for Python I use C and Rust. I have a good understanding of virtual memory, the parts of which a process in a Unix-like system is made, linking and compiling. I also follow strict rulse for documentation etiquette and providing an easy interface for the user.
+
+My experience is exlusively with Linux, and totem pro parte, all Unix-like and/or POSIX-compliant operating systems. 
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
 
