@@ -40,34 +40,7 @@ My discipline is code optimization. I have been brought to projects with poor-pe
 
 My experience is exlusively with Linux, and totem pro parte, all Unix-like and/or POSIX-compliant operating systems. 
 
-This profile serves as a place for all my Github projects, and as a portfolio for potential employers.
-
-# Donation
-
-If you like my work, please consider donating any amount to these wallets:
-
-Ethereum and Binance Network:
-```
-0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
-```
-
-TRX:
-```
-TABihfZH9tHWJnCDAK3tkpFwmSxocgn25A
-```
-
-BTC:
-```
-13xM3LbEFjbjwMSAs9Ybz4T6pdmJtB8F9m
-```
-
-BEP2 address and tags:
-```
-BEP2 Address -> bnb13eqrynp3rls3m6dsw58d3y5l7z6zfdw5zj3sdy
-BEP2 Tag -> 136103027
-```
-
-Your donation is appreciated, and is delegated towards development of stiff libre software. Thanks in advance in case you make a donation!
+This profile serves as a place for all my Github projects, and as a portfolio for potential employers. If I am available, I am free to do projects. You can view my current rates [below](#hiring-rates).
 
 # Special Showcase
 
@@ -248,6 +221,50 @@ UDM). I will add a UDP one soon I just need an idea.
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 
+# Hiring Rates
+
+All prices listed below are entirely negotiable, within reason, of course.
+
+|Length|Type|Minimum|Maximum|
+|------|----|-------|-------|
+|Long|Systems|400 USD Bi-weekly|800 USD Bi-weekly|
+|Long|Network|350 USD Bi-weekly|650 USD Bi-weekly|
+|Long|Scientific Programming|450 USD Weekly|500 USD Bi-weekly|
+|Medium|Systems|300 USD Weekly|400 USD Weekly|
+|Medium|Network|200 USD Weekly|350 USD Weekly|
+|Medium|Scientific Programming|250 USD Weekly|450 USD Weekly|
+|Short|Systems|100 USD Daily|300 USD Daily|
+|Short|Network|50 USD Daily|150 USD Daily|
+|Short|Scientific Programming|200 USD Daily|300 USD Daily|
+
+Bi-weekly means every two weeks.
+
+# Donation
+
+If you like my work, please consider donating any amount to these wallets:
+
+Ethereum and Binance Network:
+```
+0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
+```
+
+TRX:
+```
+TABihfZH9tHWJnCDAK3tkpFwmSxocgn25A
+```
+
+BTC:
+```
+13xM3LbEFjbjwMSAs9Ybz4T6pdmJtB8F9m
+```
+
+BEP2 address and tags:
+```
+BEP2 Address -> bnb13eqrynp3rls3m6dsw58d3y5l7z6zfdw5zj3sdy
+BEP2 Tag -> 136103027
+```
+
+Your donation is appreciated, and is delegated towards development of stiff libre software. Thanks in advance in case you make a donation!
 
 # Sites and Social Media
 
