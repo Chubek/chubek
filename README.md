@@ -26,7 +26,7 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * * [Python](#python)
 * * [Go](#go)
 * * [Misc.](#misc)
-* [Hiring Rate](#hiring-rate)
+* [Hiring Rates](#hiring-rates)
 * [Donation](#donation)
 * [Sites and Social Media](#sites-and-social-media)
 
