@@ -3,7 +3,6 @@
 Welcome to my Github profile, where I host git repositoriies of my libre projects. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under either GPLv3 or MIT license.
 
 * [Introduction](#introduction)
-* [Donation](#donation)
 * [Special Showcase](#special-showcase)
 * [Projects by Topic](#projects-by-topic)
 * * [Assembly Snippets](#assembly-snippets)
@@ -27,6 +26,8 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * * [Python](#python)
 * * [Go](#go)
 * * [Misc.](#misc)
+* [Hiring Rate](#hiring-rate)
+* [Donation](#donation)
 * [Sites and Social Media](#sites-and-social-media)
 
 
