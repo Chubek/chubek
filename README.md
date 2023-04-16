@@ -5,7 +5,6 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * [Introduction](#introduction)
 * [Special Showcase](#special-showcase)
 * [Projects by Topic](#projects-by-topic)
-* * [Assembly Snippets](#assembly-snippets)
 * * [Eclectic Engineering](#eclectic-engineering)
 * * * [Electronics and Embedded Programming](#electronics-and-embedded-programming)
 * * * [Math](#math)
@@ -47,7 +46,7 @@ Also, I do own several bench-top electronics equipment. An ocilloscope, a bench-
 
 # Special Showcase
 
-Below are some of my curated projects that you will find more details about in the latter sections, and inside their repository as well:
+Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
 * [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
 * [TransGatacca](https://github.com/chubek/TransGatacca) -> A DNA/Protein [Reverse] Translator, ABI in Aarch64 and x86-64 Assembly with C/Rust/Python API
@@ -57,13 +56,16 @@ Below are some of my curated projects that you will find more details about in t
 * [Samovar](https://github.com/Chubek/Samovar) -> A WIP web framework in Rust
 * [Slitherbain](https://github.com/Chubek/Slitherbrain) -> A WIP C project, is a Python code executor API with custom HTTP framework
 
+And below are some of my special small code pieces in Github Gist form:
+
+* [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages
+* [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> A way to encode Codon table in 8bit and 64bit integers
+* [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> An implementation of MD5 in Go
+* [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A metaprogram in Bash for Python's line_profiler
+
 I have many more projects you can view below.
 
 # Projects by Topic
-
-## Assembly Snippets
-
-* [DJB2 in Aarch64 and x86-64](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> Implementation DJB2 in these assembly languages.
 
 ## Eclectic Engineering
 
@@ -138,6 +140,8 @@ UDM). I will add a UDP one soon I just need an idea.
 * [LazySplit](https://gist.github.com/Chubek/efa7f74dda28507ffafd395bff5a56fd) -> Lazy string/bytearray splitting in Python.
 * [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> Assembly-friendly encoding for Codons tables and their frequency.
 * [Zinteger](https://gist.github.com/Chubek/27eec6435df6b30684dee201dc5edf4b#other-projects) -> Typed ctypes integers wrappers, dynamically-generated.
+* [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages.
+
 
 ## Projects I Contribute to
 * [Cherry-Node](https://github.com/CherryNetwork/Cherry-Node) -> for my work in Cherry.
