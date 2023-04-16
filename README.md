@@ -50,6 +50,7 @@ Also, I do own several bench-top electronics equipment. An ocilloscope, a bench-
 Below are some of my curated projects that you will find more details about in the latter sections, and inside their repository as well:
 
 * [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
+* [TransGatacca](https://github.com/chubek/TransGatacca) -> A DNA/Protein [Reverse] Translator, ABI in Aarch64 and x86-64 Assembly with C/Rust/Python API
 * [mathcord](https://github.com/Chubek/mathcord) -> A Discord bot in Go with Shunting Yard, SHA-512 and Edwards-512 implemented manually
 * [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> A face recognition system with liveness decetion in Python
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A series of generic application-layer protocols in Go
