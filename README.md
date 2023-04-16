@@ -43,7 +43,7 @@ My experience is exlusively with Linux, and totem pro parte, all Unix-like and/o
 
 This profile serves as a place for all my Github projects, and as a portfolio for potential employers. If I am available, I am free to do projects. You can view my current rates [below](#hiring-rates).
 
-Also, I do own several bench-top electronics equipment. An ocilloscope, a bench-top PSU, a function generator, and I own several hundreds of pieces of electronics equipment, and some embedded hardware such as an Arduino --- my knowledge of both CISc and RISC architectures combined with my knowledge of systems can be levereged to yield embedded projects, preferably ones heavy on hardware. If you have such project I am willing to accept a considerable cut in payment.
+Also, I do own several bench-top electronics equipment. An ocilloscope, a bench-top PSU, a function generator, and I own several hundreds of pieces of electronics equipment, and some embedded hardware such as an Arduino --- my knowledge of both CISC and RISC architectures combined with my knowledge of systems can be levereged to yield embedded projects, preferably ones heavy on hardware. If you have such project I am willing to accept a considerable cut in payment.
 
 # Special Showcase
 
