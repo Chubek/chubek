@@ -62,6 +62,7 @@ And below are some of my special small code pieces in Github Gist form:
 * [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> A way to encode Codon table in 8bit and 64bit integers
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> An implementation of MD5 in Go
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A metaprogram in Bash for Python's line_profiler
+* [XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5) -> PRNG for x86-64 Assembly and Hash for Aarch64 Assembly
 
 I have many more projects you can view below.
 
@@ -142,6 +143,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Zinteger](https://gist.github.com/Chubek/27eec6435df6b30684dee201dc5edf4b#other-projects) -> Typed ctypes integers wrappers, dynamically-generated.
 * [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages.
 * [SpudMacs](https://gist.github.com/Chubek/36bdb1ff95d1633993f9ac18e3cdc44a) -> Cross-architecture (x64 an a64) macros for GAS.
+* [XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5) -> PRNG for x86-64 Assembly and Hash for Aarch64 Assembly
 
 
 ## Projects I Contribute to
@@ -160,7 +162,9 @@ UDM). I will add a UDP one soon I just need an idea.
 |Topic|x86-64|Aarh64|Repo|Description|Status|
 |-----|----|---|---|---|--|
 |**Utility/Snippet**|✓|✓|[DJB2 Hash](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2, a non-cryptographic hash function|Finished|
-|**Metaprogramming**|✓|✓|[SpudMacs](https://gist.github.com/Chubek/36bdb1ff95d1633993f9ac18e3cdc44a)|Cross-architecture (x64 an a64) macros for GAS|Finished|
+|**Metaprogramming**|✓|✓|[SpudMacs](https://gist.github.com/Chubek/36bdb1ff95d1633993f9ac18e3cdc44a)|Cross-architecture (x64 an a64) macros for 
+GAS|Finished|
+|**Utility/Subroutine**|✓|✓|[XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5)|PRNG for x86-64 Assembly and Hash for Aarch64 Assembly|
 
 ## C/C++
 
