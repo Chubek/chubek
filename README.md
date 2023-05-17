@@ -63,6 +63,7 @@ And below are some of my special small code pieces in Github Gist form:
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> An implementation of MD5 in Go
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A metaprogram in Bash for Python's line_profiler
 * [XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5) -> PRNG for x86-64 Assembly and Hash for Aarch64 Assembly
+* [DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) -> A DNs Resolver in Python
 
 I have many more projects you can view below.
 
@@ -144,6 +145,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages.
 * [SpudMacs](https://gist.github.com/Chubek/36bdb1ff95d1633993f9ac18e3cdc44a) -> Cross-architecture (x64 an a64) macros for GAS.
 * [XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5) -> PRNG for x86-64 Assembly and Hash for Aarch64 Assembly
+* [DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) -> A DNs Resolver in Python
 
 
 ## Projects I Contribute to
@@ -217,6 +219,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Bioinformatics**|[CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90)|Assembly-friendly Cododn encoding|Finished|
 |**Bioinformatics**|[ProteinToCodonTranslator](https://github.com/Chubek/ProteinToCodoneTranslator)|Frontend for pn2codon|Finished|
 |**Zinteger**|[Zinteger](https://gist.github.com/Chubek/27eec6435df6b30684dee201dc5edf4b#other-projects)|Dynamically-generated typed integers|Finished|
+|**Internet Protocol**|[DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) | A DNs Resolver in Python | Finished
 
 ## Go
 
