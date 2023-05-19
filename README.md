@@ -120,7 +120,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [rusty-you-dee-pee](https://github.com/chubek/rusty-you-dee-pee) -> UDP implementation in Rust with a TAP/TUN interface, includes implementation of IPv4 too, sends packets without a link layer.
 * [FourChidori](https://github.com/Chubek/FourChidori) -> A browser extension for 4chan.
 * [HDTP](https://github.com/Chubek/HDTP) -> A WIP application-layer protocol in C. The spec document is not exactly going to be what it's going to be. But it should give you a clear idea. It's almost 40% complete, the lexer/parser is done for config files.
-
+* [Panah](https://github.com/Chubek/Panah) -> A packet wrangler and tunnel in C and Assembly.
 
 ## Graphics Programming and Gaming
 * [Expelligraphicus](https://github.com/Chubek/Expelligraphicus) -> Software rasterizer [WIP]
@@ -159,6 +159,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
 |**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
+|**Network**|x64|✓|✘|✘|✘|✘|✘||[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ## Assembly
 |Topic|x86-64|Aarh64|Repo|Description|Status|
