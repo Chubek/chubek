@@ -159,7 +159,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
 |**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
-|**Network**|x64|✓|✘|✘|✘|✘|✘||[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
+|**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ## Assembly
 |Topic|x86-64|Aarh64|Repo|Description|Status|
