@@ -295,7 +295,7 @@ Your donation is appreciated, and is delegated towards development of stiff libr
 
 * Website -> https://chubakbidpaa.com
 * Twitter -> [@gvlside](https://twitter.com/gvlside)
-* Discord -> [Chubak#7400](https://discord.com/users/358017130408706069)
+* Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
 * Email -> chubakbidpaa@gmail.com
 
