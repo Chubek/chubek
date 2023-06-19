@@ -54,10 +54,10 @@ Below are some of my curated sizable projects that you will find more details ab
 * [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> A face recognition system with liveness decetion in Python
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A series of generic application-layer protocols in Go
 * [Samovar](https://github.com/Chubek/Samovar) -> A WIP web framework in Rust
-* [Slitherbain](https://github.com/Chubek/Slitherbrain) -> A WIP C project, is a Python code executor API with custom HTTP framework
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages
 * [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> A way to encode Codon table in 8bit and 64bit integers
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> An implementation of MD5 in Go
@@ -133,6 +133,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 
 ## Small Projects in Gist
+* [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150) -> Guassian Elmination for CUDA
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
@@ -178,6 +179,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Grammars**|[ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df)| A quick 'n dirty JSON parser|Finished|
 |**Systems/Network**|[Slitherbrain](https://github.com/Chubek/Slitherbrain)|Pythcode code runner in C++|Indefinite Development|
 |**Graphics Programming**|[Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus)|Noise-generating After Effects plugin|Finished|
 |**Bioinformatics**|[pylibfastcompare](https://github.com/Chubek/pylibfastcompare)|Lazy-hamming multi-threaded DNA sequence deduper|Terminated|
