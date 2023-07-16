@@ -65,6 +65,7 @@ And below are some of my special small code pieces in Github Gist form:
 * [XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5) -> PRNG for x86-64 Assembly and Hash for Aarch64 Assembly
 * [DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) -> A DNS Resolver in Python
 * [MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8) -> Macros and Assembly Wrappers for Linux Syscalls
+* [xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) -> Manually loading the vDSO by looking up auxillary vectors and parsing the ELF
 
 I have many more projects you can view below.
 
@@ -150,6 +151,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) -> A DNS Resolver in Python
 * [PommeMacs](https://gist.github.com/Chubek/c70554c88130b0ff665c7ceec684119a) -> C Preprocessor macros to make C/x86-64 Assembly cross-programming easier
 * [MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8) -> Macros and Assembly Wrappers for Linux Syscalls
+* [xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) -> Manually loading the vDSO by looking up auxillary vectors and parsing the ELF
 
 
 ## Projects I Contribute to
@@ -187,6 +189,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Network**|[HDTP](https://github.com/Chubek/HDTP)|WIP, Hyper Data Transfer Protocol spec and implementation|Indefinite Development|
 |**Network**|[Kaibash](https://github.com/Chubek/Kaibash)|Very WIP proxy|Rough Draft|
 |**Math**|[CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)|Gaussian elimination in CUDA|Finished|
+|**System/Linux**|[xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) | Manually loading the vDSO by looking up auxillary vectors and parsing the ELF | Finished |
 
 ## Rust
 
