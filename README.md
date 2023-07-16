@@ -54,6 +54,7 @@ Below are some of my curated sizable projects that you will find more details ab
 * [PuertoRECO](https://github.com/Chubek/PuertoRECO) -> A face recognition system with liveness decetion in Python
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A series of generic application-layer protocols in Go
 * [Samovar](https://github.com/Chubek/Samovar) -> A WIP web framework in Rust
+* [Profiterole](https://github.com/Chubek/Profiterole) -> An overhead-free profiler in C with native interface for Python
 
 And below are some of my special small code pieces in Github Gist form:
 
@@ -113,6 +114,8 @@ I have many more projects you can view below.
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A couple of application-layer potocols in Go. First is ProtoQuore (TCP) and the second is ProtoDir (
 UDM). I will add a UDP one soon I just need an idea.
 * [Slitherbain](https://github.com/Chubek/Slitherbrain) -> Python code runner in C++. It is WIP but nearly done.
+* [Profiterole](https://github.com/Chubek/Profiterole) -> An overhead-free profiler in C with native interface for Python
+* [Broshelli](https://github.com/Chubek/Broshelli) -> A shell for the browser (mostly experimental)
 
 ### Networking, Internet, and Web
 * [Samovar](https://github.com/Chubek/Samovar) -> A full-fledged Web Framework in Rust that I keep working on until it becomes viable.
@@ -190,6 +193,8 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Network**|[Kaibash](https://github.com/Chubek/Kaibash)|Very WIP proxy|Rough Draft|
 |**Math**|[CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150)|Gaussian elimination in CUDA|Finished|
 |**System/Linux**|[xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) | Manually loading the vDSO by looking up auxillary vectors and parsing the ELF | Finished |
+|**Systems/Tracing** | [Profiterole](https://github.com/Chubek/Profiterole) | An overhead-free profiler in C with native interface for Python | Mostly Done |
+|**System/Shell**|[Broshelli](https://github.com/Chubek/Broshelli) | A shell for the browser (mostly experimental)|Experimental|
 
 ## Rust
 
