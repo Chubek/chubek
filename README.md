@@ -32,17 +32,19 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 
 # Introduction
 
-I have had a long journey in programming, started at 16 by making simple games, jumped around a bit, went to college for a while, and started work a few years back.
+Hi, I go by Chubak but you can call me anything you want. I do systems programming, mostly with C. I also do DSL (Domain-Specic Language) development. Besides that I have loads of other stuff which you can view here. I know a good amount of *NIX and POSIX system calls, the STDC library, Windows 32 and 64 API, shell scripting, Python scripting, and also, I am learning electronics --- enough so I can make my own embedded devices.
 
-My main focus is **systems programming**, **network programming** and **scientific programming**. My systems and scientific applications are coded in **x86-64/Aarch64 Assembly** and **C**, my network applications are coded in **Rust** and **Go** and I use **Python** and **Bash** for scripting system utilities. Other languages I have often worked with are JavaScript and Nim. 
+I really enjoy venturing into the world of the unknown and coming back with a sackfull of knowledge. Kinda like Indiana Jones. I read up on a lot of computational theory, discrete mathematics, language development, electronics, digital design, etc. These are my favorite books, or 'Pentateuch' on the subject:
 
-My discipline is code optimization. I have been brought to projects with poor-performing code and I boosted them up in terms of speed and performance. I achieve speed in every language by writing FFIs in lower-level languages. For C, I use Assembly. For Rust and Go, I use C and Assembly. And for Python I use C and Rust. I have a good understanding of virtual memory, the parts of which a process in a Unix-like system are made, linking and compiling. I also follow strict rulse for documentation etiquette and providing an easy interface for the user.
+1- Sipser's book on computational theory
 
-My experience is exlusively with Linux, and totem pro parte, all Unix-like and/or POSIX-compliant operating systems. 
+2- The Dragon Book
 
-This profile serves as a place for all my Github projects, and as a portfolio for potential employers. If I am available, I am free to do projects. You can view my current rates [below](#hiring-rates).
+3- The Wizard Book
 
-Also, I do own several bench-top electronics equipment. An ocilloscope, a bench-top PSU, a function generator, and I own several hundreds of pieces of electronics equipment, and some embedded hardware such as an Arduino --- my knowledge of both CISC and RISC architectures combined with my knowledge of systems can be levereged to yield embedded projects, preferably ones heavy on hardware. If you have such project I am willing to accept a considerable cut in payment.
+4- Digital Design and Computer Architecture
+
+5- Art of Electronics
 
 # Special Showcase
 
@@ -256,23 +258,6 @@ UDM). I will add a UDP one soon I just need an idea.
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 
-# Hiring Rates
-
-All prices listed below are entirely negotiable, within reason, of course.
-
-|Length|Type|Minimum|Maximum|
-|------|----|-------|-------|
-|Long|Systems|400 USD Bi-weekly|800 USD Bi-weekly|
-|Long|Network|350 USD Bi-weekly|650 USD Bi-weekly|
-|Long|Scientific Programming|450 USD Weekly|500 USD Bi-weekly|
-|Medium|Systems|300 USD Weekly|400 USD Weekly|
-|Medium|Network|200 USD Weekly|350 USD Weekly|
-|Medium|Scientific Programming|250 USD Weekly|450 USD Weekly|
-|Short|Systems|100 USD Daily|300 USD Daily|
-|Short|Network|50 USD Daily|150 USD Daily|
-|Short|Scientific Programming|200 USD Daily|300 USD Daily|
-
-Bi-weekly means every two weeks.
 
 # Donation
 
