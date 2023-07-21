@@ -69,6 +69,7 @@ And below are some of my special small code pieces in Github Gist form:
 * [DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) -> A DNS Resolver in Python
 * [MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8) -> Macros and Assembly Wrappers for Linux Syscalls
 * [xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) -> Manually loading the vDSO by looking up auxillary vectors and parsing the ELF
+* [sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) -> Static memory region grants based on A. Tannenbaum's paper
 
 I have many more projects you can view below.
 
@@ -197,6 +198,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**System/Linux**|[xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) | Manually loading the vDSO by looking up auxillary vectors and parsing the ELF | Finished |
 |**Systems/Tracing** | [Profiterole](https://github.com/Chubek/Profiterole) | An overhead-free profiler in C with native interface for Python | Mostly Done |
 |**System/Shell**|[Broshelli](https://github.com/Chubek/Broshelli) | A shell for the browser (mostly experimental)|Experimental|
+|**Memory**|[sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) | Static memory region grants based on A. Tannenbaum's paper | Finished |
 
 ## Rust
 
