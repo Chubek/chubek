@@ -31,7 +31,7 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 
 # Introduction
 
-Hi, I go by Chubak but you can call me anything you want. I do systems programming, mostly with C. I also do DSL (Domain-Specic Language) development. Besides that I have loads of other stuff which you can view here. I know a good amount of *NIX and POSIX system calls, the STDC library, Windows 32 and 64 API, shell scripting, x86-64 and Aarch64 Assembly, Python scripting, and also, I am learning electronics --- enough so I can make my own embedded devices.
+Hi, I go by Chubak but you can call me anything you want. I do systems programming, mostly with C. I know a good amount of *NIX and POSIX system calls, the STDC library, Windows 32 and 64 API, shell scripting, x86-64 and Aarch64 Assembly, Python scripting, and also, I am learning electronics --- enough so I can make my own embedded devices.
 
 I really enjoy venturing into the world of the unknown and coming back with a sackfull of knowledge. Kinda like Indiana Jones. I read up on a lot of computational theory, discrete mathematics, language development, electronics, digital design, etc. These are my favorite books, or 'Pentateuch' on the subject:
 
