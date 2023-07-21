@@ -45,6 +45,9 @@ I really enjoy venturing into the world of the unknown and coming back with a sa
 
 5- Art of Electronics
 
+And I guess for now the Apocrypha would  be OS Dev Book (The MINIX book).
+
+
 # Special Showcase
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
