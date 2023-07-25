@@ -52,6 +52,7 @@ And I guess for now the Apocrypha would  be OS Dev Book (The MINIX book).
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
+* [Stackls](https://github.com/Chubek/Stackls) -> List process stack frame in Win32 API and Linux
 * [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
 * [TransGatacca](https://github.com/chubek/TransGatacca) -> A DNA/Protein [Reverse] Translator, ABI in Aarch64 and x86-64 Assembly with C/Rust/Python API
 * [mathcord](https://github.com/Chubek/mathcord) -> A Discord bot in Go with Shunting Yard, SHA-512 and Edwards-512 implemented manually
@@ -121,6 +122,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [Slitherbain](https://github.com/Chubek/Slitherbrain) -> Python code runner in C++. It is WIP but nearly done.
 * [Profiterole](https://github.com/Chubek/Profiterole) -> An overhead-free profiler in C with native interface for Python
 * [Broshelli](https://github.com/Chubek/Broshelli) -> A shell for the browser (mostly experimental)
+* [Stackls](https://github.com/Chubek/Stackls) -> List process stack frame in Win32 API and Linux
 
 ### Networking, Internet, and Web
 * [Samovar](https://github.com/Chubek/Samovar) -> A full-fledged Web Framework in Rust that I keep working on until it becomes viable.
@@ -201,6 +203,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Systems/Tracing** | [Profiterole](https://github.com/Chubek/Profiterole) | An overhead-free profiler in C with native interface for Python | Mostly Done |
 |**System/Shell**|[Broshelli](https://github.com/Chubek/Broshelli) | A shell for the browser (mostly experimental)|Experimental|
 |**Memory**|[sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) | Static memory region grants based on A. Tannenbaum's paper | Finished |
+|**System/Memory**|[Stackls](https://github.com/Chubek/Stackls) | List process stack frame in Win32 API and Linux | Finished |
 
 ## Rust
 
