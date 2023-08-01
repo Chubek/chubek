@@ -150,6 +150,7 @@ UDM). I will add a UDP one soon I just need an idea.
 * [PerioDetect](https://gist.github.com/Chubek/0a2b0e858e12a74fdb1ea1375ef8cb26) -> For removing period-terminated sequences from FASTA files (made for PhyMMR but anyone can use it).
 * [Stinky](https://gist.github.com/Chubek/fd67206b69d69862d756a5b82310a9ce) -> An extremely small Morse Code translator API with a custom HTTP framework, built upon Python Streaming API
 * [BitwiseWord](https://gist.github.com/Chubek/0753f01ff53b2e083325441db3d13f88) -> A small script, bitwise operations in Python on words, on binary lists of size 16
+* [Newton-Rhapson Intrinsics](https://gist.github.com/Chubek/7c62f186b5589cef16050c5e552d827e) -> Newton-Rhapson method with Intel Intrinsics in C and Assembly
 * [Delphia Scripts](https://gist.github.com/Chubek/5e45ae19565980cb3d7dd6e452c9357a) -> Utility for my brother
 * [Go MD5](https://gist.github.com/Chubek/8a41b8f1b624ab9312190521d5596757) -> MD5 Implementation in Go
 * [LazySplit](https://gist.github.com/Chubek/efa7f74dda28507ffafd395bff5a56fd) -> Lazy string/bytearray splitting in Python.
@@ -185,6 +186,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Utility/Subroutine**|✓|✓|[XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5)|PRNG for x86-64 Assembly and Hash for Aarch64 Assembly|Finished|
 |**Metaprogramming**|✓|✘|[PommeMacs](https://gist.github.com/Chubek/c70554c88130b0ff665c7ceec684119a)|C Preprocessor macros to make cross-programming C and x64 Assembly easier|Finished|
 |**Metaprogramming**|✓|✘|[MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8)|Macros and Assembly Wrappers for Linux Syscalls|FInished|
+|**Math/Calculus**|✓|✘|[Newton-Rhapson Intrinsics](https://gist.github.com/Chubek/7c62f186b5589cef16050c5e552d827e) -> Newton-Rhapson method with Intel Intrinsics in C and Assembly| Finished |
 
 
 ## C
