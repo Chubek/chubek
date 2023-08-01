@@ -186,7 +186,7 @@ UDM). I will add a UDP one soon I just need an idea.
 |**Utility/Subroutine**|✓|✓|[XUtils-1](https://gist.github.com/Chubek/ef006014a105f90bc6ac654ff0b10cd5)|PRNG for x86-64 Assembly and Hash for Aarch64 Assembly|Finished|
 |**Metaprogramming**|✓|✘|[PommeMacs](https://gist.github.com/Chubek/c70554c88130b0ff665c7ceec684119a)|C Preprocessor macros to make cross-programming C and x64 Assembly easier|Finished|
 |**Metaprogramming**|✓|✘|[MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8)|Macros and Assembly Wrappers for Linux Syscalls|FInished|
-|**Math/Calculus**|✓|✘|[Newton-Rhapson Intrinsics](https://gist.github.com/Chubek/7c62f186b5589cef16050c5e552d827e) -> Newton-Rhapson method with Intel Intrinsics in C and Assembly| Finished |
+|**Math/Calculus**|✓|✘|[Newton-Rhapson Intrinsics](https://gist.github.com/Chubek/7c62f186b5589cef16050c5e552d827e) | Newton-Rhapson method with Intel Intrinsics in C and Assembly| Finished |
 
 
 ## C
