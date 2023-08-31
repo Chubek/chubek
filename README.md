@@ -45,7 +45,7 @@ I really enjoy venturing into the world of the unknown and coming back with a sa
 
 5- Art of Electronics
 
-And I guess for now the Apocrypha would  be OS Dev Book (The MINIX book).
+And I guess for now the Apocrypha would  be AST's OS Dev Books (The MINIX book, Modern OS Book, Distributed Systems book).
 
 
 # Special Showcase
