@@ -73,6 +73,7 @@ And below are some of my special small code pieces in Github Gist form:
 * [MangoMacs](https://gist.github.com/Chubek/bc96fc7cff2d90cb255ccd973c5ca9e8) -> Macros and Assembly Wrappers for Linux Syscalls
 * [xvDSO](https://gist.github.com/Chubek/3baffe48e8d57524d4924c75429a9eff) -> Manually loading the vDSO by looking up auxillary vectors and parsing the ELF
 * [sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) -> Static memory region grants based on A. Tannenbaum's paper
+* [yyeval](https://gist.github.com/Chubek/d7e5eb46c956d15754c7e93d397aeec4) -> PEG Grammar for numerical expressions.
 
 I have many more projects you can view below.
 
