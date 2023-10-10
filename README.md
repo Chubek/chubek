@@ -52,6 +52,7 @@ And I guess for now the Apocrypha would  be AST's OS Dev Books (The MINIX book, 
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
+* [Squawk](https://github.com/Chubek/Squawk) -> A feature-rich AWK interpreter [WIP]
 * [Stackls](https://github.com/Chubek/Stackls) -> List process stack frame in Win32 API and Linux
 * [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
 * [TransGatacca](https://github.com/chubek/TransGatacca) -> A DNA/Protein [Reverse] Translator, ABI in Aarch64 and x86-64 Assembly with C/Rust/Python API
@@ -194,6 +195,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**LanguageDev**| [Squawk](https://github.com/Chubek/Squawk) | A feature-rich AWK interpreter | WIP |
 |**Grammars**|[ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df)| A quick 'n dirty JSON parser|Finished|
 |**Systems/Network**|[Slitherbrain](https://github.com/Chubek/Slitherbrain)|Pythcode code runner in C++|Indefinite Development|
 |**Graphics Programming**|[Bedlam Noise Apparatus](https://github.com/Chubek/Bedlam-Noise-Apparatus)|Noise-generating After Effects plugin|Finished|
