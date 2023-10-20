@@ -146,6 +146,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 
 ## Small Projects in Gist
+* [TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20) -> Nucleotide triplet counter in AWK
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150) -> Guassian Elmination for CUDA
 * [DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f) -> A wrapper for line_profiler around PhyMMR for easier profiling.
@@ -264,6 +265,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Language|Topic|Repo|Description|Status|
 |--------|-----|----|-----------|---|
+|AWK | **Bioinformatics** |[TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20)| Nucleotide triplet counter in AWK | finished |
 |VanillaJS|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
 |NodeJS|**Databases**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|Finished|
 |AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|Terminated|
