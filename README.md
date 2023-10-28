@@ -25,7 +25,6 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 * * [Python](#python)
 * * [Go](#go)
 * * [Misc.](#misc)
-* [Donation](#donation)
 * [Sites and Social Media](#sites-and-social-media)
 
 
@@ -53,6 +52,7 @@ And I guess for now the Apocrypha would  be AST's OS Dev Books (The MINIX book, 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
 * [Squawk](https://github.com/Chubek/Squawk) -> A feature-rich AWK interpreter [WIP]
+* [Ekipp](https://github.com/Chubek/Ekipp) -> A macro preprocessor language
 * [Stackls](https://github.com/Chubek/Stackls) -> List process stack frame in Win32 API and Linux
 * [PoxHash](https://github.com/chubek/PoxHash) -> A custom block hashing algorithm implemented in C, Rust, Go, Nim, Python and JS
 * [TransGatacca](https://github.com/chubek/TransGatacca) -> A DNA/Protein [Reverse] Translator, ABI in Aarch64 and x86-64 Assembly with C/Rust/Python API
@@ -79,6 +79,10 @@ And below are some of my special small code pieces in Github Gist form:
 I have many more projects you can view below.
 
 # Projects by Topic
+
+## Language Development
+* [Ekipp](https://github.com/Chubek/Ekipp) -> A macro preprocessor language
+* [Squawk](https://github.com/Chubek/Squawk) -> A feature-rich AWK interpreter [WIP]
 
 ## Eclectic Engineering
 
@@ -196,6 +200,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**LanguageDev**| [Ekipp](https://github.com/Chubek/Ekipp) | A macro preprocessor language | Terminted |
 |**LanguageDev**| [Squawk](https://github.com/Chubek/Squawk) | A feature-rich AWK interpreter | WIP |
 |**Grammars**|[ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df)| A quick 'n dirty JSON parser|Finished|
 |**Systems/Network**|[Slitherbrain](https://github.com/Chubek/Slitherbrain)|Pythcode code runner in C++|Indefinite Development|
@@ -271,34 +276,6 @@ UDM). I will add a UDP one soon I just need an idea.
 |AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|Terminated|
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
-
-
-# Donation
-
-If you like my work, please consider donating any amount to these wallets:
-
-Ethereum and Binance Network:
-```
-0x503A3B99c0c086fD81186a0d5ac815eBd15e5983
-```
-
-TRX:
-```
-TABihfZH9tHWJnCDAK3tkpFwmSxocgn25A
-```
-
-BTC:
-```
-13xM3LbEFjbjwMSAs9Ybz4T6pdmJtB8F9m
-```
-
-BEP2 address and tags:
-```
-BEP2 Address -> bnb13eqrynp3rls3m6dsw58d3y5l7z6zfdw5zj3sdy
-BEP2 Tag -> 136103027
-```
-
-Your donation is appreciated, and is delegated towards development of stiff libre software. Thanks in advance in case you make a donation!
 
 # Sites and Social Media
 
