@@ -58,6 +58,8 @@ I like these documents:
 * The C Standard (ISOIEC 98992017)
 * The Anarchist Manifesto
 
+This book is an artwork -> Crafting Interpreters JUST BUY IT!
+
 # Special Showcase
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
