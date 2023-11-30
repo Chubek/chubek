@@ -62,6 +62,10 @@ This book is an artwork -> Crafting Interpreters JUST BUY IT!
 
 I have read most historic papers. My favorite paper is AST's paper on writing portable code. He wrote it in freaking 1974 when microcomputers weren't even a thing (I guess that ALTAIR was?) I dislike how3 he bashed Linus for making a monolithic kernel but I was -1 when he did it so I don't know what the discourse was around it.
 
+I did not understand a word of Thompson's paper of regex because it's a garbage scan from ACM journal.
+
+I plan to write for ACM. But the only thing they will allow someone like me write are the ad copies :(
+
 # Special Showcase
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
