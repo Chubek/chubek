@@ -45,8 +45,18 @@ I really enjoy venturing into the world of the unknown and coming back with a sa
 
 5- Art of Electronics
 
-And I guess for now the Apocrypha would  be AST's OS Dev Books (The MINIX book, Modern OS Book, Distributed Systems book).
+And the Apocrypha:
 
+* The Raccoon OS Book
+* The Dinosaur OS Book
+* Cooper & Torczon Compiler Book 
+* Andrew Appel's Compiler Books (all 3)
+
+I like these documents:
+
+* The POSIX Standard (IEEE Std 1003.1-2017)
+* The C Standard (ISOIEC 98992017)
+* The Anarchist Manifesto
 
 # Special Showcase
 
