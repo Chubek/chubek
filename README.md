@@ -65,6 +65,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages
 * [CodonEncode](https://gist.github.com/Chubek/cf634f200b33fef537bd8c2f04063d90) -> A way to encode Codon table in 8bit and 64bit integers
@@ -151,6 +152,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 
 ## Small Projects in Gist
+* [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
 * [TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20) -> Nucleotide triplet counter in AWK
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [CUDA Gaussian Elimination](https://gist.github.com/Chubek/21fd8da623e2fdeb270530d2ec274150) -> Guassian Elmination for CUDA
@@ -201,6 +203,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Memory**|[GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) | A header-only garbage collector, reference counting| Finished |
 |**LanguageDev**| [Ekipp](https://github.com/Chubek/Ekipp) | A macro preprocessor language | Finished |
 |**LanguageDev**| [Squawk](https://github.com/Chubek/Squawk) | A feature-rich AWK interpreter | WIP |
 |**Grammars**|[ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df)| A quick 'n dirty JSON parser|Finished|
