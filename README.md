@@ -83,6 +83,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [DynoGram](https://github.com/Chubek/DynoGram) -> Nucleotide to Peptide translation using Lex/Yacc
 * [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
 * [DJB2-ASM](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043) -> An implementation DJB2 hash in Aarch64 and x86-64 assembly languages
@@ -122,6 +123,8 @@ I have many more projects you can view below.
 * [pylibfastcompare](https://github.com/Chubek/pylibfastcompare) -> Lazy Hamming written in C for Python for bioinformatics.
 * [pylibfastadedupe](https://github.com/Chubek/pylibfastadedupe) -> Successor to pylibfastcompare (note: one is 'fast'compare one is 'fasta'dedupe.
 * [PhyMMR Tools](https://github.com/Chubek/blosum_distance) -> Tools for PhyMMR in Rust. Most of it is done by @mvalentine but I did some stuff too.
+* [DynoGram](https://github.com/Chubek/DynoGram) -> Nucleotide to Peptide translation using Lex/Yacc
+
 
 ### Machine Learning, Auditory and Vision
 
@@ -221,6 +224,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
 |**Memory**|[GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) | A header-only garbage collector, reference counting| Finished |
 |**LanguageDev**| [Ekipp](https://github.com/Chubek/Ekipp) | A macro preprocessor language | Finished |
 |**LanguageDev**| [Squawk](https://github.com/Chubek/Squawk) | A feature-rich AWK interpreter | WIP |
