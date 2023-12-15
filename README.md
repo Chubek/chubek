@@ -173,7 +173,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 
 ## Small Projects in Gist
-* [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) -> A Boilerplate for Yacc gramamrs
+* [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) -> A Boilerplate for Yacc grammars
 * [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
 * [TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20) -> Nucleotide triplet counter in AWK
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
@@ -225,7 +225,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
-|**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc gramamrs | Finished |
+|**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
 |**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
 |**Memory**|[GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) | A header-only garbage collector, reference counting| Finished |
 |**LanguageDev**| [Ekipp](https://github.com/Chubek/Ekipp) | A macro preprocessor language | Finished |
