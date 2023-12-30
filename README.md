@@ -73,6 +73,7 @@ I am currently implementing three languages:
 * Kaibash, a Shell in C -> [Repo](https://github.com/Chubek/Kaibash)
 * RustyAWK, AWK implemented in AWK -> [Repo](https://github.com/Chubek/RustyAWK)
 * Xtella, an original language like Perl in Java -> [Repo](https://github.com/Chubek/Xtella)
+* Zardad, an implementation of Paul Klint's `Summer` language -> [Repo](https://github.com/Chubek/Zardad)
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
