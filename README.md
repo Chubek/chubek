@@ -68,6 +68,12 @@ I plan to write for ACM. But the only thing they will allow someone like me writ
 
 # Special Showcase
 
+I am currently implementing three languages:
+
+* Kaibash, a Shell in C -> [Repo](https://github.com/Chubek/Kaibash)
+* RustyAWK, AWK implemented in AWK -> [Repo](https://github.com/Chubek/RustyAWK)
+* Xtella, an original language like Perl in Java -> [Repo](https://github.com/Chubek/Xtella)
+
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
 * [Squawk](https://github.com/Chubek/Squawk) -> A feature-rich AWK interpreter [WIP]
