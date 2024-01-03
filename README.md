@@ -73,7 +73,8 @@ I am currently implementing three languages:
 * Kaibash, a Shell in C -> [Repo](https://github.com/Chubek/Kaibash)
 * RustyAWK, AWK implemented in AWK -> [Repo](https://github.com/Chubek/RustyAWK)
 * Xtella, an original language like Perl in Java -> [Repo](https://github.com/Chubek/Xtella)
-* Zardad, an implementation of Paul Klint's `Summer` language -> [Repo](https://github.com/Chubek/Zardad)
+* RuseIR, an intermediate representation language in C -> [Repo](https://github.com/Chubek/RuseIR)
+* PerlX, a 'perl' for the 2020s! -> [Repo](https://github.com/Chubek/PerlX)
 
 Below are some of my curated sizable projects that you will find more details about in the latter sections, and inside their repository as well:
 
@@ -90,6 +91,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [Zwyn](https://github.com/Chubek/Zwyn) -> A VCS in D
 * [DynoGram](https://github.com/Chubek/DynoGram) -> Nucleotide to Peptide translation using Lex/Yacc
 * [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
 * [ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df) -> A quick 'n dirty JSON parser in C
