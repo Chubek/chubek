@@ -91,6 +91,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) -> VimScript specifications for EBNF
 * [Zwyn](https://github.com/Chubek/Zwyn) -> A VCS in D
 * [DynoGram](https://github.com/Chubek/DynoGram) -> Nucleotide to Peptide translation using Lex/Yacc
 * [GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) -> A header-only garbage collector, reference counting
