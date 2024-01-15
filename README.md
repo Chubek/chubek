@@ -91,6 +91,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) -> A Perl script that preprocesses C and prepares for static heap allocation
 * [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) -> VimScript specifications for EBNF
 * [Zwyn](https://github.com/Chubek/Zwyn) -> A VCS in D
 * [DynoGram](https://github.com/Chubek/DynoGram) -> Nucleotide to Peptide translation using Lex/Yacc
@@ -314,6 +315,9 @@ UDM). I will add a UDP one soon I just need an idea.
 |AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|Terminated|
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
+| [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) | A Perl script that preprocesses C and prepares for static heap allocation | Finished
+| [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
+| [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Nearly Done |
 
 # Sites and Social Media
 
