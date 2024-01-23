@@ -91,7 +91,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
-* [FewlPP(https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) -> A Racket script that preprocesses C and generates Fork-Exec-Wait loops
+* [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) -> A Racket script that preprocesses C and generates Fork-Exec-Wait loops
 * [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) -> A Perl script that preprocesses C and prepares for static heap allocation
 * [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) -> A Perl script that preprocesses C and generates warning/error functions
 * [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) -> VimScript specifications for EBNF
@@ -320,7 +320,7 @@ UDM). I will add a UDP one soon I just need an idea.
 | Perl | **Domain-Specific Language** | [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) | A Perl script that preprocesses C and prepares for static heap allocation | Finished
 | Perl | **Domain-Specific Language** | [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) | A Perl script that preprocesses C and generates warning/error functions | Finished |
 | VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
-| Racket | **Domain-Specigic Language** | * [FewlPP(https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
+| Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 | D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Nearly Done |
 
 # Sites and Social Media
