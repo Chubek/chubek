@@ -91,6 +91,7 @@ Below are some of my curated sizable projects that you will find more details ab
 
 And below are some of my special small code pieces in Github Gist form:
 
+* [SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) -> An S-Expression Parser in C
 * [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) -> A Racket script that preprocesses C and generates Fork-Exec-Wait loops
 * [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) -> A Perl script that preprocesses C and prepares for static heap allocation
 * [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) -> A Perl script that preprocesses C and generates warning/error functions
@@ -238,6 +239,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Lex/Parse**|* [SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) | An S-Expression Parser in C | Finished |
 |**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
 |**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
 |**Memory**|[GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) | A header-only garbage collector, reference counting| Finished |
