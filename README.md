@@ -3,6 +3,7 @@
 Welcome to my Github profile, where I host git repositoriies of my libre projects. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under either GPLv3 or MIT license.
 
 * [Introduction](#introduction)
+* [Current Darlings](#current-darlings)
 * [Special Showcase](#special-showcase)
 * [Projects by Topic](#projects-by-topic)
 * * [Language Development](#language-development)
@@ -65,6 +66,15 @@ I have read most historic papers. My favorite paper is AST's paper on writing po
 I did not understand a word of Thompson's paper of regex because it's a garbage scan from ACM journal.
 
 I plan to write for ACM. But the only thing they will allow someone like me write are the ad copies :(
+
+# Current Darlings
+
+I am currently working on two 'big whoops', which have a very similar name (I assure you, it's entirely accidental!):
+
+* [Orax](https://github.com/Chubek/Orax) -> An optimizing C compiler (in C iteslf), using my own custom backend, with a custom lexical analyzer generator and LALR(0) parser generator, and;
+* [Oryx](https://github.com/Chubek/Oryx) -> A liteweight Non-Compliant operating system, I just read the Dino Book and implement what I want --- however, pretty soon, it will be getting its very own specs.
+
+So lemme know what you make of these, any ideas, etc --- my contacts at bottom of the page!
 
 # Special Showcase
 
