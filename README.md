@@ -99,6 +99,7 @@ Below are some of my curated sizable projects that you will find more details ab
 * [ProtoGen](https://github.com/Chubek/Protogen) -> A series of generic application-layer protocols in Go
 * [Samovar](https://github.com/Chubek/Samovar) -> A WIP web framework in Rust
 * [Profiterole](https://github.com/Chubek/Profiterole) -> An overhead-free profiler in C with native interface for Python
+* * [Mukette](https://github.com/Chubek/Mukette) -> A Markdown pager in C
 
 And below are some of my special small code pieces in Github Gist form:
 
@@ -250,6 +251,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Lex/Parse**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
 |**Lex/Parse**|[SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) | An S-Expression Parser in C | Finished |
 |**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
 |**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
