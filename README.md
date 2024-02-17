@@ -120,7 +120,7 @@ I go by Chubak. These are my projects.
 # Sites and Social Media
 
 * Website -> https://chubakbidpaa.com
-* Twitter -> [@gvlside](https://twitter.com/gvlside)
+* Twitter -> [@chlangdev](https://twitter.com/CHLangDev)
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
 * Email -> chubakbidpaa@gmail.com
