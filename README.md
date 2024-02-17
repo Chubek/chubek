@@ -3,7 +3,7 @@
 Welcome to my Github profile, where I host git repositoriies of my libre projects. Please use the menu below to navigate to the several interweaving sections of this document. All the repos listed in this page are released under either GPLv3 or MIT license.
 
 * [Introduction](#introduction)
-* [Current Darlings](#current-darlings)
+* [Latest Projects](#latest-projects)
 * [Special Showcase](#special-showcase)
 * [Projects by Topic](#projects-by-topic)
 * * [Language Development](#language-development)
@@ -32,44 +32,11 @@ Welcome to my Github profile, where I host git repositoriies of my libre project
 
 # Introduction
 
-Hi, I go by Chubak but you can call me anything you want. I do systems programming, mostly with C. I know a good amount of *NIX and POSIX system calls, the STDC library, Windows 32 and 64 API, shell scripting, x86-64 and Aarch64 Assembly, Python scripting, and also, I am learning electronics --- enough so I can make my own embedded devices.
-
-I really enjoy venturing into the world of the unknown and coming back with a sackfull of knowledge. Kinda like Indiana Jones. I read up on a lot of computational theory, discrete mathematics, language development, electronics, digital design, etc. These are my favorite books, or 'Pentateuch' on the subject:
-
-1- Sipser's book on computational theory
-
-2- The Dragon Book
-
-3- The Wizard Book
-
-4- Digital Design and Computer Architecture
-
-5- Art of Electronics
-
-And the Apocrypha:
-
-* The Raccoon OS Book
-* The Dinosaur OS Book
-* Cooper & Torczon Compiler Book 
-* Andrew Appel's Compiler Books (all 3)
-
-I like these documents:
-
-* The POSIX Standard (IEEE Std 1003.1-2017)
-* The C Standard (ISOIEC 98992017)
-* The Anarchist Manifesto
-
-This book is an artwork -> Crafting Interpreters JUST BUY IT!
-
-I have read most historic papers. My favorite paper is AST's paper on writing portable code. He wrote it in freaking 1974 when microcomputers weren't even a thing (I guess that ALTAIR was?) I dislike how3 he bashed Linus for making a monolithic kernel but I was -1 when he did it so I don't know what the discourse was around it.
-
-I did not understand a word of Thompson's paper of regex because it's a garbage scan from ACM journal.
-
-I plan to write for ACM. But the only thing they will allow someone like me write are the ad copies :(
+I go by Chubak. These are my projects.
 
 # Latest Projects
 
-* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager
+* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager using libncurses
 * [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C
 
 # Special Showcase
