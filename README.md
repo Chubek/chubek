@@ -67,15 +67,10 @@ I did not understand a word of Thompson's paper of regex because it's a garbage 
 
 I plan to write for ACM. But the only thing they will allow someone like me write are the ad copies :(
 
-# Current Darlings
+# Latest Projects
 
-I am currently working on two 'big whoops', which have a very similar name (I assure you, it's entirely accidental!):
-
-* [Orax](https://github.com/Chubek/Orax) -> An optimizing C compiler (in C iteslf), using my own custom backend, with a custom lexical analyzer generator and LALR(0) parser generator, and;
-* [Oryx](https://github.com/Chubek/Oryx) -> A liteweight Non-Compliant operating system, I just read the Dino Book and implement what I want --- however, pretty soon, it will be getting its very own specs.
-* [Mukette](https://github.com/Chubek/Mukette) -> A Markdown pager in C
-
-So lemme know what you make of these, any ideas, etc --- my contacts at bottom of the page!
+* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager
+* [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C
 
 # Special Showcase
 
@@ -251,6 +246,7 @@ UDM). I will add a UDP one soon I just need an idea.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**DSLs**| [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) | An implementation of ZephyrASDL language, in C, targeting C | Finished |
 |**Lex/Parse**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
 |**Lex/Parse**|[SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) | An S-Expression Parser in C | Finished |
 |**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
