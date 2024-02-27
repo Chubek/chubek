@@ -35,6 +35,7 @@ I go by Chubak. These are my projects.
 |**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
 |**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
 |**Memory**|[GCX](https://gist.github.com/Chubek/9b635453ec0efd79e3f50f3abff0dc45) | A header-only garbage collector, reference counting| Finished |
+|**CompilerDev**|[Batmite](https://github.com/Chubek/Batmite) | A half-finished compiler project | Abandoned |
 |**LanguageDev**| [Ekipp](https://github.com/Chubek/Ekipp) | A macro preprocessor language | Finished |
 |**LanguageDev**| [Squawk](https://github.com/Chubek/Squawk) | A feature-rich AWK interpreter | WIP |
 |**Grammars**|[ShibaJS1.h](https://gist.github.com/Chubek/17523b0c6c5f3aa86e69dcff99d8c3df)| A quick 'n dirty JSON parser|Finished|
@@ -116,6 +117,7 @@ I go by Chubak. These are my projects.
 | VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 | Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 | D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Nearly Done |
+| Ruby | **DSLs** | [Witty](https://gist.github.com/Chubek/1fa1c037d280dfc7952676cb4ee89e11) | A .git/index file parser | Finished |
 
 # Sites and Social Media
 
