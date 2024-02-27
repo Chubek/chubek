@@ -118,6 +118,7 @@ I go by Chubak. These are my projects.
 | Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 | D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Nearly Done |
 | Ruby | **DSLs** | [Witty](https://gist.github.com/Chubek/1fa1c037d280dfc7952676cb4ee89e11) | A .git/index file parser | Finished |
+| Ruby | **Lex/Parse** | [J2Sexp](https://gist.github.com/Chubek/60f91a50147103e0c989a9b755376cd9) | Convert JSON files to S-Expressions | Finished |
 
 # Sites and Social Media
 
