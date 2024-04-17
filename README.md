@@ -1,4 +1,28 @@
-I go by Chubak. I am active in systems development, language development, and UNIX/POSIX space.
+I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. 
+
+I run Linux natively, and these are my hardware and software stats:
+
+- Distro -> **Pop_OS!**
+- Desktop Environment -> *Pop_OS! Defualt GNOME Fork*, **Tiled Mode**
+- Shell -> **Fish**
+- Terminal Emulator -> **Kitty**
+- Text Editor -> **NeoVim**
+- Web Browser -> **Firefox**
+- Router -> **MikroTik**
+- Processor -> **Core i7 Gen 11**
+- processor Architecture -> **x86-64**
+- Processor Extensions -> [Click](https://pastebin.com/mGB4nd16)
+- RAM -> **32GB**
+- GPU -> **GT 1060**
+- Most Used Language (Perosnal Projects) ->
+- - *Compiled - Imperative*: **GNU C**
+- - *Compiled - Functional*: **OCaml**
+- - *Interpreted - Scripting*: **Perl**
+- - *Interpreted - Programming*: **Scheme**
+- Build System -> **POSIX Make**
+- Document Translator -> **Pandoc**
+- RapberryPi -> **Revision 4**
+- Electronics Equipment and Components -> **Many!**
 
 These are my projects.
 
