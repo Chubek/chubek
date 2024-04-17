@@ -1,9 +1,12 @@
-I go by Chubak. These are my projects.
+I go by Chubak. I am active in systems development, language development, and UNIX/POSIX space.
+
+These are my projects.
 
 # Latest Projects
 
-* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager using libncurses
-* [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C
+* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager using libncurses (it's being retooled into a terminal browser)
+* [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C 
+* [AllocPPx.pl](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) -> A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep
 
 # All, Sorted By Language and Purpose
 
@@ -102,6 +105,23 @@ I go by Chubak. These are my projects.
 |**Automation**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|Finished|
 |**Network**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|Expansion Considered|
 
+# Perl
+
+|Topic|Repo|Description|Status|
+|-----|----|-----------|------|
+| **Domain-Specific Language** | [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) | A Perl script that preprocesses C and prepares for static heap allocation (Note: AllocPPx superceeds it) | Finished
+| **Domain-Specific Language** | [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) | A Perl script that preprocesses C and generates warning/error functions | Finished |
+| **Domain-Specific Language** | [AllocPPx](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) | A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep | Finished |
+| **Domain-Specific Language** | [Preprocess.pl](https://gist.github.com/Chubek/c1e7520d1f13c4a7b487578d4e3d5acf) | Preprocess files | Finished |
+
+# Ruby
+
+|Topic|Repo|Description|Status|
+|-----|----|-----------|------|
+| **Domain-Specific Language** | [Witty](https://gist.github.com/Chubek/1fa1c037d280dfc7952676cb4ee89e11) | A .git/index file parser | Finished |
+| **Lex/Parse** | [J2Sexp](https://gist.github.com/Chubek/60f91a50147103e0c989a9b755376cd9) | Convert JSON files to S-Expressions | Finished |
+
+
 ## Misc.
 
 |Language|Topic|Repo|Description|Status|
@@ -112,14 +132,10 @@ I go by Chubak. These are my projects.
 |AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|Terminated|
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
-| Perl | **Domain-Specific Language** | [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) | A Perl script that preprocesses C and prepares for static heap allocation | Finished
-| Perl | **Domain-Specific Language** | [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) | A Perl script that preprocesses C and generates warning/error functions | Finished |
-| VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
-| Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
-| D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Nearly Done |
-| Ruby | **DSLs** | [Witty](https://gist.github.com/Chubek/1fa1c037d280dfc7952676cb4ee89e11) | A .git/index file parser | Finished |
-| Ruby | **Lex/Parse** | [J2Sexp](https://gist.github.com/Chubek/60f91a50147103e0c989a9b755376cd9) | Convert JSON files to S-Expressions | Finished |
-| Perl | **DSLs** | [Preprocess.pl](https://gist.github.com/Chubek/c1e7520d1f13c4a7b487578d4e3d5acf) | Preprocess files | Finished |
+|VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
+|Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
+|D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Terminated |
+
 
 # Sites and Social Media
 
@@ -127,7 +143,7 @@ I go by Chubak. These are my projects.
 * Twitter -> [@chlangdev](https://twitter.com/CHLangDev)
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
-* Email -> chubakbidpaa@gmail.com
+* Email -> chubakbidpaa@gmail.com | chubakbidpaa@riseup.net
 
 
 Thanks, and please take care.
