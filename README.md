@@ -10,7 +10,7 @@ I run Linux natively, and these are my hardware and software stats:
 - Web Browser -> **Firefox**
 - Router -> **MikroTik**
 - Processor -> **Core i7 Gen 11**
-- processor Architecture -> **x86-64**
+- Processor Architecture -> **x86-64**
 - Processor Extensions -> [Click](https://pastebin.com/mGB4nd16)
 - RAM -> **32GB**
 - GPU -> **GT 1060**
