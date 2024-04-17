@@ -1,5 +1,7 @@
 I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. 
 
+I am currently employed by Herman Jacobs (@therealcherry).
+
 I run Linux natively, and these are my hardware and software stats:
 
 - Distro -> **Pop_OS!**
