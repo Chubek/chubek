@@ -162,6 +162,12 @@ These are my projects.
 |Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 |D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Terminated |
 
+# WIP Projects (with something to show)
+
+I have several WIP projects. These projects are not fully realized yet. Of these projects, these have something to show for:
+
+* [Marsh](https://github.com/Chubek/Marsh) -> A by-the-book POSIX-compliant UNIX shell.
+* [Chass](https://github.com/Chubek/Chass) -> An encrypted hashtable database and password maanger.
 
 # Sites and Social Media
 
