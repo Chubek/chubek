@@ -168,6 +168,7 @@ I have several WIP projects. These projects are not fully realized yet. Of these
 
 * [Marsh](https://github.com/Chubek/Marsh) -> A by-the-book POSIX-compliant UNIX shell.
 * [Chass](https://github.com/Chubek/Chass) -> An encrypted hashtable database and password maanger.
+* [Cephyr](https://github.com/Chubek/Cephyr) -> An optimizing, retargetable C compiler with custom backend written in OCaml
 
 # Sites and Social Media
 
