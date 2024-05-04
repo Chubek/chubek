@@ -42,14 +42,14 @@ These are my projects.
 
 # Sorted By Language
 
-## Multiple
+### Multiple
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
 |**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
 |**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
-## Assembly
+### Assembly
 |Topic|x86-64|Aarh64|Repo|Description|Status|
 |-----|----|---|---|---|--|
 |**Utility/Snippet**|✓|✓|[DJB2 Hash](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2, a non-cryptographic hash function|Finished|
@@ -60,7 +60,7 @@ These are my projects.
 |**Math/Calculus**|✓|✘|[Newton-Rhapson Intrinsics](https://gist.github.com/Chubek/7c62f186b5589cef16050c5e552d827e) | Newton-Rhapson method with Intel Intrinsics in C and Assembly| Finished |
 
 
-## C
+### C
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
@@ -87,7 +87,7 @@ These are my projects.
 |**Memory**|[sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) | Static memory region grants based on A. Tannenbaum's paper | Finished |
 |**System/Memory**|[Stackls](https://github.com/Chubek/Stackls) | List process stack frame in Win32 API and Linux | Finished |
 
-## Rust
+### Rust
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|--|
@@ -107,7 +107,7 @@ These are my projects.
 |**Classical Vision**|[SummerSavory](https://github.com/Chubek/SummerSavory)|Shape irregularity index score, WIP|Active Development|
 
 
-## Python
+### Python
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
@@ -129,7 +129,7 @@ These are my projects.
 |**Zinteger**|[Zinteger](https://gist.github.com/Chubek/27eec6435df6b30684dee201dc5edf4b#other-projects)|Dynamically-generated typed integers|Finished|
 |**Internet Protocol**|[DNSRezulf](https://gist.github.com/Chubek/1fb8997bed45d744342a8a28fdcde749) | A DNS Resolver in Python | Finished
 
-## Go
+### Go
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|--|
@@ -137,7 +137,7 @@ These are my projects.
 |**Automation**|[CroonJoobGoo](https://github.com/Chubek/CroonJoobGoo)|SQL cron job|Finished|
 |**Network**|[ProtoGen](https://github.com/Chubek/Protogen)|Application-layer protocols in Go|Expansion Considered|
 
-# Perl
+### Perl
 
 |Topic|Repo|Description|Status|
 |-----|----|-----------|------|
@@ -147,13 +147,19 @@ These are my projects.
 | **Domain-Specific Language** | [Preprocess.pl](https://gist.github.com/Chubek/c1e7520d1f13c4a7b487578d4e3d5acf) | Preprocess files | Finished |
 | **Documentation Languages** | [PostScript-ManPages](https://github.com/Chubek/postscript-manpages) | Manpages for Postscript --- Please also see [PostScript Dossier](https://github.com/Chubek/postscript-dossier) | Finished |
 
-# Ruby
+### Ruby
 
 |Topic|Repo|Description|Status|
 |-----|----|-----------|------|
 | **Domain-Specific Language** | [Witty](https://gist.github.com/Chubek/1fa1c037d280dfc7952676cb4ee89e11) | A .git/index file parser | Finished |
 | **Lex/Parse** | [J2Sexp](https://gist.github.com/Chubek/60f91a50147103e0c989a9b755376cd9) | Convert JSON files to S-Expressions | Finished |
 
+### Scheme
+
+|Topic|Repo|Description|Status|
+|-----|----|-----------|------|
+| **Tokenizers**|[EBNF Tokenizer](https://gist.github.com/Chubek/4442bf73f284eabfe87a72dcdc1d8ebe)| A tokenizer for EBNF meta-language | Finished |
+| **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 
 ## Misc.
 
@@ -166,7 +172,6 @@ These are my projects.
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
-|Racket | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 |D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Terminated |
 
 # WIP Projects (with something to show)
