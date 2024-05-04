@@ -6,7 +6,8 @@ I run Linux natively, and these are my hardware and software stats:
 
 - Distro -> **Pop_OS!**
 - Desktop Environment -> *Pop_OS! Defualt GNOME Fork*, **Tiled Mode**
-- Shell -> **Fish**
+- Interactive Shell -> **Fish**
+- Scripting Shell -> **Zsh**
 - Terminal Emulator -> **Kitty**
 - Text Editor -> **NeoVim**
 - Web Browser -> **Firefox**
@@ -16,25 +17,30 @@ I run Linux natively, and these are my hardware and software stats:
 - Processor Extensions -> [Click](https://pastebin.com/mGB4nd16)
 - RAM -> **32GB**
 - GPU -> **GT 1060**
-- Most Used Language (Perosnal Projects) ->
-- - *Compiled - Imperative*: **GNU C**
+- Most Used General-Purpose Language (Perosnal Projects) ->
+- - *Compiled - Imperative*: **ISO C** (GNU Superset)
 - - *Compiled - Functional*: **OCaml**
 - - *Interpreted - Scripting*: **Perl**
-- - *Interpreted - Programming*: **Scheme**
+- - *Interpreted - Programming*: **Scheme** (Chez, Cyclone)
+- Most Used Domain-Specific Language (Personal Projects) ->
+- - *Page Description*: **PostScript**
+- - *Macro Processor*: **m4** (GNU Superset)
+- - *Markup*: **LaTeX**, **Markdown**
+- - *Syntax Description*: **Zephyr ASDL** (My Superset)
 - Build System -> **POSIX Make**
 - Document Translator -> **Pandoc**
-- RapberryPi -> **Revision 4**
-- Electronics Equipment and Components -> **Many!**
+- SoC & MicroController -> **RasbPi 4**, **Arduino Unu and Nano**
+- Electronic Equipments -> **PSU Benchtop**, **Ocilloscope**
+- Electronic Components -> **Many Standard Components**
 
 These are my projects.
 
 # Latest Projects
 
-* [Mukette](https://github.com/Chubek/Mukette) -> Markdown pager using libncurses (it's being retooled into a terminal browser)
 * [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C 
 * [AllocPPx.pl](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) -> A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep
 
-# All, Sorted By Language and Purpose
+# Sorted By Language
 
 ## Multiple
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
@@ -139,7 +145,7 @@ These are my projects.
 | **Domain-Specific Language** | [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) | A Perl script that preprocesses C and generates warning/error functions | Finished |
 | **Domain-Specific Language** | [AllocPPx](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) | A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep | Finished |
 | **Domain-Specific Language** | [Preprocess.pl](https://gist.github.com/Chubek/c1e7520d1f13c4a7b487578d4e3d5acf) | Preprocess files | Finished |
-| **Documentation Languages** | [PostScript-ManPages](https://github.com/Chubek/postscript-manpages) | Manpages for Postscript | Finished |
+| **Documentation Languages** | [PostScript-ManPages](https://github.com/Chubek/postscript-manpages) | Manpages for Postscript --- Please also see [PostScript Dossier](https://github.com/Chubek/postscript-dossier) | Finished |
 
 # Ruby
 
@@ -167,13 +173,11 @@ These are my projects.
 
 I have several WIP projects. These projects are not fully realized yet. Of these projects, these have something to show for:
 
-* [Marsh](https://github.com/Chubek/Marsh) -> A by-the-book POSIX-compliant UNIX shell.
-* [Chass](https://github.com/Chubek/Chass) -> An encrypted hashtable database and password maanger.
 * [Cephyr](https://github.com/Chubek/Cephyr) -> An optimizing, retargetable C compiler with custom backend written in OCaml
 
 # Sites and Social Media
 
-* Website -> https://chubakbidpaa.com
+* Homepage -> https://chubakbidpaa.com [x]
 * Twitter -> [@chlangdev](https://twitter.com/CHLangDev)
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
