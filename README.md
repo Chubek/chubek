@@ -165,6 +165,7 @@ These are my projects.
 
 |Language|Topic|Repo|Description|Status|
 |--------|-----|----|-----------|---|
+| OCaml | **Formalism** | [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml | Finished | 
 |AWK | **Bioinformatics** |[TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20)| Nucleotide triplet counter in AWK | Finished |
 |VanillaJS|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
 |NodeJS|**Databases**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|Finished|
