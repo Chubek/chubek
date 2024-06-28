@@ -8,8 +8,9 @@ I run Linux natively, and these are my hardware and software stats:
 - Desktop Environment -> *Pop_OS! Defualt GNOME Fork*, **Tiled Mode**
 - Interactive Shell -> **Fish**
 - Scripting Shell -> **Zsh**
-- Terminal Emulator -> **Kitty**
+- Terminal Emulator -> **Kitty**, **WezTerm** and **Alacritty**
 - Text Editor -> **NeoVim**
+- Document Reader -> **Evince**
 - Web Browser -> **Firefox**
 - Router -> **MikroTik**
 - Processor -> **Core i7 Gen 11**
