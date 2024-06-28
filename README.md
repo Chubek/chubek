@@ -1,6 +1,12 @@
 I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. 
 
-I am currently employed by Herman Jacobs (@therealcherry).
+As of recent, I have found myself in a whirlwind of theory self-study. I did not have many issues grokking computational stuff, but category theory has proven a bit of a snag so I am making [VEBLEN](https://github.com/Chubek/VEBLEN) to deal with the fact. How much **self-study** is worth in the court of public opinion, or even potential **employers** (wherever they are!) is none of my concern. I can't even study computer science in college, I never could! I am highly bipolar and no matter how circualr the logic is, I cannot deny that I have issues sticking with goals. Let alone 4 years.
+
+Now, I, as a tricenarian person of no means, cannot really bank on higher education *because I have already studied 9 semesters across 3 majors* and just to assure you, dear reader, one of those majors was, in fact, vocational program development at the Vocational-Scientific college near our abode.
+
+I do have a zeal for formalism, just not the education. Will I ever learn it on my own?
+
+I am currently employed(?) by Herman Jacobs (@therealcherry).
 
 I run Linux natively, and these are my hardware and software stats:
 
@@ -39,6 +45,8 @@ These are my projects.
 
 * [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C 
 * [AllocPPx.pl](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) -> A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep
+
+My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN).
 
 # Sorted By Language
 
@@ -160,6 +168,7 @@ These are my projects.
 |-----|----|-----------|------|
 | **Tokenizers**|[EBNF Tokenizer](https://gist.github.com/Chubek/4442bf73f284eabfe87a72dcdc1d8ebe)| A tokenizer for EBNF meta-language | Finished |
 | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
+| **Hygenic Macros** | [Schemeroni](https://gist.github.com/Chubek/b8318a2e68d9a54f2291d98cdb6bfd08) | Useful Scheme macros | Always Active |
 
 ## Misc.
 
