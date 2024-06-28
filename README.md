@@ -56,7 +56,7 @@ My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
-|**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Active Development|
+|**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Terminated|
 |**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ### Assembly
