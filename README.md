@@ -1,4 +1,4 @@
-I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. 
+I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
 
 I am currently employed(?) by Herman Jacobs (@therealcherry).
 
