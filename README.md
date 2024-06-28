@@ -1,11 +1,5 @@
 I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. 
 
-As of recent, I have found myself in a whirlwind of theory self-study. I did not have many issues grokking computational stuff, but category theory has proven a bit of a snag so I am making [VEBLEN](https://github.com/Chubek/VEBLEN) to deal with the fact. How much **self-study** is worth in the court of public opinion, or even potential **employers** (wherever they are!) is none of my concern. I can't even study computer science in college, I never could! I am highly bipolar and no matter how circualr the logic is, I cannot deny that I have issues sticking with goals. Let alone 4 years.
-
-Now, I, as a tricenarian person of no means, cannot really bank on higher education *because I have already studied 9 semesters across 3 majors* and just to assure you, dear reader, one of those majors was, in fact, vocational program development at the Vocational-Scientific college near our abode.
-
-I do have a zeal for formalism, just not the education. Will I ever learn it on my own?
-
 I am currently employed(?) by Herman Jacobs (@therealcherry).
 
 I run Linux natively, and these are my hardware and software stats:
@@ -39,7 +33,15 @@ I run Linux natively, and these are my hardware and software stats:
 - Electronic Equipments -> **PSU Benchtop**, **Ocilloscope**
 - Electronic Components -> **Many Standard Components**
 
-These are my projects.
+As of recent, I have found myself in a whirlwind of theory self-study. I did not have many issues grokking computational stuff, but category theory has proven a bit of a snag so I am making [VEBLEN](https://github.com/Chubek/VEBLEN) to deal with the fact. How much **self-study** is worth in the court of public opinion, or even potential **employers** (wherever they are!) is none of my concern. I can't even study computer science in college, I never could! I am highly bipolar and no matter how circualr the logic is, I cannot deny that I have issues sticking with goals. Let alone 4 years.
+
+Now, I, as a tricenarian person of no means, cannot really bank on higher education *because I have already studied 9 semesters across 3 majors* and just to assure you, dear reader, one of those majors was, in fact, vocational program development at the Vocational-Scientific college near our abode.
+
+I do have a zeal for formalism, just not the education. Will I ever learn it on my own?
+
+By the by, that is not to say I jsut self-study oblique stuff like CAT-theory, I do study operating systems, concurrency and parallelism, information & game theory stuff, VSLI, distributed systems, and some ML. I mean I read whatever I come by.
+
+Anyways, these are my projects.
 
 # Latest Projects
 
