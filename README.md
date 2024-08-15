@@ -1,4 +1,6 @@
-I go by ~~Chubak~~Behrang. I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
+I go by ~~Chubak~~ Behrang --- though you could possibly still address me as Chubak because neither of these are my real name!
+
+I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
 
 I'm going back to college this fall although I'm 31.
 
