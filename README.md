@@ -63,7 +63,7 @@ My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN
 |**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ### Assembly
-|Topic|x86-64|Aarh64|Repo|Description|Status|
+|Topic|x86-64|AArch64|Repo|Description|Status|
 |-----|----|---|---|---|--|
 |**Utility/Snippet**|✓|✓|[DJB2 Hash](https://gist.github.com/Chubek/22fe39609b13832626af153083f71043)|DJB2, a non-cryptographic hash function|Finished|
 |**Metaprogramming**|✓|✓|[SpudMacs](https://gist.github.com/Chubek/36bdb1ff95d1633993f9ac18e3cdc44a)|Cross-architecture (x64 an a64) macros for GAS|Finished|
