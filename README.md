@@ -1,8 +1,8 @@
 I go by ~~Chubak~~ Behrang --- though you could possibly still address me as Chubak because neither of these are my real name! Another name you can address me is Sami. So my current aliases are:
 
-. Chubak Bidpaa
-. Behrang Nevii
-. Sami Dena
+- Chubak Bidpaa
+- Behrang Nevii
+- Sami Dena
 
 I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
 
