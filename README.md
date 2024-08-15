@@ -48,7 +48,7 @@ Now, I, as a tricenarian person of no means, cannot really bank on higher educat
 
 I do have a zeal for formalism, just not the education. Will I ever learn it on my own?
 
-By the by, that is not to say I jsut self-study oblique stuff like CAT-theory, I do study operating systems, concurrency and parallelism, information & game theory stuff, VSLI, distributed systems, and some ML. I mean I read whatever I come by.
+By the by, that is not to say I just self-study oblique stuff like CAT-theory, I do study operating systems, concurrency and parallelism, information & game theory stuff, VSLI, distributed systems, and some ML. I mean I read whatever I come by.
 
 Anyways, these are my projects.
 
