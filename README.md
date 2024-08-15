@@ -46,7 +46,7 @@ As of recent, I have found myself in a whirlwind of theory self-study. I did not
 
 Now, I, as a tricenarian person of no means, cannot really bank on higher education *because I have already studied 9 semesters across 3 majors* and just to assure you, dear reader, one of those majors was, in fact, vocational program development at the Vocational-Scientific college near our abode.
 
-I do have a zeal for formalism, just not the education. Will I ever learn it on my own?
+I do have a zeal for formalism, just not the education. ~~Will I ever learn it on my own?~~ Will I ever learn it in a God-forsaken presence-optional college designed for bored prisoners?
 
 By the by, that is not to say I just self-study oblique stuff like CAT-theory, I do study operating systems, concurrency and parallelism, information & game theory stuff, VSLI, distributed systems, and some ML. I mean I read whatever I come by.
 
