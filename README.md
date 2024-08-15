@@ -1,5 +1,7 @@
 I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
 
+I'm going back to college this fall although I'm 31.
+
 I am currently employed(?) by Herman Jacobs (@therealcherry).
 
 I run Linux natively, and these are my hardware and software stats:
