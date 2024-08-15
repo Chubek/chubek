@@ -1,4 +1,4 @@
-I go by Chubak. I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
+I go by ~~Chubak~~Behrang. I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
 
 I'm going back to college this fall although I'm 31.
 
@@ -198,10 +198,9 @@ I have several WIP projects. These projects are not fully realized yet. Of these
 # Sites and Social Media
 
 * Homepage -> https://chubakbidpaa.com [x]
-* Twitter -> [@chlangdev](https://twitter.com/CHLangDev)
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
-* Email -> chubakbidpaa@gmail.com | chubakbidpaa@riseup.net
+* Email -> sami.dena93@gmail.com
 
 
 Thanks, and please take care.
