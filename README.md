@@ -135,6 +135,12 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |**Lexing & Parsing**|[Ramkal](https://gist.github.com/Chubek/c4f23698d883bc2968f64bbf4174e6b7)|A recursive-descent, hand-rolled parser for the ISO variant of the Pascal language|Experimental|
 | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A Version Control System in D | Terminated |
 
+### ECMA-262 and Variantas
+|Language|Topic|Repo|Description|Status|
+|--------|-----|----|-----------|---|
+|Mobile ECMA-262 ('VanillaJS')|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
+|Resident ECMA-262 ('NodeJS')|**Databases**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|Finished|
+|AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe 
 
 ## Other Languages
 
@@ -142,9 +148,7 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |--------|-----|----|-----------|---|
 | OCaml | **Formalism** | [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml | Finished | 
 |AWK | **Bioinformatics** |[TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20)| Nucleotide triplet counter in AWK | Finished |
-|VanillaJS|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
-|NodeJS|**Databases**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|Finished|
-|AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe Premiere panel|Terminated|
+Premiere panel|Terminated|
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
