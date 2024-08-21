@@ -1,65 +1,12 @@
-I go by ~~Chubak~~ Behrang --- though you could possibly still address me as Chubak because neither of these are my real name! Another name you can address me is Sami. So my current aliases are:
+I'm Chubak Bidpaa, and I go by Sami Dena and Behrang Nevi --- these are my web aliases because it is paramount to remain anonymous on the web. Beginning this fall (or winter), I will start a 4-year old SWE/CompSci program at the PNU. I have briefly studied 'Vocational Programming' at the JDM Scientific-Vocational college.
 
-- Chubak Bidpaa
-- Behrang Nevii
-- Sami Dena
+This 'web-hole' contains my notable work in computing. I am active mostly in language and systems development, including compilers, interpreters, domain-specific languages, operating systems, POSIX daemons, Assembly, functional programming, and so on. I find myself to be the perfect blend of 'theory' and 'pragma'.
 
-I am active in systems development, language development, and the UNIX/POSIX space. I have a zeal for formalism (read further).
+My favorite subjects in theory of computation are: verification of programs with modal logic, Structured Programming and Hoare logic, and compiler optimization. The most puzzling subject for me is the theory of categories.
 
-I am going back to college this fall although I'm 31.
+I plan on writing some papers as soon as I am qualified.
 
-I am currently employed(?) by Herman Jacobs (@therealcherry).
-
-I run Linux natively, and these are my hardware and software stats:
-
-- Distro -> **Pop_OS!**
-- Desktop Environment -> *Pop_OS! Defualt GNOME Fork*, **Tiled Mode**
-- Interactive Shell -> **Fish**
-- Scripting Shell -> **Zsh**
-- Terminal Emulator -> **Kitty**, **WezTerm** and **Alacritty**
-- Text Editor -> **NeoVim**
-- Document Reader -> **Evince**
-- Web Browser -> **Firefox**
-- Router -> **MikroTik**
-- Processor -> **Core i7 Gen 11**
-- Processor Architecture -> **x86-64**
-- Processor Extensions -> [Click](https://pastebin.com/mGB4nd16)
-- RAM -> **32GB**
-- GPU -> **GT 1060**
-- Most Used General-Purpose Language (Perosnal Projects) ->
-- - *Compiled - Imperative*: **ISO C** (GNU Superset)
-- - *Compiled - Functional*: **OCaml**
-- - *Interpreted - Scripting*: **Perl**
-- - *Interpreted - Programming*: **Scheme** (Chez, Cyclone)
-- Most Used Domain-Specific Language (Personal Projects) ->
-- - *Page Description*: **PostScript**
-- - *Macro Processor*: **m4** (GNU Superset)
-- - *Markup*: **LaTeX**, **Markdown**
-- - *Syntax Description*: **Zephyr ASDL** (My Superset)
-- Build System -> **POSIX Make**
-- Document Translator -> **Pandoc**
-- SoC & MicroController -> **RasbPi 4**, **Arduino Unu and Nano**
-- Electronic Equipments -> **PSU Benchtop**, **Ocilloscope**
-- Electronic Components -> **Many Standard Components**
-
-As of recent, I have found myself in a whirlwind of theory self-study. I did not have many issues grokking computational stuff, but category theory has proven a bit of a snag so I am making [VEBLEN](https://github.com/Chubek/VEBLEN) to deal with the fact. How much **self-study** is worth in the court of public opinion, or even potential **employers** (wherever they are!) is none of my concern. I can't even study computer science in college, I never could! I am highly bipolar and no matter how circualr the logic is, I cannot deny that I have issues sticking with goals. Let alone 4 years.
-
-Now, I, as a tricenarian person of no means, cannot really bank on higher education *because I have already studied 9 semesters across 3 majors* and just to assure you, dear reader, one of those majors was, in fact, vocational program development at the Vocational-Scientific college near our abode.
-
-I do have a zeal for formalism, just not the education. ~~Will I ever learn it on my own?~~ Will I ever learn it in a God-forsaken presence-optional college designed for bored prisoners?
-
-By the by, that is not to say I just self-study oblique stuff like CAT-theory, I do study operating systems, concurrency and parallelism, information & game theory stuff, VSLI, distributed systems, and some ML. I mean I read whatever I come by.
-
-Anyways, these are my projects.
-
-# Latest Projects
-
-* [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) -> An implementation of ZephyrASDL language, in C, targeting C 
-* [AllocPPx.pl](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) -> A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep
-
-My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN).
-
-# Sorted By Language
+## Notable Work, Categorized by Language
 
 ### Multiple
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
@@ -181,7 +128,15 @@ My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN
 | **Domain-Specigic Language** | [FewlPP](https://gist.github.com/Chubek/987e12ec0a2da7ba1ae01fccc6968578) | A Racket script that preprocesses C and generates Fork-Exec-Wait loops | Finished |
 | **Hygenic Macros** | [Schemeroni](https://gist.github.com/Chubek/b8318a2e68d9a54f2291d98cdb6bfd08) | Useful Scheme macros | Always Active |
 
-## Misc.
+### D
+
+|Topic|Repo|Description|Status|
+|-----|-----|----|----|
+|**Lexing & Parsing**|[Ramkal](https://gist.github.com/Chubek/c4f23698d883bc2968f64bbf4174e6b7)|A recursive-descent, hand-rolled parser for the ISO variant of the Pascal language|Experimental|
+| **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A Version Control System in D | Terminated |
+
+
+## Other Languages
 
 |Language|Topic|Repo|Description|Status|
 |--------|-----|----|-----------|---|
@@ -193,20 +148,14 @@ My most active project as of recent is [VEBLEN](https://github.com/Chubek/VEBLEN
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
-|D | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A VCS in D | Terminated |
 
-# WIP Projects (with something to show)
 
-I have several WIP projects. These projects are not fully realized yet. Of these projects, these have something to show for:
+## How to Contact Me
 
-* [Cephyr](https://github.com/Chubek/Cephyr) -> An optimizing, retargetable C compiler with custom backend written in OCaml
-
-# Sites and Social Media
-
-* Homepage -> https://chubakbidpaa.com [x]
+* Homepage -> htttps://let-over-lambda.com
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
-* Email -> sami.dena93@gmail.com
+* Email -> sami.dena93@gmail.com | chubakbidpaa@riseup.net
 
 
 Thanks, and please take care.
