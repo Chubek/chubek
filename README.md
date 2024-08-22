@@ -156,7 +156,7 @@ Premiere panel|Terminated|
 
 ## How to Contact Me
 
-* Homepage -> htttps://let-over-lambda.com
+* Homepage -> https://let-over-lambda.com
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
 * Email -> sami.dena93@gmail.com | chubakbidpaa@riseup.net
