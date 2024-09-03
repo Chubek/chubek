@@ -3,7 +3,7 @@ Beginning this fall (fall 2024), I will start a 4-year old SWE/CompSci degree pr
 
 This 'web-hole' contains my notable work in computing. I am active mostly in language and systems development, including compilers, interpreters, domain-specific languages, operating systems, POSIX daemons, Assembly, functional programming, and so on. I find myself to be the perfect blend of 'theory' and 'pragma'. My knowledge, although in most aspects based on theory, is mostly self-taught until I complete the first semester of my 4-year SWE/Compsci program. As the program continues, my theoretical knowledge will be boldened and enriched.
 
-My favorite subjects in theory of computation are: verification of programs with modal logic, Structured Programming and Hoare logic, and compiler optimization. The most puzzling subject for me is the theory of categories.
+My favorite subjects in theory of computation are: formal methods; chiefly, verification of programs with modal logic, Structured Programming and Hoare logic, and compiler optimization. The most puzzling subject for me is the theory of categories.
 
 I plan on writing some papers as soon as I am qualified. I generally enjoy reading papers on computing immensely.
 
