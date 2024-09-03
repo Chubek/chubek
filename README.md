@@ -5,7 +5,7 @@ This 'web-hole' contains my notable work in computing. I am active mostly in lan
 
 My favorite subjects in theory of computation are: formal methods; chiefly, verification of programs with modal logic, Structured Programming and Hoare logic, and compiler optimization. The most puzzling subject for me is the theory of categories.
 
-I plan on writing some papers as soon as I am qualified. I generally enjoy reading papers on computing immensely.
+I plan on writing some papers as soon as I am qualified. I generally enjoy reading papers on computing immensely. My most favorite thing is writing literate programs, which you shall soon see in this web-hole.
 
 ## Notable Work, Categorized by Language
 
