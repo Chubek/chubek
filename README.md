@@ -1,4 +1,5 @@
-I'm Chubak Bidpaa, and I go by Sami Dena and Behrang Nevi --- these are my web aliases because it is paramount to remain anonymous on the web. Beginning this fall (or winter), I will start a 4-year old SWE/CompSci program at the PNU. I have briefly studied 'Vocational Programming' at the JDM Scientific-Vocational college.
+I'm Chubak Bidpaa, and I go by Sami Dena and Behrang Nevi --- these are my web aliases because it is paramount to remain anonymous on the web. 
+Beginning this fall (fall 2024), I will start a 4-year old SWE/CompSci degree program at the HTU (or the PNU-M). I have briefly studied 'Vocational Programming' at the JDM Scientific-Vocational college.
 
 This 'web-hole' contains my notable work in computing. I am active mostly in language and systems development, including compilers, interpreters, domain-specific languages, operating systems, POSIX daemons, Assembly, functional programming, and so on. I find myself to be the perfect blend of 'theory' and 'pragma'.
 
