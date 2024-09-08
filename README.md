@@ -153,6 +153,7 @@ Premiere panel|Terminated|
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
+|Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|Finished|
 
 
 ## How to Contact Me
