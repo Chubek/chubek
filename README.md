@@ -141,7 +141,7 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |--------|-----|----|-----------|---|
 |Mobile ECMA-262 ('VanillaJS')|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
 |Resident ECMA-262 ('NodeJS')|**Databases**|[Mongoose Jumblator](https://github.com/Chubek/mongoose-jumblator)|A plugin for Mongoose for encrpyting MongoDB|Finished|
-|AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe 
+|AdobeExtendScript|**Extensions**|[cep-panel](https://github.com/Chubek/cep-panel-for-carlo) and its [backend](https://github.com/Chubek/backend-carlo)|Concept projects for an Adobe | Stillborn |
 
 ## Other Languages
 
