@@ -136,7 +136,7 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |**Lexing & Parsing**|[Ramkal](https://gist.github.com/Chubek/c4f23698d883bc2968f64bbf4174e6b7)|A recursive-descent, hand-rolled parser for the ISO variant of the Pascal language|Experimental|
 | **Systems** | [Zwyn](https://github.com/Chubek/Zwyn) | A Version Control System in D | Terminated |
 
-### ECMA-262 and Variantas
+### ECMA-262 and Variants
 |Language|Topic|Repo|Description|Status|
 |--------|-----|----|-----------|---|
 |Mobile ECMA-262 ('VanillaJS')|**Browser Addon**|[FourChidori](https://github.com/Chubek/FourChidori)|A browser add-on for 4chan|Finished|
