@@ -153,6 +153,7 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
+|TeX|**Typesetting**| [SimpleTRS](https://gist.github.com/Chubek/1f191c859e9a6af45a1d34a752b31e05) | A small LaTeX package for typesetting Term-rewriting systems | Finished|
 
 
 ## How to Contact Me
