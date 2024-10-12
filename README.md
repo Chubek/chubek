@@ -1,11 +1,4 @@
-I'm Chubak Bidpaa, and I go by Sami Dena and Behrang Nevi --- all these three are my web aliases because it is paramount to remain anonymous on the web. I was born late winter, 1993 (1371).
-**Beginning this fall (fall 2024), I will start a 4-year old SWE/CompSci degree program at the HTU (or the PNU-M)**. I have briefly studied 'Vocational Programming' at the JDM Scientific-Vocational college.
-
-This 'web-hole' contains my notable work in computing. I am active mostly in language and systems development, including compilers, interpreters, domain-specific languages, operating systems, POSIX daemons, Assembly, functional programming, and so on. I find myself to be the perfect blend of 'theory' and 'pragma'. My knowledge, although in most aspects based on theory, is mostly self-taught until I complete the first semester of my 4-year SWE/Compsci program. As the program continues, my theoretical knowledge will be boldened and enriched.
-
-My favorite subjects in theory of computation are: formal methods; chiefly, verification of programs with modal logic, Structured Programming and Hoare logic, and compiler optimization. The most puzzling subject for me is the theory of categories.
-
-I plan on writing some papers as soon as I am qualified. I generally enjoy reading papers on computing immensely. My most favorite thing is writing literate programs, which you shall soon see in this web-hole.
+Good day to y'all. Name's Chubak. I study SWE/Compsci at this li'l _boutique college_ near our home. Before I started college, I was already baked with all the knowledge of computing and computational arts. This webhole contains select portion of my work. Make sure to leave a star on your way out!
 
 ## Notable Work, Categorized by Language
 
