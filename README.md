@@ -73,6 +73,11 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 |**Bioinformatics**|[PhyMMR Tools](https://github.com/Chubek/blosum_distance)|FFI tools for PhyMMR, some by me|Active Development|
 |**Classical Vision**|[SummerSavory](https://github.com/Chubek/SummerSavory)|Shape irregularity index score, WIP|Active Development|
 
+### OCaml
+|Type|Repo|Description|Status|
+|----|----|-----------|------|
+|**Combinatory Logic**|[GourmetParsec](https://gist.github.com/Chubek/bf29e6671cdc9637c401becca90c7bdf)|A parser combinator in OCaml|Finished|
+|**Formalism**| [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml |Non-Exec| 
 
 ### Python
 
@@ -154,7 +159,6 @@ I plan on writing some papers as soon as I am qualified. I generally enjoy readi
 
 |Language|Topic|Repo|Description|Status|
 |--------|-----|----|-----------|---|
-| OCaml | **Formalism** | [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml | Finished | 
 |AWK | **Bioinformatics** |[TripCount](https://gist.github.com/Chubek/db779e5d92aadccbca1a8a25b4a55e20)| Nucleotide triplet counter in AWK | Finished |
 |Bash|**System Script**|[DynoFiler](https://gist.github.com/Chubek/f81cfd71825f8db5eea7146b5030df7f)|Script for wrapaping line_profiler around PhyMMR|Finished|
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
