@@ -1,6 +1,6 @@
 Good day to y'all. Name's Chubak. I study SWE/Compsci at this li'l _boutique college_ near our home. Before I started college, I was already baked with all the knowledge of computing and computational arts. This 'webhole' (a term stolen, by yours truly, right now, as we speak, from [c9x.me](https://c9x.me)) contains select portion of my work. Make sure to leave a star on your way out!
 
-I'm currently engaged in construction of a program called Guillmet. It's an S-Expression based, Scheme-like language. Basically __Yet another Lisp??__ -- by the by, I am available for hire bee tee dubs.
+I'm currently engaged in construction of a program called Guillmet. It's an S-Expression based, Scheme-like language. Basically __Yet another Lisp??__ -- by the by, I am available for hire. You should hire me not because I have read both of Sato's papers on S-Expressions, rather, because I'm out of moola. Stacks of cash ain't smashing, so to speak.
 
 ## Notable Work, Categorized by Language
 
