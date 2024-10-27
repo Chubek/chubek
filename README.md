@@ -82,6 +82,7 @@ Not to be uncouth, but I offer my services to any professors in any university. 
 |----|----|-----------|------|
 |**Combinatory Logic**|[GourmetParsec](https://gist.github.com/Chubek/bf29e6671cdc9637c401becca90c7bdf)|A parser combinator in OCaml|Finished|
 |**Formalism**| [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml |Non-Exec| 
+|**LISP**| [the Guillmet Scheme](https://gist.github.com/Chubek/7221f9717aa92112fc50a758b76decc9) | A subset of Scheme | Super-adctive Development! |
 
 ### Python
 
