@@ -7,6 +7,7 @@ I like the works of Nils M. Holm. My most admired of compooter-men is M. D. McIl
 #### My Favorite Papers (Work in Progress, long list!):
 
 - [The Next 700 Programming Languages](https://dl.acm.org/doi/pdf/10.1145/365230.365257) - P. J. Landin ::: Seminal 1960s paper on infusing λ-Calculus with Non-symbolic syntax
+- [Controlflow Analysis](https://dl.acm.org/doi/pdf/10.1145/390013.808479) - P. Allen ::: Another banger, about analysis of algorithmic syntax control flow based on the concept of _Basic Blocks_ through a Directed Graph
 
 ## Notable Work, Categorized by Language
 
