@@ -4,7 +4,7 @@ If anyone's wondering, and cares, I am currently engaged in construction of [the
 
 I like the works of Nils M. Holm. My most admired of compooter-men is M. D. McIlroy --- who came up with dataflow and the concept of coroutines. I also admire the "Bell Labs" gang (which McIlroy belongs to, but also, K. Thompson, B. W. Kernighan, A. V. Aho, J. Ullman, D. M. Ritichie, R. Pike, S. Bourne, Lorinda Cherry, the late J. Ossanna, and...). I also like Steele and Sussman (which is unheard of for an Schemer! Call the poh-lice), I like S. C. Kleene and J. McCarthy, I admire founders of the arts of computing (A. F. Turing, A. Church, H. Curry). I like Andrew Appel and --- although I've never slept on his mattress, I like R. M. Stallman. There's so many people I _like_ and _admire_. I will keep this portion of my profile updated with names of these people!
 
-#### My Favorite Papers:
+#### My Favorite Papers (Work in Progress, long list!):
 
 - [The Next 700 Programming Languages](https://dl.acm.org/doi/pdf/10.1145/365230.365257) - P. J. Landin ::: Seminal 1960s paper on infusing λ-Calculus with Non-symbolic syntax
 
