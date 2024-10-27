@@ -6,6 +6,8 @@ I like the works of Nils M. Holm. My most admired of compooter-men is M. D. McIl
 
 Not to be uncouth, but I offer my services to any professors in any university. In return I want Zyklon-B, lots of it.
 
+I run _EndeavorOS_ on my PC. I used to run _Pop_OS!_. I primarily interface with my IBM-lineage PC through the Fish shell. I always have a between 4 to 12 Okular windows running. If you know me IRL, and you need books and papers, lemme know.
+
 #### My Favorite Papers (Work in Progress, long list!):
 
 - [The Next 700 Programming Languages](https://dl.acm.org/doi/pdf/10.1145/365230.365257) - P. J. Landin ::: Seminal 1960s paper on infusing λ-Calculus with Non-symbolic syntax
@@ -74,8 +76,8 @@ Not to be uncouth, but I offer my services to any professors in any university. 
 |**Graphics Programming**|[Expelligraphicus](https://github.com/Chubek/Expelligraphicus)|Another concept for a rasterizer|Finished|
 |**Automation**|[Upsc3ne](https://github.com/Chubek/upsc3ne)|An early Rust code, an obscenity detector|Terminated|
 |**Math**|[auster-integer](https://github.com/Chubek/auster-integer)|Big math WIP|Indefinite Development|
-|**Bioinformatics**|[PhyMMR Tools](https://github.com/Chubek/blosum_distance)|FFI tools for PhyMMR, some by me|Active Development|
-|**Classical Vision**|[SummerSavory](https://github.com/Chubek/SummerSavory)|Shape irregularity index score, WIP|Active Development|
+|**Bioinformatics**|[PhyMMR Tools](https://github.com/Chubek/blosum_distance)|FFI tools for PhyMMR, some by me|Stale|
+|**Classical Vision**|[SummerSavory](https://github.com/Chubek/SummerSavory)|Shape irregularity index score, WIP|Stale|
 
 ### OCaml
 |Type|Repo|Description|Status|
