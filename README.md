@@ -37,6 +37,7 @@ I run _EndeavorOS_ on my PC. I used to run _Pop_OS!_. I primarily interface with
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
 |**DSLs**| [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) | An implementation of ZephyrASDL language, in C, targeting C | Finished |
 |**Lex/Parse**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
 |**Lex/Parse**|[SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) | An S-Expression Parser in C | Finished |
