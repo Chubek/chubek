@@ -86,6 +86,7 @@ I run _EndeavorOS_ on my PC. I used to run _Pop_OS!_. I primarily interface with
 |**Combinatory Logic**|[GourmetParsec](https://gist.github.com/Chubek/bf29e6671cdc9637c401becca90c7bdf)|A parser combinator in OCaml|Finished|
 |**Formalism**| [Pascal-Syntax](https://gist.github.com/Chubek/65220b27f5dcc0cd696b84e166b8ab90) | Pascal syntax formalization in OCaml |Non-Exec| 
 |**LISP**| [the Guillmet Scheme](https://github.com/Chubek/Guillmet) | A subset of Scheme | Super-adctive Development! |
+|**Biology**| [Punnette.ml](https://gist.github.com/Chubek/40e67b2bddd15d6c08b1e62cb9a03789) | Computing the Punnette square | One-off |
 
 ### Python
 
