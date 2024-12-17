@@ -60,6 +60,7 @@ I run _EndeavorOS_ on my PC. I used to run _Pop_OS!_. I primarily interface with
 |**System/Shell**|[Broshelli](https://github.com/Chubek/Broshelli) | A shell for the browser (mostly experimental)|Experimental|
 |**Memory**|[sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) | Static memory region grants based on A. Tannenbaum's paper | Finished |
 |**System/Memory**|[Stackls](https://github.com/Chubek/Stackls) | List process stack frame in Win32 API and Linux | Finished |
+|**UNIX/POSIX**|[Squash](https://github.com/Chubek/Squash) | A POSIX-ly shell | Terminated |
 
 ### Rust
 
