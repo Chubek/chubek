@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IRST &lt;-&gt; EST Time Converter</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; }
+        label, input, button { margin: 0.5em 0; display: block; }
+        input[type="number"] { width: 6em; }
+        .result { margin: 1em 0; font-weight: bold; }
+        .section { margin-bottom: 2em; border-bottom: 1px solid #ccc; padding-bottom: 1em; }
+    </style>
+</head>
+<body>
+    <h1>IRST &lt;-&gt; EST Time Converter</h1>
+    <div class="section">
+        <h2>Convert IRST (Iran Standard Time) to EST (Eastern Standard Time)</h2>
+        <label for="irst2est">IRST time (e.g., 18.33 means 18:33):</label>
+        <input type="number" step="0.01" min="1.00" max="24.00" id="irst2est" value="18.33">
+        <button onclick="convertIRSTtoEST()">Convert to EST</button>
+        <div class="result" id="result-irst2est"></div>
+    </div>
+    <div class="section">
+        <h2>Convert EST (Eastern Standard Time) to IRST (Iran Standard Time)</h2>
+        <label for="est2irst">EST time (e.g., 1.40 means 1:40):</label>
+        <input type="number" step="0.01" min="1.00" max="24.00" id="est2irst" value="1.40">
+        <button onclick="convertESTtoIRST()">Convert to IRST</button>
+        <div class="result" id="result-est2irst"></div>
+    </div>
+    <script>
+        // Helper: Format hours and minutes as float with two decimals
+        function formatTime(hours, mins) {
+            const h = hours % 24;
+            return (h + mins / 60).toFixed(2);
+        }
+        // Helper: Parse float like 18.33 to {h:18, m:33}
+        function parseTime(input) {
+            const val = parseFloat(input);
+            if (isNaN(val)) return null;
+            const h = Math.floor(val);
+            const m = Math.round((val - h) * 100);
+            if (h < 0 || h > 24 || m < 0 || m > 59) return null;
+            return { h, m };
+        }
+        // IRST (UTC+3:30) to EST (UTC-5:00): -8.5 hours
+        function convertIRSTtoEST() {
+            const input = document.getElementById('irst2est').value;
+            const t = parseTime(input);
+            const resultDiv = document.getElementById('result-irst2est');
+            if (!t) {
+                resultDiv.textContent = "Invalid time format.";
+                return;
+            }
+            let totalMinutes = t.h * 60 + t.m;
+            totalMinutes -= 510; // -8.5 hours = -510 min
+            if (totalMinutes < 0) totalMinutes += 1440;
+            const outH = Math.floor(totalMinutes / 60);
+            const outM = totalMinutes % 60;
+            resultDiv.textContent = `EST: ${formatTime(outH, outM)} (i.e., ${outH.toString().padStart(2, '0')}:${outM.toString().padStart(2, '0')})`;
+        }
+        // EST (UTC-5:00) to IRST (UTC+3:30): +8.5 hours
+        function convertESTtoIRST() {
+            const input = document.getElementById('est2irst').value;
+            const t = parseTime(input);
+            const resultDiv = document.getElementById('result-est2irst');
+            if (!t) {
+                resultDiv.textContent = "Invalid time format.";
+                return;
+            }
+            let totalMinutes = t.h * 60 + t.m;
+            totalMinutes += 510; // +8.5 hours = +510 min
+            totalMinutes = totalMinutes % 1440;
+            const outH = Math.floor(totalMinutes / 60);
+            const outM = totalMinutes % 60;
+            resultDiv.textContent = `IRST: ${formatTime(outH, outM)} (i.e., ${outH.toString().padStart(2, '0')}:${outM.toString().padStart(2, '0')})`;
+        }
+    </script>
+    <hr>
+    <h3>How to Use</h3>
+    <ul>
+        <li>Enter a time as a real number (e.g., <code>18.33</code> for 18:33) and click convert.</li>
+        <li>Result is shown as a float and also as <code>hh:mm</code> for clarity.</li>
+        <li>Valid input range: 1.00 to 24.00. Minutes must be two digits after the decimal point.</li>
+    </ul>
+    <h3>Examples</h3>
+    <ul>
+        <li>IRST to EST: <code>18.33</code> → <code>10.03</code> (10:03 EST)</li>
+        <li>EST to IRST: <code>1.40</code> → <code>10.10</code> (10:10 IRST)</li>
+    </ul>
+    <small>
+        <b>Note:</b> Conversion does not account for daylight saving time. IRST is always UTC+3:30, EST is always UTC-5:00.<br>
+        This tool uses the real-number format as specified.
+    </small>
+</body>
+</html>
