@@ -48,6 +48,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 |**Memory**|[sGrant](https://gist.github.com/Chubek/6fa5cb170dd513a56e61460306b6d02f) | Static memory region grants based on A. Tannenbaum's paper | Finished |
 |**System/Memory**|[Stackls](https://github.com/Chubek/Stackls) | List process stack frame in Win32 API and Linux | Finished |
 |**UNIX/POSIX**|[Squash](https://github.com/Chubek/Squash) | A POSIX-ly shell | Terminated |
+|**LKMs/Embedded**| [ClemoreVirtualDevice](https://gist.github.com/Chubek/c7ae971e37754a2e690ecddeb1ee8692) | Virtual keyboard driver for my keyremapper, Clemore | Finished |
 
 ### Rust
 
