@@ -111,6 +111,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 
 |Topic|Repo|Description|Status|
 |-----|----|-----------|------|
+|**Lexical/Syntactic Recognition** | [AurocksLL](https://gist.github.com/Chubek/294547e247061bbaccf04e0377425a90) | An LL(1) parser and lexer generator in Perl | Definite Development |
 | **Domain-Specific Language** | [AllocPP](https://gist.github.com/Chubek/b2846855e5bb71a67c7e3effc6beefd6) | A Perl script that preprocesses C and prepares for static heap allocation (Note: AllocPPx superceeds it) | Finished
 | **Domain-Specific Language** | [ErrorPP](https://gist.github.com/Chubek/db1e1084ce4439ba40eb8f758b774b46) | A Perl script that preprocesses C and generates warning/error functions | Finished |
 | **Domain-Specific Language** | [AllocPPx](https://gist.github.com/Chubek/73d842c21cd5aa6cff8feb1fc8a602a6) | A preprocessor for C written in Perl, that adds garbage collection heaps with reference counting and mark and sweep | Finished |
