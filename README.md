@@ -9,7 +9,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
 |**Bioinformatics**|Aarch64, x86-64|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Terminated|
-|**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
+|**Network**|x86-64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ### Assembly
 |Topic|x86-64|AArch64|Repo|Description|Status|
