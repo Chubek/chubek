@@ -8,7 +8,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
 |--|--|---|--|--|--|--|--|--|--|--|
 |**Cryptography**|Neither|✓|✓|✓|✓|✓|✓|[PoxHash](https://github.com/chubek/PoxHash)|A block hash algorithm with high avalanche effect|Finished|
-|**Bioinformatics**|Both|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Terminated|
+|**Bioinformatics**|Aarch64, x86-64|✓|✓|✘|✓|✘|✘|[TransGatacca](https://github.com/chubek/TransGatacca)|DNA/Protein [Reverse] Translator|Terminated|
 |**Network**|x64|✓|✘|✘|✘|✘|✘|[Panah](https://github.com/Chubek/Panah)|A packet wrangler and tunnel|Suspended|
 
 ### Assembly
