@@ -29,7 +29,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 |**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Active Development |
 |**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
 |**DSLs**| [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) | An implementation of ZephyrASDL language, in C, targeting C | Finished |
-|**Lex/Parse**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
+|**Terminal/CLI**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
 |**Lex/Parse**|[SexpParse](https://gist.github.com/Chubek/d2f0ac9067521716d2ab31c93948e885) | An S-Expression Parser in C | Finished |
 |**LanguageDev**| [YaccBoilerplate](https://gist.github.com/Chubek/f97c665d83bcd300ff9e7b2dd38022a5) | A Boilerplate for Yacc grammars | Finished |
 |**Bioinformatics/LP**|[DynoGram](https://github.com/Chubek/DynoGram) | Nucleotide to Peptide translation using Lex/Yacc | Finished |
