@@ -26,7 +26,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
-|**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Active Development |
+|**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Nearly Done |
 |**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
 |**DSLs**| [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) | An implementation of ZephyrASDL language, in C, targeting C | Finished |
 |**Terminal/CLI**|[Mukette](https://github.com/Chubek/Mukette) | A Markdown pager in C | Finished |
