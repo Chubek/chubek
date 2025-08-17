@@ -52,6 +52,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 |**System/Memory**|[Stackls](https://github.com/Chubek/Stackls) | List process stack frame in Win32 API and Linux | Finished |
 |**UNIX/POSIX**|[Squash](https://github.com/Chubek/Squash) | A POSIX-ly shell | Terminated |
 |**LKMs/Embedded**| [ClemoreVirtualDevice](https://gist.github.com/Chubek/c7ae971e37754a2e690ecddeb1ee8692) | Virtual keyboard driver for my keyremapper, Clemore | Finished |
+|**Interpreters**| [Ruse](https://github.com/Chubek/ruse) | An implementation of Scheme, half-done, I wish to start over | To Startover |
 
 ### Rust
 
