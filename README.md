@@ -58,6 +58,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|--|
+|**Terminal/CLI**|[Nevermore](https://github.com/Chubek/nevermore)| A minimal terminal pager |Finished|
 |**Electronics**|[Scheesim](https://github.com/Chubek/Scheesim)|Electronics circuit simulator similar to SPICE|Indefinite Development|
 |**Network**|[Samovar](https://github.com/Chubek/Samovar)|HTTP 1.1 framework, WIP|Revision Considered|
 |**Network**|[rusty-csv-protcol](https://github.com/Chubek/rusty-csv-protocol)|Application-level protcol|Finished|
