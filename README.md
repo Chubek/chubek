@@ -1,7 +1,5 @@
 I've decided to clean up this README.md file and yap less about stuff nobody cares about. To-the-point, I am an SWE student at a very _questionable_ college (a _Learning Institution_?) and I write programs in order to not _an hero_. If you are here, I've probably linked you this page. Use any of my software, it's _free_.
 
-**You can view my official resume [here](https://github.com/Chubek/chubek/blob/master/mnazemi-resume.pdf)**.
-
 ## Notable Work, Categorized by Language
 
 ### Multiple
