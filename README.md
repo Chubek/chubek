@@ -1,5 +1,7 @@
 I've decided to clean up this README.md file and yap less about stuff nobody cares about. To-the-point, I am an SWE student at a very _questionable_ college (a _Learning Institution_?) and I write programs in order to not _an hero_. If you are here, I've probably linked you this page. Use any of my software, it's _free_.
 
+Most of my focus and attention, at the moment, is dedicated to [Diyrbal](https://github.com/Chubek/diyrbal). It is an interpreted language, I have not decided what the syntax would be like, but I am sure working on the backend and the semantics! Plans are, to make Diyrbal a language for writing compilers, and doing math. A combination of Haskell and MATLAB, as "unholy" as this marriage may seem. Diyrbal will take a _long_ time to prespire, it will take probably a year, or two even, to get up and running. I shan't be working on it _all the time_. I may quit on it for a while to do other things, or to do stuff that will actually get me some mad stax of moola. But Diyrbal will be always an active project. As naissant as it is, I have _high_ hopes for it!
+
 ## Notable Work, Categorized by Language
 
 ### Multiple
@@ -24,6 +26,7 @@ I've decided to clean up this README.md file and yap less about stuff nobody car
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Programming Languages**|[Diyrbal](https://github.com/Chubek/diyrbal) | An interpreted language, for writing compilers, and doin' math | Daily Progress |
 |**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Nearly Done |
 |**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
 |**DSLs**| [ZephyrASDL](https://github.com/Chubek/ZephyrASDL) | An implementation of ZephyrASDL language, in C, targeting C | Finished |
