@@ -1,4 +1,6 @@
-Welcome to my protfolio. Curse down to learn more about me.
+Welcome to my protfolio. These are the programs I've written over the years, that are presentable to a degree. Even the ones marked as "Terminated" still have useful code in them. 
+
+Curse down below to find ways to contact me.
 
 ## Notable Work, Categorized by Language
 
@@ -167,16 +169,6 @@ Welcome to my protfolio. Curse down to learn more about me.
 |Nim|**ClassicalLearning**|[Pong Q-Learning](https://github.com/Chubek/pong-q-learning-nim)|A test project in Nim|Finished|
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
-
-## About Me
-
-I've decided to clean up this README.md file and yap less about stuff nobody cares about. To-the-point, I am an SWE student at a very _questionable_ college (a _Learning Institution_?) and I write programs in order to not _an hero_. If you are here, I've probably linked you this page. Use any of my software, it's _free_. I am 32, born 12th March/21st Esfand of 1993/1371 (this is a "screw you" to the "truck enthusiast" on _le Reddit_ who told me "I don't care about your calendar", yes I am a petty man, but so was he). The names I go by on the web are: Aurlito Buendia, Chubak Bidpaa, Behrang Nevii, Sami Dena and Alexander Mohammad Jesus. My other username on Github is [PauvreGauvre](https://github.com/PauvreGauvre). Keep in mind that the name of this Github account is "Chub**e**k", _with an E_, I don't know why I ever did that. My "socials" are at the end of this page, however, for the lazy: `.chubak` on Discord, `@rapturemaster` on Telegram, and my Email is `chubakbidpaa [at] riseup [dot] net`. I do not have a blog. At least, not yet. If I ever make one, I will share it here.
-
-My focus and attention at the moment is dedicated to [MikroNES](https://github.com/Chubek/mikrones). A lean, minimal NES/Famicom emulator. The "Mikro" in the name alludes to both its status as a small emulator, and also, a South Korean brand of [Famiclones](https://bootleggames.fandom.com/wiki/Famiclone) known as _Micro Genius_. Everything in my projects is made from the ground-up, therefore, everything in MikroNES is also made from scratch.
-
-My biggest weakness in life is my affinity for Programming Language Theory. At anytime you assume I am breathing (which is most of the time!), I might be working on a compiler, or an interpreter. My latest interpreter progject is [Diyrbal](https://github.com/Chubek/Diyrbal), which I wish to leverage to build my first compiler, [Cephyr](https://github.com/Chubek/Cephyr).
-
-**I use Arch, btw**. Fish/i3-wm/Alacritty/Tmux/Neovim. [My hardware](https://gist.github.com/Chubek/8459342e2116f1db8d5c3a9a3e53dd65).
 
 ## How to Contact Me
 
