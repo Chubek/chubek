@@ -26,6 +26,7 @@ Curse down below to find ways to contact me.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
+|**Toolchain**|[CppheckData-Shims](https://github.com/Chubek/cppcheckdata-shims) | A shims library providing additional features to Cppcheck Addon API, plug *liblint*, a collection of over 40 addons for Cppcheck built with the library | Stable |
 |**Programming Languages**|[Diyrbal](https://github.com/Chubek/diyrbal) | An interpreted language, for writing compilers, and doin' math | Daily Progress |
 |**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Nearly Done |
 |**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
