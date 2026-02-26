@@ -2,7 +2,7 @@ Hey ya'll good folks. I'm currently employed as a *language tooling & toolchain 
 
 Welcome to my protfolio. These are the programs I've written over the years, that are presentable to a degree. Even the ones marked as "Terminated" still have useful code in them. 
 
-Recently, I've been trying to churn out AI-generated projects, because 
+Recently, I've been trying to churn out AI-generated projects, because it's fun to test out ideas and stuff. But I will never post these as my primary work. You can scroll way below to see a list of them, isolated from the work I've actually toiled for.
 
 Curse down below to find ways to contact me.
 
