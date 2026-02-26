@@ -173,6 +173,9 @@ Curse down below to find ways to contact me.
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
 
+## My AI-Generated Projects
+- [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
+
 ## How to Contact Me
 
 * Homepage -> https://let-over-lambda.com
