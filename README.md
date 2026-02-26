@@ -2,6 +2,8 @@ Hey ya'll good folks. I'm currently employed as a *language tooling & toolchain 
 
 Welcome to my protfolio. These are the programs I've written over the years, that are presentable to a degree. Even the ones marked as "Terminated" still have useful code in them. 
 
+Recently, I've been trying to churn out AI-generated projects, because 
+
 Curse down below to find ways to contact me.
 
 ## Notable Work, Categorized by Language
@@ -28,7 +30,6 @@ Curse down below to find ways to contact me.
 
 |Topic|Repo|Description|Status|
 |---------|----|-----------|---|
-|**Toolchain**|[CppheckData-Shims](https://github.com/Chubek/cppcheckdata-shims) | A shims library providing additional features to Cppcheck Addon API, plug *liblint*, a collection of over 40 addons for Cppcheck built with the library | Stable |
 |**Programming Languages**|[Diyrbal](https://github.com/Chubek/diyrbal) | An interpreted language, for writing compilers, and doin' math | Daily Progress |
 |**Deamons**| [LyKron](https://github.com/Chubek/lykron) | An implementation of `crond` | Nearly Done |
 |**VMs**| [LyVM](https://gist.github.com/Chubek/f3d7268d873c3a6e7564565a69b92806) | A very small VM | Finished |
@@ -175,6 +176,7 @@ Curse down below to find ways to contact me.
 
 ## My AI-Generated Projects
 - [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
+- [CppheckData-Shims](https://github.com/Chubek/cppcheckdata-shims) --- A shims library providing additional features to Cppcheck Addon API, plug *liblint*, a collection of over 40 addons for Cppcheck built with the library
 
 ## How to Contact Me
 
