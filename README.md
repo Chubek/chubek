@@ -1,12 +1,14 @@
-Hey ya'll good folks. I'm currently employed as a *language tooling & toolchain engineer* for Poyan Afzar. My job consists of developing new *tooling* and *toolchain*, and *extending* existing tools for static and dynamic analysis, compiling, and so on. A "language tooling & toolchain engineer" must ask him or herself "does there exist a mature tooling and toolchain for what people need, that fulfills their needs in this *specific way* that I intend?" --- and, if it exists -- and is mature enough to have an *extensibility substrate* (e.g. a plugin API) I provide extensions for it, or tools for extending it. If it exists, and is not mature enough, or does not exist at all, I build a tooling that does what the customer, or the market wants. But sometimes, if the tooling or toolchain exists, I'll provide an alternative that is packed with more features. My bread and butter is *extensibility* and *domain-driven design* --- and these two sometimes conflate. Think, a compiler were we specify optimizations via a declarative domain-specific language.
+Hey'all good folks. I work at Poyan Afzar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel "A software language is a formal system whose syntsax and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's CSP *used* to be not a software language, until Concurrent ML used it as a model of concurrency. But "tooling" is the key here. I am an SLE 'tooling' expert. This means, I make tools tools revolving around software languages. I am writing a book titled "Software Language Tooling: A Vademecum". When that book comes out, make sure to read it, so you can learn SLT, which is a very vest field.
 
-Welcome to my protfolio. These are the programs I've written over the years, that are presentable to a degree. Even the ones marked as "Terminated" still have useful code in them. 
+I am also writing "Compilonomikon", a volume on compilers. Compilers are a part of Software Language Tooling, but they warranted a separate volumne, given how extensive the subject it.
 
-Recently, I've been trying to churn out AI-generated projects, because it's fun to test out ideas and stuff. But I will never post these as my primary work. You can scroll way below to see a list of them, isolated from the work I've actually toiled for.
+Since these two books have a lot in common, I labeled them "Twin Books Project" (we have twins, it's not as fun as people think). You can find the repository for TBP [here](https://github.com/Chubek/TwinBooksProject). Even if you dislike the book, the projects will amaze you. It's still WIP, mind you.
 
-Curse down below to find ways to contact me.
+So, there it goes. I am a "Software Language Tooling Engineer".
 
-## Notable Work, Categorized by Language
+All the software below has been made without the use of AI. I have nothing against using AI agents, I makee "AI Slop" and I list them under all the software I have toiled on. Plus, for work, I have to use AI agents, because one moment thinking on ow to solve a problem, is one moment wasted.
+
+## Notable Work, Categorized by Language (No AI)
 
 ### Multiple
 |Topic|Assembly|C|Rust|Go|Python|Nim|JS|Repo|Description|Status|
@@ -174,7 +176,7 @@ Curse down below to find ways to contact me.
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
 
-## My AI-Generated Projects
+## My AI Slop
 - [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
 - [CppheckData-Shims](https://github.com/Chubek/cppcheckdata-shims) --- A shims library providing additional features to Cppcheck Addon API, plug *liblint*, a collection of over 40 addons for Cppcheck built with the library
 
