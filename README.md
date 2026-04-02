@@ -6,7 +6,7 @@ Since these two books have a lot in common, I labeled them "Twin Books Project" 
 
 So, there it goes. I am a "Software Language Tooling Engineer".
 
-All the software below has been made without the use of AI. I have nothing against using AI agents, I makee "AI Slop" and I list them under all the software I have toiled on. Plus, for work, I have to use AI agents, because one moment thinking on ow to solve a problem, is one moment wasted.
+**All the software below has been made without the use of AI**, unless they are in the 'Slop' section. I use the Slop Machine at work, just like a Neolithic farmer uses an aurocks to plow the field. But the same farmer never uses any bovinery to plow the field for fun. Plus, most of these libraries have been written before the plow was discovered!
 
 ## Notable Work, Categorized by Language (No AI)
 
@@ -178,7 +178,7 @@ All the software below has been made without the use of AI. I have nothing again
 
 ## My AI Slop
 - [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
-- [CppheckData-Shims](https://github.com/Chubek/cppcheckdata-shims) --- A shims library providing additional features to Cppcheck Addon API, plug *liblint*, a collection of over 40 addons for Cppcheck built with the library
+- [LibGLR](https://github.com/Chubek/libglr) --- a library that aides with creation of GLR parsers
 
 ## How to Contact Me
 
