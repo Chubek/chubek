@@ -179,6 +179,7 @@ So, there it goes. I am a "Software Language Tooling Engineer".
 ## My AI Slop
 - [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
 - [LibGLR](https://github.com/Chubek/libglr) --- a library that aides with creation of GLR parsers
+- [Simdette](https://github.com/Chubek/simdette) -- a header-only C library providing robust target-agnostic vector operations
 
 ## How to Contact Me
 
