@@ -181,6 +181,7 @@ So, there it goes. I am a "Software Language Tooling Engineer".
 - [LibGLR](https://github.com/Chubek/libglr) --- a library that aides with creation of GLR parsers
 - [Simdette](https://github.com/Chubek/simdette) -- a header-only C library providing robust target-agnostic vector operations
 - [DaffyChat](https://github.com/Chubek/DaffyChat) -- extensible, voice-enabled ephemeral chatrooms
+- [WIRBLE](https://github.com/Chubek/WIRBLE) -- a compiler infrastructure with retargetable codegen and rewriting for optimization
 
 ## How to Contact Me
 
