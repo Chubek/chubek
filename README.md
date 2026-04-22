@@ -173,11 +173,11 @@ Below is a list of my work, mostly hand-made, and at the end, my AI slop. I have
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
 
 ## My AI Slop
-- [luaROFF](https://github.com/Chubek/luaROFF) --- a preprocessor for GROFF that embeds Lua
-- [LibGLR](https://github.com/Chubek/libglr) --- a library that aides with creation of GLR parsers
-- [Simdette](https://github.com/Chubek/simdette) -- a header-only C library providing robust target-agnostic vector operations
-- [DaffyChat](https://github.com/Chubek/DaffyChat) -- extensible, voice-enabled ephemeral chatrooms
-- [WIRBLE](https://github.com/Chubek/WIRBLE) -- a compiler infrastructure with retargetable codegen and rewriting for optimization
+- [luaROFF](https://github.com/Chubek/luaROFF) -:> a preprocessor for GROFF that embeds Lua. Provides `lroff` library, which gives access to all the GROFF facilities, allowing interospection and intercession of your ROFF pipeline;
+- [LibGLR](https://github.com/Chubek/libglr) -:> a library that aides with creation of GLR parsers, with disambiguation and rewrite facilities. Provides bindings via SWIG, and several custom wrappers -- e.g. glrpp, the C++ wrapper which implements a native DSL
+- [Simdette](https://github.com/Chubek/simdette) -:> a header-only C library providing robust target-agnostic vector operations, with a native DSL and operator overloading. You could write SIMD code as if you are writing normal C code;
+- [DaffyChat](https://github.com/Chubek/DaffyChat) -:> extensible, voice-enabled ephemeral chatrooms, with a language to define remote services, and a language to define frontend WASM-based plugins. Supports shared library plugins as well;
+- [WIRBLE](https://github.com/Chubek/WIRBLE) -:> a compiler infrastructure with retargetable codegen and rewriting for optimization, Targets are defined via plugins. Provides a VM runtime as well. Great for JIT/AOT;
 
 ## How to Contact Me
 
