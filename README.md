@@ -2,7 +2,7 @@ Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tool
 1. Domain-locked and Domain-specific languages;
 2. Extensibility of software through tooling;
 
-I have recently began making AI slopt with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI slop.
+Below is a list of my work, mostly hand-made, and at the end, my AI slop. I have recently began making AI slop with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI slop.
 
 ## Notable Work, Categorized by Language (No AI)
 
