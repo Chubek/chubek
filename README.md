@@ -1,12 +1,8 @@
-Hey'all good folks. I work at Poyan Afzar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel "A software language is a formal system whose syntsax and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's CSP *used* to be not a software language, until Concurrent ML used it as a model of concurrency. But "tooling" is the key here. I am an SLE 'tooling' expert. This means, I make tools tools revolving around software languages. I am writing a book titled "Software Language Tooling: A Vademecum". When that book comes out, make sure to read it, so you can learn SLT, which is a very vest field.
+Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel's 2018 volume on SLE, "A software language is a formal system wherein the syntsax and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's "CSP" and other "Process Algebra" languages are *not* software languages, they are abstract mathematical models. Lambda Calculus and its many variants are *not* a software language, they are a model for software language implmenetation. However, JSON *is* a software language, so is XML, or YAML. "Tooling" is the key here. I am an SLE 'tooling' expert. This means, I make meta-programs that take one software language; query, analyze, rewrite, and transform it, and output the same software language, or another software language. My work is mostly concerned with:
+1. Domain-locked and Domain-specific languages;
+2. Extensibility of software through tooling;
 
-I am also writing "Compilonomikon", a volume on compilers. Compilers are a part of Software Language Tooling, but they warranted a separate volumne, given how extensive the subject it.
-
-Since these two books have a lot in common, I labeled them "Twin Books Project" (we have twins, it's not as fun as people think). You can find the repository for TBP [here](https://github.com/Chubek/TwinBooksProject). Even if you dislike the book, the projects will amaze you. It's still WIP, mind you.
-
-So, there it goes. I am a "Software Language Tooling Engineer".
-
-**All the software below has been made without the use of AI**, unless they are in the 'Slop' section. I use the Slop Machine at work, just like a Neolithic farmer uses an aurocks to plow the field. But the same farmer never uses any bovinery to plow the field for fun. Plus, most of these libraries have been written before the plow was discovered!
+I have recently began making AI slopt with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI slop.
 
 ## Notable Work, Categorized by Language (No AI)
 
