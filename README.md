@@ -181,6 +181,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [DaffyChat](https://github.com/Chubek/DaffyChat) -:> extensible, voice-enabled ephemeral chatrooms, with a language to define remote services, and a language to define frontend WASM-based plugins. Supports shared library plugins as well;
 - [WIRBLE](https://github.com/Chubek/WIRBLE) -:> a compiler infrastructure with retargetable codegen and rewriting for optimization, Targets are defined via plugins. Provides a VM runtime as well. Great for JIT/AOT;
 - [Moonpie](https://github.com/Chubek/Moonpie) -:> an implementation of Lua 5.4, as a C++ header file, with a novel non-compliant API that utilizes C's metaprogramming and native DSL capabilities. Moonpie has a rich toolchain;
+- [SymProv](https://github.com/Chubek/SymProv) -:> a Static Code Intelligence tool that manifests the symbols in a C program;
 
 ## How to Contact Me
 
