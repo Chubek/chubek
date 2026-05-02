@@ -182,6 +182,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [WIRBLE](https://github.com/Chubek/WIRBLE) -:> a compiler infrastructure with retargetable codegen and rewriting for optimization, Targets are defined via plugins. Provides a VM runtime as well. Great for JIT/AOT;
 - [Moonpie](https://github.com/Chubek/Moonpie) -:> an implementation of Lua 5.4, as a C++ header file, with a novel non-compliant API that utilizes C's metaprogramming and native DSL capabilities. Moonpie has a rich toolchain;
 - [SymProv](https://github.com/Chubek/SymProv) -:> a Static Code Intelligence tool that manifests the symbols in a C program;
+- [ZPell](https://github.com/Chubek/ZPell) -:> an extensible, interoperable, CLI-based, API-based spellcheck software;
 
 ## How to Contact Me
 
