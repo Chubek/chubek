@@ -183,6 +183,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [Moonpie](https://github.com/Chubek/Moonpie) -:> an implementation of Lua 5.4, as a C++ header file, with a novel non-compliant API that utilizes C's metaprogramming and native DSL capabilities. Moonpie has a rich toolchain;
 - [SymProv](https://github.com/Chubek/SymProv) -:> a Static Code Intelligence tool that manifests the symbols in a C program;
 - [ZPell](https://github.com/Chubek/ZPell) -:> an extensible, interoperable, CLI-based, API-based spellcheck software;
+- [Equinox](https://github.com/Chubek/Equinox) -:> an e-graph library in C. It uses equality satuation and confruence closure to find equal terms, and rewrite them;
 
 ## How to Contact Me
 
