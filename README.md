@@ -186,6 +186,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [Equinox](https://github.com/Chubek/Equinox) -:> an e-graph library in C. It uses equality satuation and confruence closure to find equal terms, and rewrite them;
 - [Ekipp-Library](https://github.com/Chubek/ekipp-library) -:> a preprocessor construction library. Build your own preprocessors, with a header-only library. Includes `g3`, a preprocessor application that uses Ekipp;
 - [NuPERF](https://github.com/Chubek/nuperf) -:> A modern, retargetable perfect hashing library. Specs are written in Lua. You can define your own target language;
+- [Chomsky3 Library](https://github.com/Chubek/libchomsky3) -:> a regular expression library not focused on matching, rather, compilation. Compiles to JIT'd bytecode VM and C. Useful for lexical scanner generators;
 
 ## How to Contact Me
 
