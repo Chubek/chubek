@@ -189,6 +189,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [Chomsky3 Library](https://github.com/Chubek/libchomsky3) -:> a regular expression library not focused on matching, rather, compilation. Compiles to JIT'd bytecode VM and C. Useful for lexical scanner generators;
 - [DSLUtils.hpp](https://github.com/Chubek/dslutils.hpp) -:> a header-only toolkit in C++ for creating C++-native DSLs, with a combinatory parser to sweeten the deal;
 - [QaMRpp](https://github.com/Chubek/QaMRpp) -:> a header-only implementation of Lua for C++, with plugins;
+- [Marpelle](https://github.com/Chubek/Marpelle) -:> Create ELF/PE/Mach-O Python services with IPC;
 
 ## How to Contact Me
 
