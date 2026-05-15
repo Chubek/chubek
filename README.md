@@ -190,7 +190,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [DSLUtils](https://github.com/Chubek/dslutils.hpp) -:> a header-only toolkit in C++ for creating C++-native DSLs, with a combinatory parser to sweeten the deal;
 - [QaMRpp](https://github.com/Chubek/QaMRpp) -:> a header-only implementation of Lua for C++, with plugins;
 - [Marpelle](https://github.com/Chubek/Marpelle) -:> create ELF/PE/Mach-O Python services with IPC;
-- [EquinoxNG](https://github.com/Chubek/EquinoxNG) -:> a new, improved version of Equinox with the EQVSG language;
+- [EquinoxNG](https://github.com/Chubek/equinox-ng) -:> a new, improved version of Equinox with the EQVSG language;
 - [IPCtk](https://github.com/Chubek/IPCtk) -:> a DSL-based tookit for working with IPC primitives and protocols;
 
 ## How to Contact Me
