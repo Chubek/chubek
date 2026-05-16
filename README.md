@@ -1,6 +1,8 @@
 Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel's 2018 volume on SLE, "A software language is a formal system wherein the syntsax and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's "CSP" and other "Process Algebra" languages are *not* software languages, they are abstract mathematical models. Lambda Calculus and its many variants are *not* a software language, they are a model for software language implmenetation. However, JSON *is* a software language, so is XML, or YAML. Python and C, are, too. WebAssembly is a SL, but EBNF is not a SL. "Tooling" is the key here. I am an SLE 'tooling' expert. This means, I make meta-programs that take one software language; query, analyze, rewrite, and transform it, and output the same software language, or another software language. My work is mostly concerned with:
+
 1. Domain-locked and Domain-specific languages;
 2. Extensibility of software through tooling;
+3. Specification of software through semantically active meta-languages;
 
 Below is a list of my work, mostly hand-made, and at the end, my AI slop. I have recently began making AI slop with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI slop.
 
@@ -192,6 +194,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [Marpelle](https://github.com/Chubek/Marpelle) -:> create ELF/PE/Mach-O Python services with IPC;
 - [EquinoxNG](https://github.com/Chubek/equinox-ng) -:> a new, improved version of Equinox with the EQVSG language;
 - [IPCtk](https://github.com/Chubek/IPCtk) -:> a DSL-based tookit for working with IPC primitives and protocols;
+- [SkillTk](https://github.com/Chubek/SkillTk) -:> a simple Python program for generating LLM Agent "Skills" using OpenAI LLM API;
 
 ## How to Contact Me
 
