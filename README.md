@@ -197,6 +197,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [SkillTk](https://github.com/Chubek/SkillTk) -:> a simple Python program for generating LLM Agent "Skills" using OpenAI LLM API;
 - [Klyspec](https://github.com/Chubek/Klyspec) -:> a header-only C++ library for specification of CLI arguments, with IPC, native subcommands, profiles;
 - [Sattyre](https://github.com/Chubek/Sattyre) -:> a software for wrapping other SAT/SMT solvers in;
+- [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins;
 
 ## How to Contact Me
 
