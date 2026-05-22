@@ -196,6 +196,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [IPCtk](https://github.com/Chubek/IPCtk) -:> a DSL-based tookit for working with IPC primitives and protocols;
 - [SkillTk](https://github.com/Chubek/SkillTk) -:> a simple Python program for generating LLM Agent "Skills" using OpenAI LLM API;
 - [Klyspec](https://github.com/Chubek/Klyspec) -:> a header-only C++ library for specification of CLI arguments, with IPC, native subcommands, profiles;
+- [Sattyre](https://github.com/Chubek/Sattyre) -:> a software for wrapping other SAT/SMT solvers in;
 
 ## How to Contact Me
 
