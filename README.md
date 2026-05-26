@@ -182,7 +182,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [Simdette](https://github.com/Chubek/simdette) -:> a header-only C library providing robust target-agnostic vector operations, with a native DSL and operator overloading. You could write SIMD code as if you are writing normal C code;
 - [DaffyChat](https://github.com/Chubek/DaffyChat) -:> extensible, voice-enabled ephemeral chatrooms, with a language to define remote services, and a language to define frontend WASM-based plugins. Supports shared library plugins as well;
 - [WIRBLE](https://github.com/Chubek/WIRBLE) -:> a compiler infrastructure with retargetable codegen and rewriting for optimization, Targets are defined via plugins. Provides a VM runtime as well. Great for JIT/AOT;
-- [Moonpie](https://github.com/Chubek/Moonpie) -:> an implementation of Lua 5.4, as a C++ header file, with a novel non-compliant API that utilizes C's metaprogramming and native DSL capabilities. Moonpie has a rich toolchain;
+- [Moonpie](https://github.com/Chubek/Moonpie) -:> an implementation of Lua 5.4, as a C++ header file, with a novel non-compliant API that utilizes C's metaprogramming and native DSL capabilities. Moonpie has a rich toolchain, this project has been arorted, see [QaMRpp](https://github.com/Chubek/QaMRpp);
 - [SymProv](https://github.com/Chubek/SymProv) -:> a Static Code Intelligence tool that manifests the symbols in a C program;
 - [ZPell](https://github.com/Chubek/ZPell) -:> an extensible, interoperable, CLI-based, API-based spellcheck software;
 - [Equinox](https://github.com/Chubek/Equinox) -:> an e-graph library in C. It uses equality satuation and confruence closure to find equal terms, and rewrite them;
@@ -197,7 +197,8 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 - [SkillTk](https://github.com/Chubek/SkillTk) -:> a simple Python program for generating LLM Agent "Skills" using OpenAI LLM API;
 - [Klyspec](https://github.com/Chubek/Klyspec) -:> a header-only C++ library for specification of CLI arguments, with IPC, native subcommands, profiles;
 - [Sattyre](https://github.com/Chubek/Sattyre) -:> a software for wrapping other SAT/SMT solvers in;
-- [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins;
+- [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins. This projec is discontinued;
+- [PikoRL](https://github.com/Chubek/PikoRL) -:> a regular realine library with bundling mode. Bundling mode creates an executabele from your files with file appended adn stub for executoion prependend,like `makeself`;
 
 ## How to Contact Me
 
