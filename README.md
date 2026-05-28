@@ -4,7 +4,7 @@ Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tool
 2. Extensibility of software through tooling;
 3. Specification of software through semantically active meta-languages;
 
-Below is a list of my work, mostly hand-made, and at the end, my AI slop. I have recently began making AI slop with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI slop.
+Below is a list of my work, mostly hand-made, and at the end, my AI slop. I have recently began making AI-generated applications with Agentic AI. As a form of therapy, given the topsy-turvey world of the yesterday's tomorrow. I have written some good stuff, but I still don't *own* them and I don't take honor in them. This text before you right now begins with a list of **real software** that I have toiled over, and at the end, I list my AI application.
 
 I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don't have time to edit this page on a daily basis, so I won't make any topical references about why it's so cheap. I used my own server as the authorative nameserver. I am a staunch supporter for self-hosting, especially when the entire world (that is, the country ran by a strain of Seventh-Day Adventists who survived Waco, and relabled themselves as "Evangelicals", and mess up the world for the second coming of their Lord and Savior, who, I swear, would never 'turn the other cheek' on these degenerates, and will never 'take the speck out of [his] eye before taking the plank out of your friends' --- in fact, he will shove the plank up their wazoo) has sanctioned you. I have decided to make a whole project for self-hosting --- of course, using the slop machine --- a project I call "Syntra" and its a suite of tools for self-hosting. I plan on only mirroring my Git repos here when Syntra is done. Visit [Syntra's page on Warble](https://warble.ir/syntra) to remain lit and woke of Syntra's development.
 
@@ -176,7 +176,12 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 |VimScript | **Utility** | [EBNFVim](https://gist.github.com/Chubek/886580036f37bda5d6023595821afa51) | VimScript specifications for EBNF | Finished |
 |Lua|**Combinatory Logic**| [Combinatory Logic Zoo](https://gist.github.com/Chubek/7b8118f44a2ae80fd864121cdc6692f4)|A small zoo of combinatory logic|Finished|
 
-## My AI Slop
+## My AI-Generated Application
+
+I still toild over my AI-generated application. I plan them out, I scaffold the directory, I write some of the code, and most importantly, I test them out. Fuzzing and unittesting. I do not say "Be it, and it become". Still, I spend a lot less effort on my AG-generated applications, so it would be dishonest to mix them in with my hand-made software.
+
+One thing I do with my AI-generated applications is, that I try to innovate. The earlier ones on top of the list are your basic warm up, but as we go further, I decide to make more and more innovative applications.
+
 - [luaROFF](https://github.com/Chubek/luaROFF) -:> a preprocessor for GROFF that embeds Lua. Provides `lroff` library, which gives access to all the GROFF facilities, allowing interospection and intercession of your ROFF pipeline;
 - [LibGLR](https://github.com/Chubek/libglr) -:> a library that aides with creation of GLR parsers, with disambiguation and rewrite facilities. Provides bindings via SWIG, and several custom wrappers -- e.g. glrpp, the C++ wrapper which implements a native DSL
 - [Simdette](https://github.com/Chubek/simdette) -:> a header-only C library providing robust target-agnostic vector operations, with a native DSL and operator overloading. You could write SIMD code as if you are writing normal C code;
