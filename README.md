@@ -178,7 +178,7 @@ I have registered `warble.ir` because IRNIC domains are so damn cheap, and I don
 
 ## My AI-Generated Application
 
-I still toild over my AI-generated application. I plan them out, I scaffold the directory, I write some of the code, and most importantly, I test them out. Fuzzing and unittesting. I do not say "Be it, and it become". Still, I spend a lot less effort on my AG-generated applications, so it would be dishonest to mix them in with my hand-made software.
+I still toil and fether over my AI-generated application. I plan them out, I scaffold the directory, I write some of the code, and most importantly, I test them out. Fuzzing and unittesting. I do not say "Be it, and it become". Still, I spend a lot less effort on my AG-generated applications, so it would be dishonest to mix them in with my hand-made software.
 
 One thing I do with my AI-generated applications is, that I try to innovate. The earlier ones on top of the list are your basic warm up, but as we go further, I decide to make more and more innovative applications.
 
