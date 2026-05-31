@@ -204,6 +204,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [Sattyre](https://github.com/Chubek/Sattyre) -:> a software for wrapping other SAT/SMT solvers in;
 - [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins. This projec is discontinued;
 - [PikoRL](https://github.com/Chubek/PikoRL) -:> a regular realine library with bundling mode. Bundling mode creates an executabele from your files with file appended adn stub for executoion prependend,like `makeself`;
+- [Satie](https://github.com/Chubek/Satie) -:> a small, header-only, multi-algorithm SAT library in C++;
 
 ## How to Contact Me
 
