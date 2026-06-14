@@ -194,7 +194,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [Ekipp-Library](https://github.com/Chubek/ekipp-library) -:> a preprocessor construction library. Build your own preprocessors, with a header-only library. Includes `g3`, a preprocessor application that uses Ekipp;
 - [NuPERF](https://github.com/Chubek/nuperf) -:> A modern, retargetable perfect hashing library. Specs are written in Lua. You can define your own target language;
 - [Chomsky3 Library](https://github.com/Chubek/libchomsky3) -:> a regular expression library not focused on matching, rather, compilation. Compiles to JIT'd bytecode VM and C. Useful for lexical scanner generators;
-- [DSLUtils](https://github.com/Chubek/dslutils.hpp) -:> a header-only toolkit in C++ for creating C++-native DSLs, with a combinatory parser to sweeten the deal;
+- [DSLUtils](https://github.com/Chubek/DSLUtils) -:> a header-only toolkit in C++ for creating C++-native DSLs, with a combinatory parser to sweeten the deal;
 - [QaMRpp](https://github.com/Chubek/QaMRpp) -:> a header-only implementation of Lua for C++, with plugins;
 - [Marpelle](https://github.com/Chubek/Marpelle) -:> create ELF/PE/Mach-O Python services with IPC;
 - [EquinoxNG](https://github.com/Chubek/equinox-ng) -:> a new, improved version of Equinox with the EQVSG language;
