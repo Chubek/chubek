@@ -205,7 +205,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins. This projec is discontinued;
 - [PikoRL](https://github.com/Chubek/PikoRL) -:> a regular realine library with bundling mode. Bundling mode creates an executabele from your files with file appended adn stub for executoion prependend,like `makeself`;
 - [Satie](https://github.com/Chubek/Satie) -:> a small, header-only, multi-algorithm SAT library in C++;
-- [Instrati](https://github.com/Chubek/Instrati) -:> a collection of CPU instructions and uArch, with their scrapers, saving the eresults to several formats;
+- [Jiterati](https://github.com/Chubek/Jiterati) -:> A JIT library, with plugins and Lua macros
 
 ## How to Contact Me
 
