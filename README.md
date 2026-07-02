@@ -206,6 +206,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [PikoRL](https://github.com/Chubek/PikoRL) -:> a regular realine library with bundling mode. Bundling mode creates an executabele from your files with file appended adn stub for executoion prependend,like `makeself`;
 - [Satie](https://github.com/Chubek/Satie) -:> a small, header-only, multi-algorithm SAT library in C++;
 - [Jiterati](https://github.com/Chubek/Jiterati) -:> A JIT library, with plugins and Lua macros
+- [EZDox](https://github.com/Chubek/EZDox) -:> A Doxygen-compliant documentation generator
 
 ## How to Contact Me
 
