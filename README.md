@@ -205,8 +205,9 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [OcarinaLNK](https://github.com/Chubek/OcarinaLNK) -:> an extensible linker with an API. You can define formats (e.g. ELF) and machines in Lua, and you can write plugins. This projec is discontinued;
 - [PikoRL](https://github.com/Chubek/PikoRL) -:> a regular realine library with bundling mode. Bundling mode creates an executabele from your files with file appended adn stub for executoion prependend,like `makeself`;
 - [Satie](https://github.com/Chubek/Satie) -:> a small, header-only, multi-algorithm SAT library in C++;
-- [Jiterati](https://github.com/Chubek/Jiterati) -:> A JIT library, with plugins and Lua macros
-- [EZDox](https://github.com/Chubek/EZDox) -:> A Doxygen-compliant documentation generator
+- [Jiterati](https://github.com/Chubek/Jiterati) -:> A JIT library, with plugins and Lua macros;
+- [EZDox](https://github.com/Chubek/EZDox) -:> A Doxygen-compliant documentation generator;
+- [LibShell](https://github.com/Chubek/LibShell) -:> A header-only library that implements the POSIX shell, with a CLI derived from it;
 
 ## How to Contact Me
 
