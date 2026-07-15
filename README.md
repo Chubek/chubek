@@ -214,7 +214,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 * Homepage -> https://let-over-lambda.com
 * Discord -> [.chubak](https://discord.com/users/358017130408706069)
 * Telegram -> [@bidpaafx](https://t.me/bidpaafx)
-* Email -> sami.dena93@gmail.com | chubakbidpaa@riseup.net
+* Email -> sami.dena93@gmail.com | chubakbidpaa@riseup.net (Please CC/BCC both)
 
 
 Thanks, and please take care.
