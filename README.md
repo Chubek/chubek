@@ -208,6 +208,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [Jiterati](https://github.com/Chubek/Jiterati) -:> A JIT library, with plugins and Lua macros;
 - [EZDox](https://github.com/Chubek/EZDox) -:> A Doxygen-compliant documentation generator;
 - [LibShell](https://github.com/Chubek/LibShell) -:> A header-only library that implements the POSIX shell, with a CLI derived from it;
+- [MuketteX](https://github.com/Chubek/MuketteX) -:> A markdown pager;
 
 ## How to Contact Me
 
@@ -218,4 +219,3 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 
 
 Thanks, and please take care.
-
