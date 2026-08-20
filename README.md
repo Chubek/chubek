@@ -209,6 +209,8 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [EZDox](https://github.com/Chubek/EZDox) -:> A Doxygen-compliant documentation generator;
 - [LibShell](https://github.com/Chubek/LibShell) -:> A header-only library that implements the POSIX shell, with a CLI derived from it;
 - [MuketteX](https://github.com/Chubek/MuketteX) -:> A markdown pager;
+- [TTyPack](https://github.com/Chubek/TTyPack) -:> A collection of some fifty C++ header-only libraries related to terminals, from manipulation, to rendering, to IPC & UI;
+- [ExolangTk](https://github.com/Chubek/ExolangTk) -:> A collection of C header-only libraries related to building native interfaces, FFI, debuggers and interoperability layers;
 
 ## How to Contact Me
 
