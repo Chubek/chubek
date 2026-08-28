@@ -1,4 +1,4 @@
-Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel's 2018 volume on SLE, "A software language is a formal system wherein the syntsax and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's "CSP" and other "Process Algebra" languages are *not* software languages, they are abstract mathematical models. Lambda Calculus and its many variants are *not* a software language, they are a model for software language implmenetation. However, JSON *is* a software language, so is XML, or YAML. Python and C, are, too. WebAssembly is a SL, but EBNF is not a SL. "Tooling" is the key here. I am an SLE 'tooling' expert. This means, I make meta-programs that take one software language; query, analyze, rewrite, and transform it, and output the same software language, or another software language. My work is mostly concerned with:
+Hey'all good folks. I work at Poyan Afzar Fanaavar, as a *Software Language Tooling Engineer* by trade. A mouthful, yes, but to quote Ralph Lammel's 2018 volume on SLE, "A software language is a formal system wherein the synthase and semantics are only meaningful in software". So, DeBruijn's "Automath" is **not** a software language. Hoare's "CSP" and other "Process Algebra" languages are *not* software languages, they are abstract mathematical models. Lambda Calculus and its many variants are *not* a software language, they are a model for software language implementation. However, JSON *is* a software language, so is XML, or YAML. Python and C, are, too. WebAssembly is a SL, but EBNF is not a SL. "Tooling" is the key here. I am an SLE 'tooling' expert. This means, I make meta-programs that take one software language; query, analyze, rewrite, and transform it, and output the same software language, or another software language. My work is mostly concerned with:
 
 1. Domain-locked and Domain-specific languages;
 2. Extensibility of software through tooling;
@@ -211,6 +211,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [ExolangTk](https://github.com/Chubek/ExolangTk) -:> A collection of C header-only libraries related to building native interfaces, FFI, debuggers and interoperability layers;
 - [TeXScrape](https://github.com/Chubek/TeXScrape) -:> A re-implementation of TeX82 and toolchain using Agentic AI;
 - [Jiterati](https://github.com/Chubek/Jiterati) -:> A small-footprint JIT compiler with a typed IR, and Lua-based macros;
+- [Termbin](https://github.com/Chubek/Termin) -:> A terminal-based pastebin; with a secure P2P protocol for transferring pastes;
 
 ## How to Contact Me
 
