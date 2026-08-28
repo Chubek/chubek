@@ -211,7 +211,7 @@ One thing I do with my AI-generated applications is, that I try to innovate. The
 - [ExolangTk](https://github.com/Chubek/ExolangTk) -:> A collection of C header-only libraries related to building native interfaces, FFI, debuggers and interoperability layers;
 - [TeXScrape](https://github.com/Chubek/TeXScrape) -:> A re-implementation of TeX82 and toolchain using Agentic AI;
 - [Jiterati](https://github.com/Chubek/Jiterati) -:> A small-footprint JIT compiler with a typed IR, and Lua-based macros;
-- [Termbin](https://github.com/Chubek/Termin) -:> A terminal-based pastebin; with a secure P2P protocol for transferring pastes;
+- [Termbin](https://github.com/Chubek/Termbin) -:> A terminal-based pastebin; with a secure P2P protocol for transferring pastes;
 
 ## How to Contact Me
 
