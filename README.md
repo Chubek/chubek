@@ -180,6 +180,8 @@ I still toil and fether over my AI-generated application. I plan them out, I sca
 
 One thing I do with my AI-generated applications is, that I try to innovate. The earlier ones on top of the list are your basic warm up, but as we go further, I decide to make more and more innovative applications.
 
+- [DiftrayWM](https://github.com/Chubek/diftraywm) -:> a windowing system for both X11 and Wayland inspired by Jupyter Notebook and IPython
+- [ProwseTk](https://github.com/Chubek/ProwseTk) -:> a proper browser with no rendering (as of now), created for marionetting
 - [luaROFF](https://github.com/Chubek/luaROFF) -:> a preprocessor for GROFF that embeds Lua. Provides `lroff` library, which gives access to all the GROFF facilities, allowing interospection and intercession of your ROFF pipeline;
 - [LibGLR](https://github.com/Chubek/libglr) -:> a library that aides with creation of GLR parsers, with disambiguation and rewrite facilities. Provides bindings via SWIG, and several custom wrappers -- e.g. glrpp, the C++ wrapper which implements a native DSL
 - [Simdette](https://github.com/Chubek/simdette) -:> a header-only C library providing robust target-agnostic vector operations, with a native DSL and operator overloading. You could write SIMD code as if you are writing normal C code;
